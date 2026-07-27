@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "005",
+  "title": "National Wealth and Human Capital Decentralization Institutional Power Map",
+  "nodes": [
+    {
+      "id": "trust_board",
+      "name": "Board of Trustees (National Citizen Wealth Dividend Trust)",
+      "type": "statutory_trust",
+      "appointment_chain": "President on recommendation of CJI, PM, Leader of Opposition selection committee",
+      "funding_source": "Statutory Citizen Wealth Dividend Fund (independent of Consolidated Fund)",
+      "powers": ["Capital asset holding", "Citizen dividend distribution", "Trust management"],
+      "checks": ["Independent Special Integrity Ombudsperson", "CAG Special Audit Cell", "Parliamentary scrutiny"],
+      "removal_mechanism": "CJI-led inquiry on proven misbehavior or incapacity"
+    },
+    {
+      "id": "ombudsperson",
+      "name": "Special Integrity Ombudsperson (Special Anti-Corruption Directorate)",
+      "type": "oversight_body",
+      "appointment_chain": "CJI-led consensus selection panel",
+      "funding_source": "Statutory trust administrative allocation",
+      "powers": ["Independent investigation of corruption", "Asset attachment", "Prosecution before Special Court"],
+      "checks": ["Special Anti-Corruption Court oversight", "High Court judicial review"],
+      "removal_mechanism": "Same as High Court Judge"
+    },
+    {
+      "id": "cci",
+      "name": "Competition Commission of India (CCI)",
+      "type": "regulatory_commission",
+      "appointment_chain": "Statutory selection committee under Competition Act 2002",
+      "funding_source": "Parliamentary appropriation",
+      "powers": ["Cross-sector market concentration audit", "Structural unbundling orders"],
+      "checks": ["NCLAT appellate review", "Supreme Court of India"],
+      "removal_mechanism": "Section 11 Competition Act 2002"
+    },
+    {
+      "id": "special_court",
+      "name": "Special Anti-Corruption Courts for Wealth Offenses",
+      "type": "judiciary",
+      "appointment_chain": "Designated by High Court Chief Justice",
+      "funding_source": "State Judicial Budget / Consolidated Fund",
+      "powers": ["Adjudication of wealth tax fraud", "Misappropriation trials", "Asset forfeiture orders"],
+      "checks": ["High Court and Supreme Court appeal"],
+      "removal_mechanism": "Judicial discipline under Constitution"
+    }
+  ],
+  "power_chains": [
+    {
+      "chain_id": "wealth_dividend_chain",
+      "description": "Progressive wealth tax collection -> Credit to Citizen Wealth Fund -> Distribution to citizens",
+      "vulnerability": "Risk of fund siphoning or identity fraud",
+      "mitigation": "Cryptographic zero-trust audit trail + mandatory 10-year to life criminal imprisonment + CAG Special Audit"
+    },
+    {
+      "chain_id": "antitrust_unbundling_chain",
+      "description": "Annual concentration audit -> Structural unbundling order -> Corporate divestment",
+      "vulnerability": "Regulatory bribery or suppression of audit findings",
+      "mitigation": "Criminal offense for suppression (Clause 21) + mandatory public disclosure of audit findings"
+    }
+  ]
+}

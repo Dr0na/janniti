@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "005",
+  "topic": "Wealth Decentralization and Economic Concentration Reform Ideas",
+  "as_of_date": "2026-07-27",
+  "jurisdictions": [
+    {
+      "name": "India",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/",
+        "https://www.cci.gov.in/",
+        "https://www.rbi.org.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Constitution",
+      "title": "Constitution of India, Article 39(b) and 39(c)",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "publisher": "Ministry of Law and Justice",
+          "pinpoint": "Article 39(b), (c)",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "limitations": "Directive principles of state policy; requires statutory legislative implementation."
+    },
+    {
+      "id": "finding-002",
+      "instrument_type": "Act",
+      "title": "Competition Act, 2002",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/2010",
+          "publisher": "Parliament of India",
+          "pinpoint": "Sections 3, 4, 5",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "limitations": "Focuses on single-market abuse; lacks conglomerate cross-sector anti-trust unbundling provisions."
+    }
+  ],
+  "gaps": [
+    "Repeal of Wealth Tax Act 1957 in 2015 and Estate Duty Act 1953 in 1985 leaves wealth accumulation un-levied at capital level.",
+    "Lack of formal framework for employee ownership trusts and sovereign citizen wealth funds."
+  ],
+  "next_step": "further_research"
+}

@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "National Wealth and Human Capital Decentralization Bill Legal Provenance Ledger",
+    "jurisdiction": "India",
+    "as_of": "2026-07-27",
+    "generated_at": "2026-07-27T15:43:00+05:30"
+  },
+  "claims": [
+    {
+      "id": "C-001",
+      "text": "Article 39(b) and 39(c) of the Constitution direct the State to distribute material resources and prevent wealth concentration to common detriment.",
+      "classification": "current_law",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Constitution of India",
+          "authority_type": "constitution",
+          "issuer": "Ministry of Law and Justice, Government of India",
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "document_date": "1950-01-26",
+          "version_or_stage": "Part IV Directive Principles",
+          "pinpoint": "Article 39(b), (c)",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Upheld and affirmed in Kesavananda Bharati (1973) and Sanjeev Coke (1983).",
+      "limitations": "Directive Principles require statutory enactment for enforcement.",
+      "reviewer_action": "Verified against current Constitution text."
+    },
+    {
+      "id": "C-002",
+      "text": "Parliament has legislative competence over taxes on the capital value of assets under List I Entry 86.",
+      "classification": "current_law",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Constitution of India, Schedule VII",
+          "authority_type": "constitution",
+          "issuer": "Parliament of India",
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "document_date": "1950-01-26",
+          "version_or_stage": "Schedule VII List I Entry 86",
+          "pinpoint": "List I Entry 86",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Wealth Tax Act 1957 was enacted under this entry before repeal in 2015.",
+      "limitations": "Excludes agricultural land, which falls under State List Entry 46/49.",
+      "reviewer_action": "Verified against Seventh Schedule of Constitution of India."
+    },
+    {
+      "id": "C-003",
+      "text": "Citizens enjoy fundamental rights to move freely and reside anywhere in India under Article 19(1)(d) and 19(1)(e).",
+      "classification": "current_law",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Constitution of India, Part III",
+          "authority_type": "constitution",
+          "issuer": "Ministry of Law and Justice",
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "document_date": "1950-01-26",
+          "version_or_stage": "Part III Fundamental Rights",
+          "pinpoint": "Article 19(1)(d), (e)",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Controlled by basic structure doctrine and strict proportionality tests.",
+      "limitations": "Prohibits coercive internal mobility restrictions or forced human capital relocation.",
+      "reviewer_action": "Verified against Part III of the Constitution."
+    }
+  ]
+}
