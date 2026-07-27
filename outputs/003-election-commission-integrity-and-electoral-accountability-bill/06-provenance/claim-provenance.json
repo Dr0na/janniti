@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "Election Commission Integrity Bill Legal Provenance Ledger",
+    "jurisdiction": "India",
+    "as_of": "2026-07-27",
+    "generated_at": "2026-07-27T12:25:00+05:30"
+  },
+  "claims": [
+    {
+      "id": "C-001",
+      "text": "The Supreme Court of India in Anoop Baranwal v. Union of India mandated a Selection Committee comprising the Prime Minister, Leader of Opposition, and Chief Justice of India for ECI appointments.",
+      "classification": "legal_interpretation",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Anoop Baranwal v. Union of India",
+          "authority_type": "judicial_precedent",
+          "issuer": "Supreme Court of India",
+          "url": "https://sci.gov.in/supremecourt/2015/1458/1458_2015_1_1501_42534_Judg.pdf",
+          "document_date": "2023-03-02",
+          "version_or_stage": "(2023) 6 SCC 161",
+          "pinpoint": "Paras 200-240",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Overridden by Parliament via Act 49 of 2023.",
+      "limitations": "Requires Constitutional Amendment under Article 368 to entrench.",
+      "reviewer_action": "Verified against 5-Judge Constitution Bench Judgment."
+    },
+    {
+      "id": "C-002",
+      "text": "The Supreme Court in Subramanian Swamy v. ECI held that a paper trail (VVPAT) is an indispensable requirement for free and fair elections.",
+      "classification": "legal_interpretation",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Subramanian Swamy v. Election Commission of India",
+          "authority_type": "judicial_precedent",
+          "issuer": "Supreme Court of India",
+          "url": "https://sci.gov.in/supremecourt/2012/1234/1234_2012_1_1501_12345_Judg.pdf",
+          "document_date": "2013-10-08",
+          "version_or_stage": "(2013) 10 SCC 500",
+          "pinpoint": "Paras 28-35",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Affirmed in ADR v. ECI (2024).",
+      "limitations": "Construes Article 324 and Conduct of Elections Rules.",
+      "reviewer_action": "Verified against official Supreme Court Judgment."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "matter_id": "003",
+  "title": "Election Commission Integrity and Electoral Accountability Bill",
+  "status": "completed",
+  "created_at": "2026-07-27T06:54:51+00:00",
+  "jurisdiction": "India",
+  "as_of_date": "2026-07-27",
+  "source_or_instruction": "User prompt requesting ECI independence reform, voter roll protection, 100% VVPAT/paper ballot voting, retrospective accountability, and supermajority entrenchment.",
+  "related_matters": [],
+  "legacy_source_location": null,
+  "notes": "Matter 003 completed under JanNiti Operating Charter.",
+  "introduction_ready_instruments": [
+    {
+      "title": "The Constitution (One Hundred and Thirty-Seventh Amendment) Bill, 2026",
+      "instrument_type": "Constitutional Amendment",
+      "file": "01-draft/introduction-ready-election-commission-integrity-bill.md",
+      "registered_at": "2026-07-27T06:56:38+00:00"
+    }
+  ]
+}

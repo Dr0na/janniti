@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "003",
+  "topic": "Election Commission Integrity, ECI Accountability, Voter Roll Protection, and Paper Ballot Auditing",
+  "as_of_date": "2026-07-27",
+  "jurisdictions": [
+    {
+      "name": "India",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://www.indiacode.nic.in/",
+        "https://sci.gov.in/",
+        "https://legislative.gov.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Act",
+      "title": "Chief Election Commissioner and other Election Commissioners Act 2023",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/20455",
+          "publisher": "Ministry of Law and Justice",
+          "pinpoint": "Section 7, 8",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "limitations": "Selection panel dominated by executive majority (2:1)."
+    },
+    {
+      "id": "finding-002",
+      "instrument_type": "Judicial Precedent",
+      "title": "Anoop Baranwal v. Union of India",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://sci.gov.in/supremecourt/2015/1458/1458_2015_1_1501_42534_Judg.pdf",
+          "publisher": "Supreme Court of India",
+          "pinpoint": "Paras 200-240",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "limitations": "5-Judge Bench mandated CJI participation in Selection Committee."
+    }
+  ],
+  "gaps": [
+    "Constitutional amendment required to entrench CJI selection panel, equalize EC removal protections, and mandate 100% VVPAT/paper ballot options."
+  ],
+  "next_step": "draft"
+}

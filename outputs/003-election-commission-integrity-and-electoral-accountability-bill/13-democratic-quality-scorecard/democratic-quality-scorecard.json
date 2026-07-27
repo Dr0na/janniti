@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "title": "Election Commission Integrity Bill Democratic Quality Scorecard",
+  "as_of": "2026-07-27",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects fundamental right to adult suffrage and non-exclusion from voter rolls",
+      "uncertainty": "Requires field officer vigilance",
+      "corrective_action": "Statutory 30-day written notice requirement"
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Equal removal protection for ECs and non-discriminatory voter roll access",
+      "uncertainty": "Administrative delays",
+      "corrective_action": "Special Courts under RPA 1951"
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "7-14 yrs imprisonment for CEC/ECs/officers colluding in electoral fraud or voter deletion",
+      "uncertainty": "Court trial timelines",
+      "corrective_action": "6-month trial limit in Special Courts"
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Eliminates executive dominance over ECI appointments via independent PM+LOP+CJI panel",
+      "uncertainty": "Political opposition",
+      "corrective_action": "Constitutional Amendment under Art 368"
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "100% VVPAT paper slip count and public GIS voter deletion portal",
+      "uncertainty": "Bandwidth in remote polling stations",
+      "corrective_action": "Physical paper slip logs"
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Physical paper slip count legally overrides EVM electronic count in discrepancy",
+      "uncertainty": "Recount time",
+      "corrective_action": "Dedicated VVPAT counting tables"
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "Option for paper ballot voting at every polling station",
+      "uncertainty": "Ballot paper printing",
+      "corrective_action": "Pre-printed paper ballots"
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "Voter right to inspect proposed deletion on public GIS portal and appeal to District Judge",
+      "uncertainty": "Public awareness",
+      "corrective_action": "Mandatory local Panchayat/Municipal publishing"
+    }
+  ]
+}

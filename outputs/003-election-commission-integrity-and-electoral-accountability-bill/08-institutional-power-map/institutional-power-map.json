@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "title": "Election Commission Integrity Institutional Power Map",
+  "jurisdiction": "India",
+  "as_of": "2026-07-27",
+  "actors": [
+    {
+      "id": "selection_committee",
+      "name": "Selection Committee (PM, LOP, CJI)",
+      "type": "agency"
+    },
+    {
+      "id": "eci",
+      "name": "Election Commission of India (CEC & ECs)",
+      "type": "public_authority"
+    },
+    {
+      "id": "special_courts",
+      "name": "Designated Special Electoral Courts",
+      "type": "court"
+    },
+    {
+      "id": "voters",
+      "name": "Registered Voters & Candidates",
+      "type": "public_authority"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "selection_committee",
+      "to": "eci",
+      "power": "recommendation",
+      "check": "2/3rd consensus requirement & public candidate shortlists",
+      "public_record": true
+    },
+    {
+      "from": "voters",
+      "to": "eci",
+      "power": "paper_audit_demand",
+      "check": "100% VVPAT slip count & paper ballot option",
+      "public_record": true
+    },
+    {
+      "from": "special_courts",
+      "to": "eci",
+      "power": "adjudication",
+      "check": "7-14 yrs imprisonment for electoral fraud & voter deletion",
+      "public_record": true
+    }
+  ]
+}
