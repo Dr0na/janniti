@@ -200,11 +200,21 @@ In this Act, unless the context otherwise requires,—
 
   (d) financial literacy, digital business management, and patent filing guidance.
 
-### 16. Statutory national R&D expenditure target and funding allocation
+### 16. Mandatory national education and R&D budget allocation targets and anti-cut protection
 
-1. The Central Government and State Governments shall progressively increase public expenditure on Research and Development to achieve a national target of not less than three per cent of Gross Domestic Product within ten years from the commencement of this Act.
+1. The Central Government and State Governments shall mandatorily allocate and expend—
 
-2. Not less than fifty per cent of the national R&D budget allocated under sub-section (1) shall be directed to basic scientific research, medical innovation, agricultural sustainability, clean energy technologies, and higher education university research laboratories.
+  (a) not less than six per cent of Gross Domestic Product for public education in every financial year; and
+
+  (b) not less than three per cent of Gross Domestic Product for national scientific, technological, and academic research and development in every financial year.
+
+2. All monetary amounts allocated under sub-section (1) shall be credited directly to a dedicated statutory trust fund to be called the National Education and Research Trust Fund.
+
+3. The National Education and Research Trust Fund shall be a non-lapsable, non-divertable fund, and any unspent balance at the end of a financial year shall not lapse to the Consolidated Fund of India or the Consolidated Fund of any State, but shall carry forward exclusively for capital educational infrastructure and research grants.
+
+4. No executive authority, budget revision, impoundment order, or administrative notification shall reduce, defer, or divert the mandatory public education and research budget allocations specified under sub-section (1).
+
+5. Not less than fifty per cent of the national R&D budget allocated under paragraph (b) of sub-section (1) shall be directed to basic scientific research, medical innovation, agricultural sustainability, clean energy technologies, and university research laboratories.
 
 ### 17. National Scientific Research Foundation
 

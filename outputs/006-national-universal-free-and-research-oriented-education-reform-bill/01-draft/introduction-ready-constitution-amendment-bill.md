@@ -40,7 +40,9 @@ After Article 21A of the Constitution, the following Articles shall be inserted,
 
 (5) Education under Article 21A shall integrate practical field-based ecological conservation, humane treatment of animals under clause (g) of Article 51A, practical traffic safety, civic sanitation, and a balanced fifty-fifty ratio between theoretical instruction and practical experiential learning.
 
-(6) The State shall progressively allocate not less than three per cent of Gross Domestic Product towards national scientific, technological, and academic research and development."
+(6) The State shall mandatorily allocate and expend not less than six per cent of Gross Domestic Product for public education and not less than three per cent of Gross Domestic Product for national scientific, technological, and academic research and development in every financial year, credited to a dedicated, non-lapsable, and non-divertable National Education and Research Trust Fund.
+
+(7) No executive authority, budget revision, or ordinary law shall reduce, impound, defer, or divert the mandatory public education and research budget allocations specified under clause (6)."
 
 "21C. Constitutional Entrenchment and Anti-Dilution Safeguard.—
 
