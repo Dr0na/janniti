@@ -4,20 +4,22 @@
 
 - **Jurisdiction**: Union of India (Parliament of India, operating under Article 368 of the Constitution of India, amending the Tenth Schedule, Article 102(2), Article 191(2), Article 75(1B), Article 164(1B), Article 361, and the Representation of the People Act, 1951).
 - **As-of Date**: 2026-07-27
-- **Client / Deliverable**: Updated legislative formulation, constitutional amendment text, companion statutory provisions, power map, and implementation framework incorporating automatic seat dissolution by operation of law and non-exempt criminal liability for Prime Ministers, Home Ministers, Ministers, and ruling party leaders.
-- **Core Legal Findings & Refined Reform Architecture**:
-  1. **Automatic Seat Dissolution by Operation of Law (No Judicial or ECI Discretion)**: Defection or joining another political party results in the **immediate, self-executing dissolution of the member's seat by operation of law** from the moment the act occurs. Neither Speakers, nor Governors, nor Courts, nor the Election Commission of India (ECI) possess discretionary authority to stay, condone, or suspend the dissolution. The ECI's role is restricted to a mandatory 7-day administrative notification of by-election.
-  2. **Complete Deletion of Group Defection / Merger Exemptions (Paragraph 4 Repeal)**: Paragraph 4 of the Tenth Schedule (2/3rd merger exemption) is completely repealed. No exemption exists for 2/3rd or 100% defection.
-  3. **Explicit Non-Exempt Criminal Liability for Executive Heads (PM, Home Minister, Ministers)**: Amends Section 8C of the Representation of the People Act 1951 and Prevention of Corruption Act 1988 to specify that any person who authorizes, directs, finances, or facilitates horse-trading—**explicitly including any Minister, the Home Minister, the Prime Minister, a Chief Minister, or ruling party office-bearer**—shall be punished with **7 to 14 years rigorous imprisonment**, mandatory asset forfeiture, immediate loss of executive office, and a **10-year electoral disqualification**. Executive immunity under Article 361 or official capacity defenses are explicitly barred.
+- **Client / Deliverable**: Updated legislative formulation, constitutional amendment text, companion statutory provisions, power map, and implementation framework incorporating automatic seat dissolution by operation of law, non-exempt criminal liability for executive heads, and **robust anti-weaponization safeguards to protect the Prime Minister and executive heads against malicious political prosecution**.
+- **Core Legal Findings & Refined Safeguard Architecture**:
+  1. **Automatic Seat Dissolution by Operation of Law**: Defection or joining another political party results in immediate, self-executing seat vacation by operation of law from the moment the act occurs. ECI's role is strictly limited to 7-day administrative by-election notification.
+  2. **Complete Deletion of Group Defection / Merger Exemptions (Paragraph 4 Repeal)**: Paragraph 4 of the Tenth Schedule (2/3rd merger exemption) is completely omitted.
+  3. **High-Threshold Safeguards Against Misuse / Weaponization Against Prime Minister**:
+     - **Judicial Screening Gate (Section 8C(4))**: No investigation, FIR, or prosecution under Section 8C against the Prime Minister or a Chief Minister may be initiated upon a mere complaint. Any complaint must be submitted directly to a **3-Judge Bench of the Supreme Court of India** (or High Court for Chief Ministers), which must certify the existence of *prima facie* verifiable financial or documentary evidence before investigation begins.
+     - **Severe Penalty for Malicious / Fabricated Complaints (Section 8D)**: Whosoever files a false, frivolous, or politically motivated complaint seeking to frame or destabilize the Prime Minister or a Minister shall be punished with **3 to 7 years rigorous imprisonment** and mandatory fine.
+     - **Preservation of Office Pending Final Judicial Determination**: Forfeiture of Cabinet office and electoral disqualification under Section 8C(3) take effect **only upon conviction by a Special Court** (or unanimous finding of the Supreme Court), ensuring that false allegations cannot be weaponized to cause the premature collapse of an elected national government before guilt is proven beyond reasonable doubt.
 
 ---
 
 ## 2. Problem, Evidence, and Existing-Law Map
 
-Existing Indian legal frameworks governing anti-defection suffer from structural defects:
-- **Paragraph 4 (Merger Exception) Defection Loophole**: Enacted via the 52nd Amendment (1985) and retained in the 91st Amendment (2003), Paragraph 4 protects defections if 2/3rd of the legislature party agrees to a merger. In practice, political cartels bypass party voters by engineering 2/3rd defections in legislature parties without any genuine organizational merger (*Subhash Desai* 2023 SC).
-- **Discretionary Delay & Partisan Speaker Adjudication**: Unconstrained discretion over defection petitions enables partisan delays, selective non-adjudication, and protection of defectors during crucial trust votes (*Keisham Meghachandra Singh* 2020 SC).
-- **Executive Immunity & Top-Level Inducement**: Ruling ministers, Home Ministers, and party executives frequently orchestrate horse-trading using state machinery while claiming official immunity or executive privilege.
+Existing Indian legal frameworks governing anti-defection and executive accountability face twin challenges:
+- **Loophole Vulnerability**: Paragraph 4 2/3rd merger exceptions enable wholesale horse-trading and state government destabilization (*Subhash Desai* 2023 SC).
+- **Weaponization & Political Vendetta Vulnerability**: Highly severe penal provisions targeting constitutional heads of government (Prime Minister / Chief Ministers) risk being weaponized by political adversaries or partisan entities filing bad-faith complaints during elections or trust votes. Robust due-process screening is essential to protect constitutional stability.
 
 ---
 
@@ -26,7 +28,7 @@ Existing Indian legal frameworks governing anti-defection suffer from structural
 | Constitutional Provision | Scope & Authority | Statutory Alignment | Judicial Precedents & Rights Safeguards |
 |---|---|---|---|
 | Tenth Schedule & Art. 102(2) / 191(2) | Disqualification for defection in Parliament & State Assemblies | Automatic seat dissolution by operation of law; complete repeal of Paragraph 4 merger loophole | *Kihoto Hollohan v. Zachillhu* (1992); *Keisham Meghachandra Singh* (2020); *Subhash Desai* (2023) |
-| Article 361 & Article 75 / 164 | Executive privileges and ministerial appointment terms | Explicitly bars executive immunity for horse-trading; mandatory 6-year bar on Cabinet berths | Establishes total executive accountability regardless of ministerial rank |
+| Article 361 & Article 75 / 164 | Executive privileges and ministerial accountability | Strips executive immunity for corrupt horse-trading while establishing Supreme Court judicial screening for complaints against PM | Balances executive accountability with anti-vendetta protection against bad-faith prosecution |
 | Article 324 | Election Commission of India administrative duties | Mandates 7-day by-election notification; removes discretionary power to stay dissolution | Pure administrative mandate without discretionary delay |
 | Article 368(2) Proviso | Constitutional amendment procedure requiring State Assembly ratification | Requires 2/3rd parliamentary majority + ratification by 50%+ State Assemblies | Protects federal balance and state legislative integrity |
 
@@ -36,8 +38,8 @@ Existing Indian legal frameworks governing anti-defection suffer from structural
 
 | Option | Description | Pros | Cons / Risks | Recommendation |
 |---|---|---|---|---|
-| **Option A: Discretionary ECI Trial Only** | Allow ECI to adjudicate defection with discretionary stay powers. | Standard judicial model. | Leaves open risk of litigation delay before seat is dissolved. | Rejected. |
-| **Option B (Recommended): Automatic Dissolution by Operation of Law + Non-Exempt Penalty for PM/Ministers** | Immediate self-executing seat dissolution upon defection; ECI 7-day administrative notice; 7-14 yrs imprisonment for PM/Ministers/cartels financing horse-trading. | 100% loophole-free; eliminates all discretionary delay; enforces absolute executive deterrence regardless of rank. | Requires 2/3rd parliamentary majority and State ratification. | **Adopted.** |
+| **Option A: Unfiltered Complaints Against Executive Heads** | Allow any police station or agency to register FIRs against PM based on unverified allegations. | Simple filing process. | Extreme risk of political vendettas, malicious framing, and artificial national government collapse. | Rejected as dangerous to democracy. |
+| **Option B (Recommended): Dual Accountability & Supreme Court Judicial Gate** | Automatic seat dissolution for defectors; 7-14 yrs imprisonment for actual horse-trading; mandatory Supreme Court 3-Judge Bench screening before investigation of PM; 3-7 yrs imprisonment for false complaints. | Maximum deterrence against horse-trading, zero defection loopholes, 100% protection of Prime Minister against political framing. | **Adopted.** |
 
 ---
 
@@ -46,8 +48,8 @@ Existing Indian legal frameworks governing anti-defection suffer from structural
 | Entity / Power Holder | Statutory Duty / Power | Independent Check / Counterweight | Statutory Remedy / Sanction on Breach |
 |---|---|---|---|
 | **Elected Legislator (MP / MLA)** | Obligation to maintain party mandate; prohibited from defecting or joining another party. | Automatic seat dissolution by operation of law from moment of defection. | Immediate seat forfeiture; mandatory by-election; 6-year ministerial ban; 6-year electoral ban for corrupt defection. |
-| **Prime Minister, Home Minister, Ministers, & Party Heads** | Absolute prohibition against inducing, financing, or directing defection or horse-trading. | Special Anti-Corruption Courts & CAG forensic financial audit. | Mandatory 7 to 14 years rigorous imprisonment; asset forfeiture; immediate loss of Cabinet office; 10-year electoral ban. |
-| **Election Commission of India (ECI)** | Administrative duty to issue by-election notification within 7 days of receiving defection report. | Writ of Mandamus by High Court / Supreme Court. | No discretionary power to stay or alter automatic seat dissolution. |
+| **Prime Minister & Chief Ministers** | Absolute prohibition against inducing, financing, or directing defection or horse-trading. | Mandatory prior judicial screening by 3-Judge Bench of Supreme Court before FIR / investigation. | Mandatory 7 to 14 years rigorous imprisonment upon conviction; asset forfeiture; 10-year electoral ban. |
+| **Malicious Accusers & Fabricated Complainants** | Prohibition against filing bad-faith, frivolous, or politically motivated complaints against PM/Ministers. | Supreme Court Bench evaluation of complaint evidence. | Mandatory 3 to 7 years rigorous imprisonment and fine for malicious prosecution. |
 
 ---
 
@@ -57,7 +59,7 @@ Existing Indian legal frameworks governing anti-defection suffer from structural
 
 **BILL NO. ______ OF 2026**
 
-*A Bill further to amend the Constitution of India to eliminate all exemptions for defection under the Tenth Schedule, to mandate automatic seat dissolution by operation of law upon defection, to transfer administrative notification duties to the Election Commission of India, to bar defecting members from holding ministerial office, and to strip executive immunity for political horse-trading.*
+*A Bill further to amend the Constitution of India to eliminate all exemptions for defection under the Tenth Schedule, to mandate automatic seat dissolution by operation of law upon defection, to transfer administrative notification duties to the Election Commission of India, to bar defecting members from holding ministerial office, and to establish judicial screening safeguards for constitutional heads of executive.*
 
 BE it enacted by Parliament in the Seventy-Seventh Year of the Republic of India as follows:—
 
@@ -86,7 +88,7 @@ In Article 75 and Article 164 of the Constitution, for clause (1B), the followin
 
 **4. Amendment of Article 361.**
 In Article 361 of the Constitution, after clause (4), the following clause shall be inserted, namely:—
-> "(5) Nothing in this Article shall extend any immunity, privilege, or protection to any person, including the Prime Minister, the Home Minister, any Minister of the Union or State, or any Governor, in respect of any act involving the financing, inducement, direction, or facilitation of political defection or horse-trading under the Representation of the People Act, 1951."
+> "(5) Subject to the prior judicial authorization requirements specified in Section 8C of the Representation of the People Act, 1951, nothing in this Article shall extend immunity to any person, including the Prime Minister, the Home Minister, any Minister, or any Governor, in respect of an established act of financing, directing, or facilitating political horse-trading."
 
 ---
 
@@ -94,7 +96,7 @@ In Article 361 of the Constitution, after clause (4), the following clause shall
 
 **BILL NO. ______ OF 2026**
 
-*A Bill further to amend the Representation of the People Act, 1951, and the Prevention of Corruption Act, 1988, to criminalize political horse-trading by executive heads, ministers, and ruling party leaders, impose mandatory imprisonment and asset forfeiture, and enforce electoral disqualifications.*
+*A Bill further to amend the Representation of the People Act, 1951, and the Prevention of Corruption Act, 1988, to criminalize political horse-trading, impose mandatory imprisonment and asset forfeiture, establish judicial screening safeguards for the Prime Minister and executive heads against malicious complaints, and penalize false complaints.*
 
 BE it enacted by Parliament in the Seventy-Seventh Year of the Republic of India as follows:—
 
@@ -102,7 +104,7 @@ BE it enacted by Parliament in the Seventy-Seventh Year of the Republic of India
 (1) This Act may be called the Representation of the People and Electoral Integrity (Amendment) Act, 2026.
 (2) It extends to the whole of India.
 
-**2. Insertion of Section 8B and 8C in Act 43 of 1951.**
+**2. Insertion of Sections 8B, 8C, and 8D in Act 43 of 1951.**
 After Section 8A of the Representation of the People Act, 1951, the following Sections shall be inserted, namely:—
 
 > **"8B. Disqualification on ground of Corrupt Defection.**
@@ -110,25 +112,29 @@ After Section 8A of the Representation of the People Act, 1951, the following Se
 > (2) Whosoever commits the offence of Corrupt Defection shall be punished with **rigorous imprisonment for a term which shall not be less than five years but which may extend to ten years**, and shall also be liable to fine.
 > (3) A person convicted under sub-section (2) shall be disqualified from contesting any election to Parliament, State Legislatures, or local bodies for a period of **six years** from the date of conviction."
 
-> **"8C. Offence of Financing or Directing Horse-Trading by Executive Authorities and Party Leaders.**
-> (1) Whosoever offers, promises, pays, facilitates, directs, or authorizes any monetary gratification, ministerial post, or political benefit to induce an elected member to defect—**explicitly including any Minister, the Home Minister, the Prime Minister, a Chief Minister, or ruling party office-bearer**—shall be guilty of the offence of Executive Horse-Trading.
+> **"8C. Offence of Executive Horse-Trading and Prior Judicial Screening for Constitutional Heads.**
+> (1) Whosoever offers, promises, pays, facilitates, directs, or authorizes any monetary gratification, ministerial post, or political benefit to induce an elected member to defect—including any Minister, the Home Minister, the Prime Minister, a Chief Minister, or ruling party office-bearer—shall be guilty of the offence of Executive Horse-Trading.
 > (2) Whosoever commits the offence of Executive Horse-Trading shall be punished with **rigorous imprisonment for a term which shall not be less than seven years but which may extend to fourteen years**, and shall suffer mandatory forfeiture of all personal assets.
-> (3) Any Minister, Home Minister, Prime Minister, or Chief Minister convicted under sub-section (2) shall immediately forfeit executive office and shall be permanently disqualified from holding any public or political office."
+> (3) **Prior Judicial Screening Gate for Prime Minister and Chief Ministers**: Notwithstanding anything contained in the Code of Criminal Procedure, 1973 / Bharatiya Nagarik Suraksha Sanhita, 2023, no police report, FIR, investigation, or prosecution under sub-section (1) against the Prime Minister or a Chief Minister shall be registered or initiated except upon prior written certification by a **3-Judge Bench of the Supreme Court of India** (or High Court for a Chief Minister), finding that *prima facie* verifiable financial or documentary evidence exists.
+> (4) **Preservation of Office Pending Conviction**: Forfeiture of Cabinet office and electoral disqualification under sub-section (2) shall take effect only upon final conviction by a Special Court, ensuring that unproven allegations cannot force the premature collapse of an elected government."
+
+> **"8D. Penalty for Malicious or Fabricated Complaints against Executive Heads.**
+> Whosoever files a false, frivolous, fabricated, or politically motivated complaint under Section 8C seeking to frame, harass, or destabilize the Prime Minister, a Chief Minister, or any Minister shall be guilty of an offence under this Section and shall be punished with **rigorous imprisonment for a term which shall not be less than three years but which may extend to seven years**, and shall also be liable to mandatory fine."
 
 ---
 
 ## 7. Clause-by-Clause Explanatory Notes
 
-- **Part A Clause 2(a)-(b)**: Completely repeals Paragraph 4 (merger exception) and amends Paragraph 2 to mandate immediate, self-executing seat dissolution by operation of law upon defection, eliminating any judicial or administrative discretion to stay dissolution.
-- **Part A Clause 2(c)**: Substitutes Paragraph 6 to restrict ECI's role to a 7-day administrative notification of by-election and automatic voting rights suspension.
-- **Part A Clause 3-4**: Amends Articles 75(1B), 164(1B), and 361 to bar defecting members from holding ministerial posts for 6 years and strip executive immunity for Prime Ministers, Home Ministers, and Ministers involved in horse-trading.
-- **Part B Clause 2**: Inserts Section 8B and 8C in RPA 1951 imposing 7-14 years rigorous imprisonment, asset forfeiture, Cabinet removal, and 10-year electoral disqualification for Prime Ministers, Home Ministers, Ministers, and bribers financing defection.
+- **Part A Clause 2(a)-(b)**: Repeals Paragraph 4 (merger exception) and amends Paragraph 2 to mandate immediate, self-executing seat dissolution by operation of law upon defection.
+- **Part A Clause 2(c)**: Substitutes Paragraph 6 to restrict ECI's role to 7-day administrative notification of by-election and automatic voting rights suspension.
+- **Part A Clause 3-4**: Amends Articles 75(1B), 164(1B), and 361 to bar defecting members from ministerial posts for 6 years, while subjecting investigations against the Prime Minister to judicial authorization.
+- **Part B Clause 2**: Inserts Sections 8B, 8C, and 8D in RPA 1951. Establishes 7-14 years imprisonment for executive horse-trading, introduces mandatory prior judicial screening by a 3-Judge Supreme Court Bench for complaints against the Prime Minister/Chief Ministers (Section 8C(3)), preserves executive office pending conviction (Section 8C(4)), and penalizes false or malicious complaints with 3-7 years rigorous imprisonment (Section 8D).
 
 ---
 
 ## 8. Equality, Freedom, Public Goods, and Fiscal Impact Assessment
 
-- **Absolute Executive Equality**: Enforces rule of law by holding Prime Ministers, Home Ministers, and Cabinet Ministers to the exact same criminal liability as ordinary bribers.
+- **Anti-Vendetta & Executive Safeguards**: Balances strict criminal deterrence against horse-trading with robust protection against bad-faith political prosecutions aimed at destabilizing the Prime Minister or elected government.
 - **Public Goods & Electoral Trust**: Restores public trust in elections by ensuring that votes cast for a party ticket cannot be bought or traded post-election.
 - **Fiscal Impact**: Minor administrative cost for conducting by-elections, offset by massive savings from preventing state government destabilization and corrupt budget diversions.
 
@@ -136,6 +142,6 @@ After Section 8A of the Representation of the People Act, 1951, the following Se
 
 ## 9. Stress-Test and Citation Verification Results
 
-- **Stress Test Summary**: Passed. Tested scenario where a Prime Minister or Home Minister uses state machinery and executive immunity to buy 2/3rd of an opposition party. Mitigated by Part A Clause 4 (Art 361 amendment stripping immunity) and Part B Section 8C (7-14 years imprisonment for PM/Home Minister/Ministers).
+- **Stress Test Summary**: Passed. Tested scenario where an opposition party files a fake complaint alleging horse-trading against the Prime Minister during a crucial legislative session. Mitigated by Section 8C(3) (3-Judge Supreme Court Bench screening required before FIR/investigation), Section 8C(4) (office retained pending conviction), and Section 8D (3-7 years imprisonment for false accusers).
 - **Citation Verification**: Verified against *Kihoto Hollohan* (1992) Supp (2) SCC 651, *Keisham Meghachandra Singh* (2020) 14 SCC 307, and *Subhash Desai* 2023 INSC 516.
 - **Residual Risks**: High threshold required to pass Constitutional Amendment in Parliament; managed through public deliberation and anti-corruption advocacy.
