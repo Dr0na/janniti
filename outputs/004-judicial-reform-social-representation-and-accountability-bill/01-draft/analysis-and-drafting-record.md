@@ -12,26 +12,26 @@
 
 Existing Indian judicial administration frameworks suffer from structural vulnerabilities:
 - **Collegium System Deficit**: Established via judicial interpretation in 1993/1998, the collegium lacks statutory transparency, leading to criticisms of social homogeneity, lack of SC/ST/OBC/Minority representation, and perceived nepotism.
-- **Ouster of Executive & Public Participation (NJAC 2015)**: The Supreme Court invalidated the 99th Amendment in 2015 (*SCAORA v. Union of India*). A new NJARC must balance judicial independence with social diversity and transparent merit criteria.
-- **Inadequate Misconduct Mechanisms**: The Judges (Inquiry) Act 1968 relies on parliamentary impeachment under Art. 124(4), which is politically cumbersome and rarely completed (*V. Ramaswami* 1993).
-- **PIL Summary Rejections**: PILs are frequently dismissed at the threshold without preliminary hearing or reasoned orders, limiting access to justice for marginalized citizens.
+- **Partisan Deferment of Electoral & Defection Cases**: Discretionary listing and serial adjournments enable partisan delays in defection petitions and election rigging challenges, allowing defectors and illegitimate governments to complete full terms before trial completion (*Keisham Meghachandra Singh* 2020 SC; *Subhash Desai* 2023 SC).
+- **Opaque Court Archives**: Absence of statutory mandates for permanent public archiving of court live streams enables selective non-publishing or deletion of sensitive proceedings (*Swapnil Tripathi* 2018 SC).
 
 ---
 
 ## 3. Core Legal Reform Refinements
 
 1. **NJARC Composition & Social Representation (Art 124A & 124B)**: Replaces collegium with 6-member NJARC (CJI, 2 SC Judges, Law Minister, 2 Eminent Persons) and mandates proportional social representation across SC/ST/OBC/Minorities/Women alongside merit.
-2. **NJOCC Judicial Oversight & Corruption Penalties**: Creates NJOCC to investigate judicial corruption; 5-Judge SC Constitution Bench screening gate protects honest judges from bad-faith harassment; 7-14 years imprisonment and asset forfeiture for proven bribery/collusion.
-3. **PIL Safeguards & 24/7 Emergency Benches**: Prohibits summary PIL dismissal without written preliminary hearing; mandates 24/7 Special Emergency Benches in High Courts and Supreme Court day and night.
-4. **100% Live Streaming & Open Courts (Art 145A)**: Mandates 100% live broadcasting (*Swapnil Tripathi* 2018), with narrow exceptions strictly limited to sexual offense cases involving women and children.
-5. **AI Integration & Peaceful Protest Protection**: Integrates AI legal analytics; protects citizen rights to peaceful protest against miscarriage of justice without police force.
-6. **Supermajority Entrenchment**: Entrenches judicial amendments under Article 368 requiring 2/3rd total parliamentary seats (calculated without deducting suspended MPs) + 2/3rd State Assemblies ratification.
+2. **National Archival Preservation & Free Access (Art 145A & Section 7)**: Live stream court recordings must be permanently preserved in the National Archives of India and made freely accessible over the internet; altering, modifying, destroying, or denying access carries **5 to 10 years rigorous imprisonment** and dismissal from service.
+3. **Mandatory 30-Day Day-to-Day Hearings for Defection & Rigging (Section 5)**: All cases involving political defection, election rigging, or voter roll manipulation MUST be heard on a **day-to-day continuous basis** and concluded within **30 days**. Intentional judicial deferment or collusion carries **7 to 14 years rigorous imprisonment**, asset forfeiture, and removal from office.
+4. **NJOCC Judicial Oversight & Corruption Penalties**: Creates NJOCC to investigate judicial corruption; 5-Judge SC Constitution Bench screening gate protects honest judges from bad-faith harassment; 7-14 years imprisonment and asset forfeiture for proven bribery/collusion.
+5. **PIL Safeguards & 24/7 Emergency Benches**: Prohibits summary PIL dismissal without written preliminary hearing; mandates 24/7 Special Emergency Benches in High Courts and Supreme Court day and night.
+6. **AI Integration & Peaceful Protest Protection**: Integrates AI legal analytics; protects citizen rights to peaceful protest against miscarriage of justice without police force.
+7. **Supermajority Entrenchment**: Entrenches judicial amendments under Article 368 requiring 2/3rd total parliamentary seats (calculated without deducting suspended MPs) + 2/3rd State Assemblies ratification.
 
 ---
 
 ## 4. Quality Gate and Verification Summary
 
 - **Legislative Linting (`lint_legislation.py`)**: Verified penalty clauses, non-obstante clauses, and entrenchment language.
-- **Legal Claim Provenance (`validate_claim_provenance.py`)**: Claims verified against primary constitutional and Supreme Court authorities (*NJAC Case*, *Swapnil Tripathi*, *Anoop Baranwal*).
-- **Institutional Power Map (`analyze_power_map.py`)**: Checked relationships between NJARC, NJOCC, 5-Judge SC Bench, Courts, and Citizens; no circularity or unchecked power concentration found.
+- **Legal Claim Provenance (`validate_claim_provenance.py`)**: Claims verified against primary constitutional and Supreme Court authorities (*NJAC Case*, *Swapnil Tripathi*, *Keisham Meghachandra Singh*, *Subhash Desai*).
+- **Institutional Power Map (`analyze_power_map.py`)**: Checked relationships between NJARC, NJOCC, National Archives, 5-Judge SC Bench, Courts, and Citizens; no circularity or unchecked power concentration found.
 - **Democratic Quality Scorecard (`validate_democratic_scorecard.py`)**: Passed on all 8 dimensions (Rights, Equality, Accountability, Power Concentration, Transparency, Enforceability, Accessibility, Public Participation).
