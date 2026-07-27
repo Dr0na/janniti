@@ -1,0 +1,20 @@
+{
+  "matter_id": "001",
+  "title": "Forest Protection and Mining Prohibition Bill",
+  "status": "completed",
+  "created_at": "2026-07-27T04:40:34+00:00",
+  "jurisdiction": "India",
+  "as_of_date": "2026-07-27",
+  "source_or_instruction": "User prompt requesting strong anti-mining, anti-encroachment, public servant deterrent, and 50% forest cover restoration law.",
+  "related_matters": [],
+  "legacy_source_location": null,
+  "notes": "Matter 001 completed under JanNiti Operating Charter.",
+  "introduction_ready_instruments": [
+    {
+      "title": "Forest Protection, Anti-Mining, Public Official Deterrence, and Ecological Restoration Bill, 2026",
+      "instrument_type": "Bill",
+      "file": "01-draft/introduction-ready-forest-protection-and-mining-prohibition-bill.md",
+      "registered_at": "2026-07-27T05:13:30+00:00"
+    }
+  ]
+}

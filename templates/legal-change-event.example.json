@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "event_id": "LCE-EXAMPLE-001",
+  "source": {"id": "india-constitution", "title": "Example source", "url": "https://www.indiacode.nic.in/", "issuer": "Official issuer"},
+  "versions": {"old_snapshot": "changes/snapshots/example-old.txt", "old_sha256": "placeholder", "new_snapshot": "changes/snapshots/example-new.txt", "new_sha256": "placeholder", "detected_at": "2026-07-26T00:00:00+05:30"},
+  "status_assessment": {"publication_verified": false, "commencement_verified": false, "legal_effect": "unverified pending official review"},
+  "change_summary": "Example only; replace with diff-backed description.",
+  "impact": {"classification": "review_required", "affected_claims": ["C-001"], "affected_artifacts": ["provenance/example.json"], "rights_risk": "To be assessed", "review_owner": "Qualified reviewer", "deadline": "To be set", "interim_safeguard": "Do not rely on superseded conclusion", "public_notice": "Not applicable until verified"},
+  "decision": {"accepted": false, "decision_date": null, "decision_reason": "Awaiting review", "correction_or_withdrawal": "None yet"}
+}

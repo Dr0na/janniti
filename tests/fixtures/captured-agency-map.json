@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "title": "Captured agency fixture",
+  "jurisdiction": "Test",
+  "as_of": "2026-07-26",
+  "actors": [
+    {"id": "minister", "name": "Minister", "type": "executive"},
+    {"id": "agency", "name": "Agency", "type": "agency"}
+  ],
+  "relationships": [
+    {"from": "minister", "to": "agency", "power": "appointment"},
+    {"from": "minister", "to": "agency", "power": "funding"},
+    {"from": "minister", "to": "agency", "power": "direction"},
+    {"from": "minister", "to": "agency", "power": "removal"},
+    {"from": "agency", "to": "minister", "power": "audit"}
+  ]
+}

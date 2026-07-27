@@ -1,0 +1,1164 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-26T14:57:12+00:00",
+  "online": false,
+  "acceptance_status": "audit_only_pending_human_review",
+  "summary": {
+    "not_checked_offline": 139,
+    "not_applicable": 5
+  },
+  "records": [
+    {
+      "jurisdiction_code": "AP",
+      "jurisdiction": "Andhra Pradesh",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://apla.neva.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AP",
+      "jurisdiction": "Andhra Pradesh",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://law.ap.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AP",
+      "jurisdiction": "Andhra Pradesh",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://apegazette.cgg.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AP",
+      "jurisdiction": "Andhra Pradesh",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://aphc.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AR",
+      "jurisdiction": "Arunachal Pradesh",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://arla.neva.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AR",
+      "jurisdiction": "Arunachal Pradesh",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://www.law.arunachal.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AR",
+      "jurisdiction": "Arunachal Pradesh",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://printing.arunachal.gov.in/display-content.php?menu=Documents&page=1&submenu=Normal+Gazette",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AR",
+      "jurisdiction": "Arunachal Pradesh",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://ghconline.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AS",
+      "jurisdiction": "Assam",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://legislative.assam.gov.in/documents/assam-acts",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AS",
+      "jurisdiction": "Assam",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://legislative.assam.gov.in/documents/assam-acts",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AS",
+      "jurisdiction": "Assam",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://dpns.assam.gov.in/portlets/publication-of-assam-gazettes",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AS",
+      "jurisdiction": "Assam",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://ghconline.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "BR",
+      "jurisdiction": "Bihar",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://vidhansabha.bihar.gov.in/official_bill.html",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "BR",
+      "jurisdiction": "Bihar",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://betastate.bihar.gov.in/law/functions",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "BR",
+      "jurisdiction": "Bihar",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://egazette.bihar.gov.in/GazettePrinting/SearchAdvanceGazette.aspx",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "BR",
+      "jurisdiction": "Bihar",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://patnahighcourt.bihar.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "CT",
+      "jurisdiction": "Chhattisgarh",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://cgvidhansabha.gov.in/evidhan/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "CT",
+      "jurisdiction": "Chhattisgarh",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://law.cgstate.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "CT",
+      "jurisdiction": "Chhattisgarh",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://egazette.cg.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "CT",
+      "jurisdiction": "Chhattisgarh",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://highcourt.cg.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "GA",
+      "jurisdiction": "Goa",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://www.goavidhansabha.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "GA",
+      "jurisdiction": "Goa",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://secretariat.goa.gov.in/ar_dept?deptId=S-18&deptName=LAW",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "GA",
+      "jurisdiction": "Goa",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://www.goa.gov.in/government/gazette/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "GA",
+      "jurisdiction": "Goa",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://bombayhighcourt.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "GJ",
+      "jurisdiction": "Gujarat",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://gujarat.neva.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "GJ",
+      "jurisdiction": "Gujarat",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://www.indiacode.nic.in/handle/123456789/2455/browse?order=ASC&rpp=20&type=department&value=Legal+Department",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "GJ",
+      "jurisdiction": "Gujarat",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://egazette.gujarat.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "GJ",
+      "jurisdiction": "Gujarat",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://gujarathighcourt.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "HR",
+      "jurisdiction": "Haryana",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://haryanaassembly.gov.in/bills-2/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "HR",
+      "jurisdiction": "Haryana",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://www.haryana.gov.in/acts/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "HR",
+      "jurisdiction": "Haryana",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://www.haryana.gov.in/e-gazette/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "HR",
+      "jurisdiction": "Haryana",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://www.hcph.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "HP",
+      "jurisdiction": "Himachal Pradesh",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://hpvs.neva.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "HP",
+      "jurisdiction": "Himachal Pradesh",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://himachal.nic.in/law",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "HP",
+      "jurisdiction": "Himachal Pradesh",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://rajpatra.hp.gov.in/default.aspx",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "HP",
+      "jurisdiction": "Himachal Pradesh",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://highcourt.hp.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "JH",
+      "jurisdiction": "Jharkhand",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://jhla.neva.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "JH",
+      "jurisdiction": "Jharkhand",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://jharkhand.gov.in/law",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "JH",
+      "jurisdiction": "Jharkhand",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://egazette.jharkhand.gov.in/Notification.aspx",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "JH",
+      "jurisdiction": "Jharkhand",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://jharkhandhighcourt.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "KA",
+      "jurisdiction": "Karnataka",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://kla.kar.nic.in/assembly/bills/bills.htm",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "KA",
+      "jurisdiction": "Karnataka",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://www.indiacode.nic.in/handle/123456789/2485/browse?order=DESC&rpp=10&type=department&value=Law+department",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "KA",
+      "jurisdiction": "Karnataka",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://egazette.karnataka.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "KA",
+      "jurisdiction": "Karnataka",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://judiciary.karnataka.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "KL",
+      "jurisdiction": "Kerala",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://niyamasabha.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "KL",
+      "jurisdiction": "Kerala",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://lawsect.kerala.gov.in/english/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "KL",
+      "jurisdiction": "Kerala",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://gazette.kerala.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "KL",
+      "jurisdiction": "Kerala",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://www.highcourt.kerala.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MP",
+      "jurisdiction": "Madhya Pradesh",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://mpvidhansabha.nic.in/bill_2026.htm",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MP",
+      "jurisdiction": "Madhya Pradesh",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://www.code.mp.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MP",
+      "jurisdiction": "Madhya Pradesh",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://govtpressmp.nic.in/gazette.html",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MP",
+      "jurisdiction": "Madhya Pradesh",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://mphc.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MH",
+      "jurisdiction": "Maharashtra",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://mhla.neva.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MH",
+      "jurisdiction": "Maharashtra",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://lj.maharashtra.gov.in/en/document-category/act-list/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MH",
+      "jurisdiction": "Maharashtra",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://egazzete.mahaonline.gov.in/Forms/GazetteSearch.aspx/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MH",
+      "jurisdiction": "Maharashtra",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://www.bombayhighcourt.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MN",
+      "jurisdiction": "Manipur",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://assembly.mn.gov.in/bills",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MN",
+      "jurisdiction": "Manipur",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://assembly.mn.gov.in/acts/acts-enacted-through-bills",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MN",
+      "jurisdiction": "Manipur",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://egazette.mn.gov.in/Public/GazetteList",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MN",
+      "jurisdiction": "Manipur",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://hcmimphal.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "ML",
+      "jurisdiction": "Meghalaya",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://meghalaya.gov.in/acts/search?field_year_value=&page=2&title=",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "ML",
+      "jurisdiction": "Meghalaya",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://meglaw.gov.in/acts.html",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "ML",
+      "jurisdiction": "Meghalaya",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://megpns.gov.in/gazette/2020/04/02-04-20-I.pdf",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "ML",
+      "jurisdiction": "Meghalaya",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://meghalayahighcourt.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MZ",
+      "jurisdiction": "Mizoram",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://bla.neva.gov.in/Home/Index/MZ",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MZ",
+      "jurisdiction": "Mizoram",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://landj.mizoram.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MZ",
+      "jurisdiction": "Mizoram",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://egazette.mizoram.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "MZ",
+      "jurisdiction": "Mizoram",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://ghconline.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "NL",
+      "jurisdiction": "Nagaland",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://nagaland.neva.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "NL",
+      "jurisdiction": "Nagaland",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://www.nagaland.gov.in/act-rules",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "NL",
+      "jurisdiction": "Nagaland",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://govtpress.nagaland.gov.in/egazette-2026/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "NL",
+      "jurisdiction": "Nagaland",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://ghconline.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "OD",
+      "jurisdiction": "Odisha",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://assembly.odisha.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "OD",
+      "jurisdiction": "Odisha",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://law.odisha.gov.in/publication/acts-and-ordinances/acts?page=0",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "OD",
+      "jurisdiction": "Odisha",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://egazette.odisha.gov.in/search_gazette/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "OD",
+      "jurisdiction": "Odisha",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://orissahighcourt.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "PB",
+      "jurisdiction": "Punjab",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://punjab.neva.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "PB",
+      "jurisdiction": "Punjab",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://punjab.gov.in/government/departments/department-of-legal-and-legislative-affairs/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "PB",
+      "jurisdiction": "Punjab",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://punjab.gov.in/egazette/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "PB",
+      "jurisdiction": "Punjab",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://www.hcph.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "RJ",
+      "jurisdiction": "Rajasthan",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://assembly.rajasthan.gov.in/Containers/Legislation/GovernmentBills.aspx",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "RJ",
+      "jurisdiction": "Rajasthan",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://law.rajasthan.gov.in/content/law-justice/en/LawLegalAffairsDepartment/Library/ActsRules.html",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "RJ",
+      "jurisdiction": "Rajasthan",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://reams.rajasthan.gov.in/Login/InstructionPage",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "RJ",
+      "jurisdiction": "Rajasthan",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://hcraj.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "SK",
+      "jurisdiction": "Sikkim",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://sikkim.neva.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "SK",
+      "jurisdiction": "Sikkim",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://www.sikkim.gov.in/departments/law-parliamentary-affairs-department",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "SK",
+      "jurisdiction": "Sikkim",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://www.sikkim.gov.in/departments/printing-stationery-department/about-the-department",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "SK",
+      "jurisdiction": "Sikkim",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://highcourtofsikkim.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "TN",
+      "jurisdiction": "Tamil Nadu",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://uplc.neva.gov.in/Home/Index/TN",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "TN",
+      "jurisdiction": "Tamil Nadu",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://www.indiacode.nic.in/handle/123456789/2507/browse?order=ASC&rpp=20&type=department&value=Law+Department%2C+Government+of+Tamil+Nadu",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "TN",
+      "jurisdiction": "Tamil Nadu",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://www.stationeryprinting.tn.gov.in/gazette/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "TN",
+      "jurisdiction": "Tamil Nadu",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://hcmadras.tn.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "TS",
+      "jurisdiction": "Telangana",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://legislature.telangana.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "TS",
+      "jurisdiction": "Telangana",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://law.telangana.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "TS",
+      "jurisdiction": "Telangana",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://tggazette.cgg.gov.in/homeAllGazetteSearch?type=1",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "TS",
+      "jurisdiction": "Telangana",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://tshc.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "TR",
+      "jurisdiction": "Tripura",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://tripura.neva.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "TR",
+      "jurisdiction": "Tripura",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://law.tripura.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "TR",
+      "jurisdiction": "Tripura",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://egazette.tripura.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "TR",
+      "jurisdiction": "Tripura",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://thc.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "UP",
+      "jurisdiction": "Uttar Pradesh",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://www.upvidhansabhaproceedings.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "UP",
+      "jurisdiction": "Uttar Pradesh",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://www.indiacode.nic.in/handle/123456789/2510/browse?order=ASC&rpp=20&type=department&value=Law",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "UP",
+      "jurisdiction": "Uttar Pradesh",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://upvidhansabhaproceedings.gov.in/gazette-search?_gazettesearch_WAR_uplalibrarysearchportlet_javax.portlet.action=search&_gazettesearch_WAR_uplalibrarysearchportlet_toLang=en_US",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "UP",
+      "jurisdiction": "Uttar Pradesh",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://allahabadhighcourt.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "UK",
+      "jurisdiction": "Uttarakhand",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://utkh.neva.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "UK",
+      "jurisdiction": "Uttarakhand",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://highcourtofuttarakhand.gov.in/uttarakhand-act/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "UK",
+      "jurisdiction": "Uttarakhand",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://govtpress.uk.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "UK",
+      "jurisdiction": "Uttarakhand",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://highcourtofuttarakhand.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "WB",
+      "jurisdiction": "West Bengal",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://assembly.wb.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "WB",
+      "jurisdiction": "West Bengal",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://law.wb.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "WB",
+      "jurisdiction": "West Bengal",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://wbsl.wb.gov.in/getCalcuttaGazette.action",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "WB",
+      "jurisdiction": "West Bengal",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://www.calcuttahighcourt.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AN",
+      "jurisdiction": "Andaman and Nicobar Islands",
+      "source_type": "legislature",
+      "queue_status": "not_applicable",
+      "url": null,
+      "audit_result": "not_applicable"
+    },
+    {
+      "jurisdiction_code": "AN",
+      "jurisdiction": "Andaman and Nicobar Islands",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://andamannicobar.gov.in/latestupdate_all.php",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AN",
+      "jurisdiction": "Andaman and Nicobar Islands",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://andamannicobar.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "AN",
+      "jurisdiction": "Andaman and Nicobar Islands",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://www.calcuttahighcourt.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "CH",
+      "jurisdiction": "Chandigarh",
+      "source_type": "legislature",
+      "queue_status": "not_applicable",
+      "url": null,
+      "audit_result": "not_applicable"
+    },
+    {
+      "jurisdiction_code": "CH",
+      "jurisdiction": "Chandigarh",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://chandigarh.gov.in/departments/other-departments/law-prosecution",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "CH",
+      "jurisdiction": "Chandigarh",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://egazette.chd.gov.in/Home.aspx/dept/Login.aspx",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "CH",
+      "jurisdiction": "Chandigarh",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://www.hcph.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "DH",
+      "jurisdiction": "Dadra and Nagar Haveli and Daman and Diu",
+      "source_type": "legislature",
+      "queue_status": "not_applicable",
+      "url": null,
+      "audit_result": "not_applicable"
+    },
+    {
+      "jurisdiction_code": "DH",
+      "jurisdiction": "Dadra and Nagar Haveli and Daman and Diu",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://ddd.gov.in/document/acts-rules/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "DH",
+      "jurisdiction": "Dadra and Nagar Haveli and Daman and Diu",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://ddd.gov.in/document-category/official-gazette/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "DH",
+      "jurisdiction": "Dadra and Nagar Haveli and Daman and Diu",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://bombayhighcourt.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "DL",
+      "jurisdiction": "National Capital Territory of Delhi",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://delhiassembly.delhi.gov.in/dlas-govt-bills",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "DL",
+      "jurisdiction": "National Capital Territory of Delhi",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://law.delhi.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "DL",
+      "jurisdiction": "National Capital Territory of Delhi",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://delhi.gov.in/taxonomy/term/261",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "DL",
+      "jurisdiction": "National Capital Territory of Delhi",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://www.delhihighcourt.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "JK",
+      "jurisdiction": "Jammu and Kashmir",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://jkla.neva.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "JK",
+      "jurisdiction": "Jammu and Kashmir",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://law.jk.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "JK",
+      "jurisdiction": "Jammu and Kashmir",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://rgp.jk.gov.in/gazette%202024.html",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "JK",
+      "jurisdiction": "Jammu and Kashmir",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://jkhighcourt.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "LA",
+      "jurisdiction": "Ladakh",
+      "source_type": "legislature",
+      "queue_status": "not_applicable",
+      "url": null,
+      "audit_result": "not_applicable"
+    },
+    {
+      "jurisdiction_code": "LA",
+      "jurisdiction": "Ladakh",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://ladakh.gov.in/law-and-justice/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "LA",
+      "jurisdiction": "Ladakh",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://egazette.ladakh.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "LA",
+      "jurisdiction": "Ladakh",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://jkhighcourt.nic.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "LD",
+      "jurisdiction": "Lakshadweep",
+      "source_type": "legislature",
+      "queue_status": "not_applicable",
+      "url": null,
+      "audit_result": "not_applicable"
+    },
+    {
+      "jurisdiction_code": "LD",
+      "jurisdiction": "Lakshadweep",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://lakshadweep.gov.in/notice/legal-cell/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "LD",
+      "jurisdiction": "Lakshadweep",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://lakshadweep.gov.in/document-category/gazatte-notifications/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "LD",
+      "jurisdiction": "Lakshadweep",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://highcourt.kerala.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "PY",
+      "jurisdiction": "Puducherry",
+      "source_type": "legislature",
+      "queue_status": "verified",
+      "url": "https://puddu.neva.gov.in/",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "PY",
+      "jurisdiction": "Puducherry",
+      "source_type": "law_department",
+      "queue_status": "verified",
+      "url": "https://www.py.gov.in/law",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "PY",
+      "jurisdiction": "Puducherry",
+      "source_type": "official_gazette",
+      "queue_status": "verified",
+      "url": "https://styandptg.py.gov.in/index.html",
+      "audit_result": "not_checked_offline"
+    },
+    {
+      "jurisdiction_code": "PY",
+      "jurisdiction": "Puducherry",
+      "source_type": "high_court_judgments",
+      "queue_status": "verified",
+      "url": "https://hcmadras.tn.gov.in/",
+      "audit_result": "not_checked_offline"
+    }
+  ]
+}

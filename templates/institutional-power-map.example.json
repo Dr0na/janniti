@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "title": "Example institutional power map",
+  "jurisdiction": "India",
+  "as_of": "2026-07-26",
+  "actors": [
+    {"id": "executive", "name": "Executive", "type": "public_authority"},
+    {"id": "agency", "name": "Independent Agency", "type": "agency"},
+    {"id": "court", "name": "Court", "type": "court"},
+    {"id": "legislature", "name": "Legislature", "type": "legislature"}
+  ],
+  "relationships": [
+    {"from": "executive", "to": "agency", "power": "appointment", "check": "legislative confirmation", "public_record": true},
+    {"from": "legislature", "to": "agency", "power": "funding", "check": "published appropriation", "public_record": true},
+    {"from": "agency", "to": "court", "power": "application", "check": "independent adjudication", "public_record": true},
+    {"from": "court", "to": "agency", "power": "judicial_review", "check": "reasoned judgment and appeal", "public_record": true}
+  ]
+}

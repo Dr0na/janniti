@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Cross-harness acceptance tests for the Democratic Law Agent repository.",
+  "required_headings": ["#", "## Prompt", "## Required evidence", "## Pass conditions"],
+  "cases": [
+    {"id": "emergency-powers", "file": "emergency-powers.md", "command": "/draft-democratic-law"},
+    {"id": "selective-enforcement", "file": "selective-enforcement.md", "command": "/expert-legal-review"},
+    {"id": "media-integrity", "file": "media-integrity.md", "command": "/draft-democratic-law"},
+    {"id": "equality-public-goods", "file": "equality-public-goods.md", "command": "/draft-democratic-law"},
+    {"id": "constitutional-amendment", "file": "constitutional-amendment.md", "command": "/constitutional-stress-test"},
+    {"id": "citation-integrity", "file": "citation-integrity.md", "command": "/verify-legal-citations"},
+    {"id": "law-validation", "file": "law-validation.md", "command": "/validate-law"},
+    {"id": "legislative-linter", "file": "legislative-linter.md", "command": "/legislative-lint"},
+    {"id": "power-map", "file": "power-map.md", "command": "/map-institutional-power"},
+    {"id": "democratic-monitor", "file": "democratic-monitor.md", "command": "/monitor-democratic-impact"},
+    {"id": "public-deliberation", "file": "public-deliberation.md", "command": "/public-deliberation"},
+    {"id": "legal-change-monitor", "file": "legal-change-monitor.md", "command": "/monitor-legal-change"}
+  ]
+}

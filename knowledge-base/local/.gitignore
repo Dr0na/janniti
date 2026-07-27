@@ -1,0 +1,7 @@
+# Retain only the manifest and protocol in version control by default.
+documents/
+derivatives/
+index.sqlite
+*.pdf
+*.html
+*.txt

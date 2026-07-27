@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "title": "Example Public Participation and Deliberation Plan",
+  "jurisdiction": "India",
+  "as_of": "2026-07-26",
+  "proposal": "Example only: proposed public-law framework",
+  "publication": {"plain_language_summary": true, "full_draft": true, "impact_notes": ["rights", "equality", "fiscal"], "evidence_register": true, "languages": ["English", "Hindi"], "accessible_formats": ["screen-reader HTML", "easy-read PDF"]},
+  "schedule": {"consultation_start": "To be set", "consultation_end": "To be set", "urgent_exception": "Written urgency reasons; immediate post-action consultation and review"},
+  "participation": {"channels": ["online", "offline local hearing", "written submission", "telephone assistance"], "accessibility": ["disability access", "low-data option", "language assistance"], "affected_groups": ["materially affected communities"], "anti_retaliation": "Confidential route and independent retaliation complaint"},
+  "integrity": {"lobbying_disclosure": "Publish material meetings, funding, and conflicts", "anti_capture": "Transparent moderation, duplicate detection, and representative outreach", "privacy": "Minimise and redact personal data", "automated_analysis_disclosure": true},
+  "deliberation": {"method": "Public hearing and representative citizen panel where high impact", "selection_safeguard": "Transparent, demographically inclusive, conflict-screened process", "moderation": "Independent facilitator with published rules"},
+  "response_to_comments": {"publication": "Issue-by-issue response register", "fields": ["issue", "evidence", "decision", "reason", "draft_change", "remaining_disagreement"], "deadline": "Before final decision"},
+  "remedies": {"complaint_route": "Independent complaint and court/legislative review", "reconsultation_trigger": "Material accessibility, manipulation, or evidence failure", "public_notice": true}
+}

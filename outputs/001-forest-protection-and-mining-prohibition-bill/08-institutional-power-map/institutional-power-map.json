@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "title": "Forest Protection and Anti-Mining Institutional Power Map",
+  "jurisdiction": "India",
+  "as_of": "2026-07-27",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India",
+      "type": "legislature"
+    },
+    {
+      "id": "nfaa",
+      "name": "National Forest Audit Authority",
+      "type": "agency"
+    },
+    {
+      "id": "special_courts",
+      "name": "Designated Special Environmental Courts",
+      "type": "court"
+    },
+    {
+      "id": "gram_sabha",
+      "name": "Gram Sabha (FRA & PESA)",
+      "type": "public_authority"
+    },
+    {
+      "id": "public_servants",
+      "name": "State Forest & Mining Executive",
+      "type": "public_authority"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "nfaa",
+      "power": "statutory_mandate",
+      "check": "annual satellite audit report to Parliament",
+      "public_record": true
+    },
+    {
+      "from": "nfaa",
+      "to": "special_courts",
+      "power": "criminal_referral",
+      "check": "judicial trial of defaulting public servants",
+      "public_record": true
+    },
+    {
+      "from": "gram_sabha",
+      "to": "public_servants",
+      "power": "customary_veto",
+      "check": "non-derogation of FRA 2006 rights",
+      "public_record": true
+    },
+    {
+      "from": "special_courts",
+      "to": "public_servants",
+      "power": "adjudication",
+      "check": "mandatory minimum sentencing (7-14 yrs) and asset forfeiture",
+      "public_record": true
+    }
+  ]
+}

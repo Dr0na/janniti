@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "Forest Protection and Anti-Mining Bill Legal Provenance Ledger",
+    "jurisdiction": "India",
+    "as_of": "2026-07-27",
+    "generated_at": "2026-07-27T10:30:00+05:30"
+  },
+  "claims": [
+    {
+      "id": "C-001",
+      "text": "Parliament has legislative competence over forests under Entry 17A of List III (Concurrent List) of the Seventh Schedule of the Constitution of India.",
+      "classification": "current_law",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Constitution of India",
+          "authority_type": "constitution",
+          "issuer": "Legislative Department, Government of India",
+          "url": "https://www.indiacode.nic.in/handle/123456789/10232",
+          "document_date": "1950-01-26",
+          "version_or_stage": "current official text",
+          "pinpoint": "Schedule VII List III Entry 17A",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Inserted by the Constitution (Forty-second Amendment) Act, 1976.",
+      "limitations": "Central legislation prevails over state laws under Article 254(1).",
+      "reviewer_action": "Verified against current Constitution text."
+    },
+    {
+      "id": "C-002",
+      "text": "Article 21 of the Constitution encompasses the fundamental right to a clean, healthy environment and protection from climate degradation.",
+      "classification": "legal_interpretation",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "MK Ranjitsinh v. Union of India",
+          "authority_type": "judicial_precedent",
+          "issuer": "Supreme Court of India",
+          "url": "https://sci.gov.in/supremecourt/2021/10705/10705_2021_1_1501_51745_Judg.pdf",
+          "document_date": "2024-03-21",
+          "version_or_stage": "2024 INSC 280",
+          "pinpoint": "Paras 41-45",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Affirmed by 3-Judge Bench.",
+      "limitations": "Construes Article 21 in environmental context.",
+      "reviewer_action": "Verified against Supreme Court official Judgment."
+    },
+    {
+      "id": "C-003",
+      "text": "Article 368 governs the procedure for amending the Constitution, requiring a special 2/3rd majority of members present and voting and ratification by States for special subjects.",
+      "classification": "current_law",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Constitution of India",
+          "authority_type": "constitution",
+          "issuer": "Legislative Department, Government of India",
+          "url": "https://www.indiacode.nic.in/handle/123456789/10232",
+          "document_date": "1950-01-26",
+          "version_or_stage": "current official text",
+          "pinpoint": "Article 368",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Subject to Basic Structure limits established in Kesavananda Bharati (1973).",
+      "limitations": "Entrenchment of statutory repeal procedure requires Constitutional Amendment under Art 368.",
+      "reviewer_action": "Verified against official Constitution text."
+    }
+  ]
+}

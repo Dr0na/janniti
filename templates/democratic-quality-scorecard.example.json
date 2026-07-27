@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "title": "Example Democratic Quality Scorecard",
+  "as_of": "2026-07-26",
+  "dimensions": [
+    {"id": "rights", "score": 4, "evidence": "Primary-source rights analysis", "uncertainty": "Requires implementation data", "corrective_action": "Add accessible remedy"},
+    {"id": "equality", "score": 4, "evidence": "Disparate-impact review", "uncertainty": "Baseline incomplete", "corrective_action": "Collect lawful disaggregated data"},
+    {"id": "accountability", "score": 4, "evidence": "Audit and appeal design", "uncertainty": "Budget pending", "corrective_action": "Secure independent funding"},
+    {"id": "power_concentration", "score": 4, "evidence": "Power-map analysis", "uncertainty": "Political alignment cannot be fully measured", "corrective_action": "Add plural appointment"},
+    {"id": "transparency", "score": 4, "evidence": "Publication and reasons rules", "uncertainty": "Confidentiality exceptions need review", "corrective_action": "Narrow secrecy"},
+    {"id": "enforceability", "score": 4, "evidence": "Implementation plan", "uncertainty": "Staffing estimate", "corrective_action": "Fund training"},
+    {"id": "accessibility", "score": 4, "evidence": "Consultation/access plan", "uncertainty": "User testing needed", "corrective_action": "Run usability test"},
+    {"id": "public_participation", "score": 4, "evidence": "Deliberation plan", "uncertainty": "Participation rate unknown", "corrective_action": "Add offline channels"}
+  ]
+}

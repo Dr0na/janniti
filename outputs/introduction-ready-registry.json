@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "instruments": [
+    {
+      "matter_id": "001",
+      "matter_title": "Forest Protection and Mining Prohibition Bill",
+      "jurisdiction": "India",
+      "as_of_date": "2026-07-27",
+      "instrument_title": "Forest Protection, Anti-Mining, Public Official Deterrence, and Ecological Restoration Bill, 2026",
+      "instrument_type": "Bill",
+      "file": "001-forest-protection-and-mining-prohibition-bill/01-draft/introduction-ready-forest-protection-and-mining-prohibition-bill.md",
+      "registered_at": "2026-07-27T05:13:30+00:00"
+    }
+  ]
+}

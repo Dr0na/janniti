@@ -1,0 +1,89 @@
+version: "1.0"
+scope: "Indian public-law primary sources from 15 August 1947 onward; Constitution-making material from 1946 onward"
+source_policy:
+  priority: "Official text or official archive; then authenticated official reproduction; secondary materials only for orientation."
+  required_metadata:
+    - title
+    - document_type
+    - issuing_body
+    - date
+    - version_or_stage
+    - source_url
+    - retrieval_date
+    - pinpoint
+  historical_rule: "Establish the text and status in force on the relevant date; do not cite a current consolidation as historical proof."
+collections:
+  - id: constitution-current
+    coverage: "Constitution of India, current authoritative/consolidated text and amendments"
+    publisher: "Legislative Department / India Code"
+    url: "https://www.indiacode.nic.in/handle/123456789/10232?locale=en"
+    mandatory_when: "Any constitutional question"
+  - id: constituent-assembly-draft-making-debates
+    coverage: "Constituent Assembly debates on drafting the Constitution, 1946–1950"
+    publisher: "Parliament Digital Library"
+    url: "https://elibrary.sansad.in/"
+    mandatory_when: "Original meaning, drafting history, constitutional design, or Constituent Assembly discussion is material"
+  - id: constituent-assembly-legislative-debates
+    coverage: "Constituent Assembly of India (Legislative) debates, 17 November 1947–24 December 1949"
+    publisher: "Parliament Digital Library"
+    url: "https://eparlib.sansad.in/handle/123456789/4?offset=0"
+    mandatory_when: "Post-independence Constituent Assembly legislative discussion is material"
+  - id: parliamentary-debates-and-documents
+    coverage: "Provisional Parliament, Lok Sabha, Rajya Sabha, historical debates, committee reports, papers laid, bills, and related parliamentary documents"
+    publisher: "Parliament Digital Library / Digital Sansad"
+    url: "https://elibrary.sansad.in/"
+    mandatory_when: "Legislative history, parliamentary debate, committee scrutiny, or parliamentary document is material"
+  - id: central-bills
+    coverage: "Lok Sabha bill texts, status, House passage, Act number, assent date, and linked record where available"
+    publisher: "Lok Sabha Secretariat / Digital Sansad"
+    url: "https://sansad.in/ls/legislation/bills"
+    mandatory_when: "A Central Bill, pending proposal, bill version, or legislative status is material"
+  - id: assented-central-bills
+    coverage: "Central bills assented by the President"
+    publisher: "Rashtrapati Bhavan"
+    url: "https://www.rashtrapatibhavan.gov.in/central-bills"
+    mandatory_when: "Assent date or assented-bill record is material"
+  - id: legislation-current
+    coverage: "Central, State, and Union Territory Acts and subordinate legislation currently in force"
+    publisher: "India Code"
+    url: "https://www.indiacode.nic.in/"
+    mandatory_when: "Current statutory or subordinate-law question"
+  - id: state-and-ut-legislation
+    coverage: "State and Union Territory primary legislation, local amendments, and applicable delegated law; India Code coverage must be checked against the relevant State/UT official repositories"
+    publisher: "India Code and relevant State/UT Law Department"
+    url: "https://www.indiacode.nic.in/"
+    mandatory_when: "Any Indian topic with a State/UT competence, implementation, police, public-order, health, education, local-government, land, or State-law dimension"
+  - id: state-and-ut-legislatures
+    coverage: "State/UT Bills, legislative status, House records, committee material, debates, and enactment history"
+    publisher: "Relevant State/UT Legislative Assembly or Legislative Council"
+    url: "https://www.india.gov.in/my-government/states-uts"
+    mandatory_when: "A State/UT Bill, amendment, ordinance, legislative history, or comparative State-law analysis is material"
+  - id: state-and-ut-gazettes
+    coverage: "State/UT Acts, ordinances, rules, notifications, commencement orders, and authentic official publication"
+    publisher: "Relevant State/UT Government Gazette / Department of Publication"
+    url: "https://www.india.gov.in/my-government/states-uts"
+    mandatory_when: "Authenticity, commencement, ordinance, rule, notification, or historical State/UT version is material"
+  - id: gazette
+    coverage: "Gazette of India acts, ordinances, rules, regulations, notifications, commencement, and official publication history"
+    publisher: "Department of Publication / Government of India"
+    url: "https://egazette.nic.in/"
+    mandatory_when: "Authenticity, commencement, notification, historical version, ordinance, rule, or Gazette publication is material"
+  - id: supreme-court-decisions
+    coverage: "Supreme Court judgments, orders, neutral citations, and official Supreme Court Reports search"
+    publisher: "Supreme Court of India / e-Committee"
+    url: "https://scr.sci.gov.in/scrsearch/"
+    mandatory_when: "Supreme Court precedent, decision, or subsequent history is material"
+  - id: high-court-decisions
+    coverage: "High Court judgments and orders"
+    publisher: "e-Committee, Supreme Court of India / relevant High Court"
+    url: "https://scr.sci.gov.in/scrsearch/"
+    mandatory_when: "High Court decision, jurisdiction-specific precedent, or appellate history is material"
+  - id: election-records
+    coverage: "Election Commission orders, party registration, organisational elections, election materials, and official election information"
+    publisher: "Election Commission of India"
+    url: "https://www.eci.gov.in/"
+    mandatory_when: "Election, party, campaign, or electoral-institution question"
+refresh:
+  current_law: "Retrieve on each substantive use"
+  bills_and_debates: "Retrieve on each substantive use"
+  local_manifest: "Record every retrieval; review source URLs and access conditions quarterly"

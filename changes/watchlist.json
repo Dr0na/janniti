@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "sources": [
+    {"id": "india-constitution", "kind": "constitution", "url": "https://www.indiacode.nic.in/handle/123456789/10232?locale=en", "refresh": "per use and quarterly", "priority": "critical"},
+    {"id": "india-code", "kind": "legislation", "url": "https://www.indiacode.nic.in/", "refresh": "per use", "priority": "critical"},
+    {"id": "egazette", "kind": "gazette", "url": "https://egazette.nic.in/", "refresh": "weekly for active projects", "priority": "critical"},
+    {"id": "sansad-bills", "kind": "bills", "url": "https://sansad.in/ls/legislation/bills", "refresh": "weekly for active projects", "priority": "high"},
+    {"id": "supreme-court", "kind": "judgments", "url": "https://scr.sci.gov.in/scrsearch/", "refresh": "per use and weekly for active litigation", "priority": "critical"},
+    {"id": "eci", "kind": "election", "url": "https://www.eci.gov.in/", "refresh": "per use and weekly during elections", "priority": "high"}
+  ]
+}

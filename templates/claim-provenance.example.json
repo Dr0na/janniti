@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "document": {"title": "Example legal research ledger", "jurisdiction": "India", "as_of": "2026-07-26", "generated_at": "2026-07-26T00:00:00+05:30"},
+  "claims": [{
+    "id": "C-001",
+    "text": "Article 14 of the Constitution of India addresses equality before law and equal protection of laws.",
+    "classification": "current_law",
+    "status": "verified",
+    "authorities": [{
+      "treatment": "supports", "title": "Constitution of India", "authority_type": "constitution", "issuer": "Legislative Department, Government of India",
+      "url": "https://www.indiacode.nic.in/handle/123456789/10232?locale=en", "document_date": "1950-01-26", "version_or_stage": "current official text; verify on retrieval", "pinpoint": "Article 14", "retrieved_at": "2026-07-26"
+    }],
+    "subsequent_history_checked": "Not applicable to the constitutional provision; current official text must be rechecked.",
+    "limitations": "This supports the text of Article 14, not every interpretation of it.",
+    "reviewer_action": "Open the official text and verify the current wording before relying on it."
+  }]
+}

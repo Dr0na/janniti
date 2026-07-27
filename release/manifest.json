@@ -1,0 +1,40 @@
+{
+  "name": "janniti",
+  "version": "0.1.0",
+  "status": "unreleased",
+  "repository_root": ".",
+  "entrypoints": {
+    "canonical_instruction": "AGENTS.md",
+    "primary_user_command": "commands/janniti.md",
+    "request_refinement_and_routing_alias": "commands/refine-and-route.md",
+    "legal_review": "commands/expert-legal-review.md",
+    "law_validation": "commands/validate-law.md",
+    "legislative_lint": "commands/legislative-lint.md",
+    "legal_provenance": "commands/build-legal-provenance.md",
+    "institutional_power_map": "commands/map-institutional-power.md",
+    "democratic_impact_monitor": "commands/monitor-democratic-impact.md",
+    "public_deliberation": "commands/public-deliberation.md",
+    "expert_escalation": "commands/expert-escalation.md",
+    "public_legal_accessibility": "commands/public-legal-accessibility.md",
+    "democratic_quality_scorecard": "commands/score-democratic-quality.md",
+    "legal_change_monitor": "commands/monitor-legal-change.md",
+    "law_drafting": "commands/draft-democratic-law.md",
+    "stress_test": "commands/constitutional-stress-test.md",
+    "citation_verification": "commands/verify-legal-citations.md"
+  },
+  "quality_gates": [
+    "scripts/validate_acceptance_suite.py",
+    "scripts/check_source_health.py --offline",
+    "scripts/verify_legal_citations.py --strict <legal-deliverable.md>",
+    "scripts/lint_legislation.py <legal-deliverable.md>",
+    "scripts/validate_claim_provenance.py <ledger.json>",
+    "scripts/analyze_power_map.py <map.json>",
+    "scripts/validate_democratic_monitor.py <plan.json>",
+    "scripts/validate_public_deliberation.py <plan.json>",
+    "scripts/validate_democratic_scorecard.py <scorecard.json>",
+    "scripts/diff_legal_versions.py <old> <new>",
+    "scripts/validate_legal_change_event.py <event.json>",
+    "git diff --check"
+  ],
+  "live_harness_tests_required": true
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "001",
+  "topic": "Forest Conservation, Mining Prohibition, Public Servant Deterrence, and Reforestation Mandate",
+  "as_of_date": "2026-07-27",
+  "jurisdictions": [
+    {
+      "name": "India",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://www.indiacode.nic.in/",
+        "https://sci.gov.in/",
+        "https://moef.gov.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Act",
+      "title": "Van (Sanrakshan Evam Samvardhan) Adhiniyam 1980",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/1522",
+          "publisher": "Ministry of Law and Justice",
+          "pinpoint": "section 2",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "limitations": "Amended in 2023; statutory scope under judicial review in Supreme Court."
+    },
+    {
+      "id": "finding-002",
+      "instrument_type": "Act",
+      "title": "Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act 2006",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/2085",
+          "publisher": "Ministry of Tribal Affairs",
+          "pinpoint": "section 3",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "limitations": "Mandatory compliance required for all forest protection and anti-encroachment laws."
+    }
+  ],
+  "gaps": [
+    "State-level mining rules vary; Central enactment under Concurrent List Entry 17A required for uniform deterrence."
+  ],
+  "next_step": "draft"
+}

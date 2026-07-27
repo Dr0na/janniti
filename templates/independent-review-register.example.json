@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "001",
+  "review_type": "constitutional|equality|technical|implementation|community",
+  "reviewers": [{"id": "reviewer-001", "role": "Independent public-law reviewer", "selection_basis": "Published criteria", "conflicts_declared": [], "conflict_disposition": "No material conflict", "independence_status": "eligible", "review_date": "YYYY-MM-DD"}],
+  "issues": [{"id": "issue-001", "severity": "High", "issue": "Example issue", "response": "Example response", "status": "open|resolved|disagreed"}],
+  "publication_status": "publishable_with_redactions",
+  "limitations": []
+}

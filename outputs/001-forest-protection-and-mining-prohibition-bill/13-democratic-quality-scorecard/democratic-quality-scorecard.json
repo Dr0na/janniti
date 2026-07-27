@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "title": "Forest Protection and Anti-Mining Bill Democratic Quality Scorecard",
+  "as_of": "2026-07-27",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects Right to Clean Environment under Art 21 and safeguards tribal forest rights under FRA 2006",
+      "uncertainty": "Requires state-level enforcement vigilance",
+      "corrective_action": "Statutory non-derogation clause enacted"
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Heightened penalties for public servants and politicians prevent elite immunity; protects vulnerable forest dwellers",
+      "uncertainty": "Court trial delays",
+      "corrective_action": "Designated Special Courts with 6-month trial timeline"
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "Independent National Forest Audit Authority with satellite GIS verification",
+      "uncertainty": "Inter-agency coordination",
+      "corrective_action": "Direct criminal referral powers"
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Removes unchecked executive discretion to clear forests for mining",
+      "uncertainty": "Political lobby opposition",
+      "corrective_action": "Judicial review and statutory ban"
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Mandatory public annual GIS satellite forest scorecards published online",
+      "uncertainty": "Bandwidth in remote areas",
+      "corrective_action": "Open data API access"
+    },
+    {
+      "id": "enforceability",
+      "score": 4,
+      "evidence": "20-year realistic restoration trajectory with 5-year interim targets prevents data falsification",
+      "uncertainty": "Ecological weather variations",
+      "corrective_action": "Scientific species selection guidelines"
+    },
+    {
+      "id": "accessibility",
+      "score": 4,
+      "evidence": "Gram Sabha consultation required in regional languages",
+      "uncertainty": "Translational accuracy",
+      "corrective_action": "Mandatory local language publishing"
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "Gram Sabha veto and third-party civil society audit integration",
+      "uncertainty": "Attendance in Gram Sabhas",
+      "corrective_action": "Quorum rules under PESA enforced"
+    }
+  ]
+}

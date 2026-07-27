@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "title": "Example Democratic Impact and Implementation Monitor",
+  "jurisdiction": "India",
+  "as_of": "2026-07-26",
+  "objective": "Example only: assess implementation and rights impact.",
+  "affected_groups": [{"group": "All affected persons", "access_barriers": ["language", "disability", "cost"], "baseline_source": "To be specified"}],
+  "indicators": [{"id": "I-001", "name": "Timely reasoned-decision rate", "category": "due_process", "definition": "Percentage of decisions with published reasons within statutory time.", "data_source": "Decision register", "frequency": "quarterly", "publication": "Open aggregate dataset", "independent_validation": "Annual external audit", "privacy_safeguard": "Aggregate and de-identify"}],
+  "oversight": {"body": "Independent oversight body", "appointment_safeguard": "Plural appointment and conflict disclosure", "audit_frequency": "annual", "public_report": "annual public report", "information_remedy": "court or legislative referral for unjustified withholding"},
+  "complaints": {"channels": ["online", "offline", "accessible telephone"], "retaliation_protection": "Confidential intake and independent retaliation investigation", "outcome_publication": "Anonymised quarterly outcomes", "appeal_route": "Independent review and court access"},
+  "triggers": [{"id": "T-001", "condition": "Material rights harm or persistent disparate impact", "detector": "Independent audit or complaint data", "responsible_body": "Oversight body", "deadline": "30 days", "interim_protection": "Suspend harmful practice where necessary", "correction": "Published corrective plan and legislative/judicial referral", "public_notice": true}],
+  "review": {"legislative_review": "annual", "sunset_or_review_date": "Set by instrument", "repeal_or_amendment_route": "Published review with legislative action"}
+}
