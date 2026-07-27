@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "title": "Judicial Reform Institutional Power Map",
+  "jurisdiction": "India",
+  "as_of": "2026-07-27",
+  "actors": [
+    {
+      "id": "njarc",
+      "name": "National Judicial Appointments and Social Representation Commission (NJARC)",
+      "type": "agency"
+    },
+    {
+      "id": "njocc",
+      "name": "National Judicial Oversight and Conduct Commission (NJOCC)",
+      "type": "agency"
+    },
+    {
+      "id": "sc_5judge_bench",
+      "name": "5-Judge Supreme Court Constitution Bench",
+      "type": "court"
+    },
+    {
+      "id": "citizens",
+      "name": "Citizens & Litigants",
+      "type": "public_authority"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "njarc",
+      "to": "sc_5judge_bench",
+      "power": "recommendation",
+      "check": "Proportional social representation & public candidate shortlists",
+      "public_record": true
+    },
+    {
+      "from": "sc_5judge_bench",
+      "to": "njocc",
+      "power": "authorization",
+      "check": "5-Judge SC Bench prior authorization before investigation of judges",
+      "public_record": true
+    },
+    {
+      "from": "njocc",
+      "to": "citizens",
+      "power": "public_reporting",
+      "check": "7-14 yrs imprisonment for judicial corruption & bad-faith collusion",
+      "public_record": true
+    },
+    {
+      "from": "citizens",
+      "to": "sc_5judge_bench",
+      "power": "open_court_scrutiny",
+      "check": "100% live streaming & right to peaceful protest against miscarriage of justice",
+      "public_record": true
+    }
+  ]
+}

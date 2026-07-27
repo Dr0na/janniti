@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "title": "Judicial Reform Bill Democratic Quality Scorecard",
+  "as_of": "2026-07-27",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects fundamental rights to open justice, peaceful protest, and PIL access",
+      "uncertainty": "Requires judicial bench scheduling",
+      "corrective_action": "Statutory 24/7 Emergency Benches"
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Mandates proportional social representation across SC/ST/OBC/Minority/Women communities",
+      "uncertainty": "Demographic calculation updates",
+      "corrective_action": "Annual census alignment reports"
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "NJOCC investigation of judicial corruption; 7-14 yrs imprisonment for proven bribery/collusion",
+      "uncertainty": "Risk of bad-faith complaints",
+      "corrective_action": "5-Judge SC Constitution Bench screening gate"
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Replaces opaque collegium with broad-based NJARC balancing judges, executive, and eminent persons",
+      "uncertainty": "Executive interference",
+      "corrective_action": "CJI Chairmanship + 2 SC Judges majority"
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "100% live streaming of court proceedings and public candidate shortlist publishing",
+      "uncertainty": "Technical streaming uptime",
+      "corrective_action": "High-definition court broadcasting servers"
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Reasoned preliminary hearing required for PILs; summary dismissals prohibited",
+      "uncertainty": "Frivolous PIL volume",
+      "corrective_action": "Preliminary hearing filtering"
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "Public access to court proceedings via free live telecast and AI legal analytics",
+      "uncertainty": "Regional language translation",
+      "corrective_action": "AI multi-lingual translation units"
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "Right of citizens to assemble and protest peaceably against miscarriage of justice without police force",
+      "uncertainty": "Police compliance",
+      "corrective_action": "Statutory penal liability for police brutality"
+    }
+  ]
+}

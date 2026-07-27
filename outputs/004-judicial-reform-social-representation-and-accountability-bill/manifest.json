@@ -1,0 +1,20 @@
+{
+  "matter_id": "004",
+  "title": "Judicial Reform, Social Representation, and Accountability Bill",
+  "status": "completed",
+  "created_at": "2026-07-27T07:42:48+00:00",
+  "jurisdiction": "India",
+  "as_of_date": "2026-07-27",
+  "source_or_instruction": "User prompt requesting collegium abolition, NJARC creation, proportional social representation, judicial oversight NJOCC, PIL protection, 24/7 Emergency Benches, 100% live streaming, AI analytics, and peaceful protest protection.",
+  "related_matters": [],
+  "legacy_source_location": null,
+  "notes": "Matter 004 completed under JanNiti Operating Charter.",
+  "introduction_ready_instruments": [
+    {
+      "title": "The Constitution (One Hundred and Thirty-Eighth Amendment) Bill, 2026",
+      "instrument_type": "Constitutional Amendment",
+      "file": "01-draft/introduction-ready-judicial-reform-bill.md",
+      "registered_at": "2026-07-27T07:44:35+00:00"
+    }
+  ]
+}

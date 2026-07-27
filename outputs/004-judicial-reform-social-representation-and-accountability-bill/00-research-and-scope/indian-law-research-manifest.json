@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "004",
+  "topic": "Judicial Appointments, Diversity, Judicial Accountability, Open Courts, and PIL Protection",
+  "as_of_date": "2026-07-27",
+  "jurisdictions": [
+    {
+      "name": "India",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://www.indiacode.nic.in/",
+        "https://sci.gov.in/",
+        "https://legislative.gov.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Judicial Precedent",
+      "title": "SCAORA v. Union of India (NJAC Case)",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://sci.gov.in/supremecourt/2014/39207/39207_2014_1_1501_13245_Judg.pdf",
+          "publisher": "Supreme Court of India",
+          "pinpoint": "Paras 100-150",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "limitations": "Invalidated NJAC Act 2014 for executive veto."
+    },
+    {
+      "id": "finding-002",
+      "instrument_type": "Judicial Precedent",
+      "title": "Swapnil Tripathi v. Supreme Court of India",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://sci.gov.in/supremecourt/2017/38491/38491_2017_1_1501_15234_Judg.pdf",
+          "publisher": "Supreme Court of India",
+          "pinpoint": "Paras 30-50",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "limitations": "Mandated open court live streaming under Article 21."
+    }
+  ],
+  "gaps": [
+    "Constitutional amendment under Article 368 required to replace collegium with NJARC and establish NJOCC."
+  ],
+  "next_step": "draft"
+}

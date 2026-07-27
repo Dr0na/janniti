@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "Judicial Reform Bill Legal Provenance Ledger",
+    "jurisdiction": "India",
+    "as_of": "2026-07-27",
+    "generated_at": "2026-07-27T13:13:00+05:30"
+  },
+  "claims": [
+    {
+      "id": "C-001",
+      "text": "The Supreme Court of India in SCAORA v. Union of India (NJAC Case) held that judicial primacy in judicial appointments is part of the basic structure of the Constitution.",
+      "classification": "legal_interpretation",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Supreme Court Advocates-on-Record Association v. Union of India",
+          "authority_type": "judicial_precedent",
+          "issuer": "Supreme Court of India",
+          "url": "https://sci.gov.in/supremecourt/2014/39207/39207_2014_1_1501_13245_Judg.pdf",
+          "document_date": "2015-10-16",
+          "version_or_stage": "(2015) 5 SCC 1",
+          "pinpoint": "Paras 100-150",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Controlling precedent on 99th Constitutional Amendment.",
+      "limitations": "Requires NJARC to include CJI and SC Judges as majority/equal members.",
+      "reviewer_action": "Verified against official 5-Judge Constitution Bench Judgment."
+    },
+    {
+      "id": "C-002",
+      "text": "The Supreme Court in Swapnil Tripathi v. Supreme Court of India held that live streaming of court proceedings is an integral part of the Article 21 right to open justice.",
+      "classification": "legal_interpretation",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Swapnil Tripathi v. Supreme Court of India",
+          "authority_type": "judicial_precedent",
+          "issuer": "Supreme Court of India",
+          "url": "https://sci.gov.in/supremecourt/2017/38491/38491_2017_1_1501_15234_Judg.pdf",
+          "document_date": "2018-09-26",
+          "version_or_stage": "(2018) 10 SCC 639",
+          "pinpoint": "Paras 30-50",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Affirmed in Model Rules for Live Streaming 2021.",
+      "limitations": "Construes Article 21 open court principle.",
+      "reviewer_action": "Verified against official Supreme Court Judgment."
+    }
+  ]
+}

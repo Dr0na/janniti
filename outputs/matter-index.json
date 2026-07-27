@@ -27,6 +27,15 @@
       "as_of_date": "2026-07-27",
       "path": "003-election-commission-integrity-and-electoral-accountability-bill",
       "related_matters": []
+    },
+    {
+      "matter_id": "004",
+      "title": "Judicial Reform, Social Representation, and Accountability Bill",
+      "status": "completed",
+      "jurisdiction": "India",
+      "as_of_date": "2026-07-27",
+      "path": "004-judicial-reform-social-representation-and-accountability-bill",
+      "related_matters": []
     }
   ]
 }

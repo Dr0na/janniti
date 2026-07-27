@@ -2,8 +2,8 @@
 
 ## 1. Audit Reconciliation Metrics
 
-- **Candidate Count**: 3
-- **Registered Count**: 3
+- **Candidate Count**: 4
+- **Registered Count**: 4
 - **Unregistered Candidates**: 0
 - **Dangling Registry Entries**: 0
 - **As-of Date**: 2026-07-27
@@ -17,6 +17,7 @@
 | **001 — Forest Protection and Mining Prohibition Bill** | Forest Protection, Anti-Mining, Public Official Deterrence, and Ecological Restoration Bill, 2026 | Bill | India | 2026-07-27 | **Passed** | Registered & Verified | None | [001-forest-protection-and-mining-prohibition-bill/01-draft/introduction-ready-forest-protection-and-mining-prohibition-bill.md](001-forest-protection-and-mining-prohibition-bill/01-draft/introduction-ready-forest-protection-and-mining-prohibition-bill.md) |
 | **002 — Anti Defection Reform and Electoral Integrity Bill** | The Constitution (One Hundred and Thirty-Sixth Amendment) Bill, 2026 | Constitutional Amendment | India | 2026-07-27 | **Passed** | Registered & Verified | None | [002-anti-defection-reform-and-electoral-integrity-bill/01-draft/introduction-ready-anti-defection-reform-bill.md](002-anti-defection-reform-and-electoral-integrity-bill/01-draft/introduction-ready-anti-defection-reform-bill.md) |
 | **003 — Election Commission Integrity and Electoral Accountability Bill** | The Constitution (One Hundred and Thirty-Seventh Amendment) Bill, 2026 | Constitutional Amendment | India | 2026-07-27 | **Passed** | Registered & Verified | None | [003-election-commission-integrity-and-electoral-accountability-bill/01-draft/introduction-ready-election-commission-integrity-bill.md](003-election-commission-integrity-and-electoral-accountability-bill/01-draft/introduction-ready-election-commission-integrity-bill.md) |
+| **004 — Judicial Reform, Social Representation, and Accountability Bill** | The Constitution (One Hundred and Thirty-Eighth Amendment) Bill, 2026 | Constitutional Amendment | India | 2026-07-27 | **Passed** | Registered & Verified | None | [004-judicial-reform-social-representation-and-accountability-bill/01-draft/introduction-ready-judicial-reform-bill.md](004-judicial-reform-social-representation-and-accountability-bill/01-draft/introduction-ready-judicial-reform-bill.md) |
 
 ---
 
