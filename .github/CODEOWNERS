@@ -1,0 +1,22 @@
+# CODEOWNERS for JanNiti Framework
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-codeowners
+
+# Default owner for all files in the repository
+* @Dr0na
+
+# Operating Charter, Governance, and Ethics
+/AGENTS.md @Dr0na
+/governance/ @Dr0na
+/references/ @Dr0na
+
+# Commands and Workflows
+/commands/ @Dr0na
+/.agents/workflows/ @Dr0na
+
+# Scripts, Harness, and Validation Suite
+/scripts/ @Dr0na
+/templates/ @Dr0na
+/tests/ @Dr0na
+
+# Generated Matters, Index, and Registries
+/outputs/ @Dr0na
