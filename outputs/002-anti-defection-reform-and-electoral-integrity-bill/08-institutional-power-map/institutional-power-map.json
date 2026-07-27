@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "title": "Anti-Defection Reform Institutional Power Map",
+  "jurisdiction": "India",
+  "as_of": "2026-07-27",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India",
+      "type": "legislature"
+    },
+    {
+      "id": "eci",
+      "name": "Election Commission of India",
+      "type": "agency"
+    },
+    {
+      "id": "supreme_court",
+      "name": "Supreme Court of India",
+      "type": "court"
+    },
+    {
+      "id": "legislators",
+      "name": "Elected Members (MPs / MLAs)",
+      "type": "public_authority"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "eci",
+      "power": "constitutional_delegation",
+      "check": "30-day statutory adjudication mandate",
+      "public_record": true
+    },
+    {
+      "from": "eci",
+      "to": "legislators",
+      "power": "disqualification_order",
+      "check": "automatic seat vacation & 6-year bar",
+      "public_record": true
+    },
+    {
+      "from": "eci",
+      "to": "supreme_court",
+      "power": "adjudication",
+      "check": "judicial review by Supreme Court",
+      "public_record": true
+    }
+  ]
+}

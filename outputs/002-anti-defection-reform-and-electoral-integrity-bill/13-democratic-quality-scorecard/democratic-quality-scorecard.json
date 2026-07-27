@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "title": "Anti-Defection Reform Bill Democratic Quality Scorecard",
+  "as_of": "2026-07-27",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects public right to genuine representative democracy and voter mandate",
+      "uncertainty": "Requires swift ECI execution",
+      "corrective_action": "Statutory 30-day decision rule enacted"
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Eliminates elite 2/3rd merger loophole; applies strict disqualification to all defectors equally",
+      "uncertainty": "Court trial delays",
+      "corrective_action": "Special Courts under RPA 1951"
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "Transfers adjudication from partisan Speakers to independent ECI",
+      "uncertainty": "ECI workload during general elections",
+      "corrective_action": "Special ECI Adjudication Benches"
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Removes Speaker's unchecked discretion to protect defecting ruling party members",
+      "uncertainty": "Political resistance",
+      "corrective_action": "Constitutional Amendment under Art 368"
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Public digital case management and mandatory 24-hour seat vacancy notification",
+      "uncertainty": "Internet connectivity in remote assemblies",
+      "corrective_action": "Official Gazette publishing requirement"
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Automatic seat vacation by operation of law upon defection",
+      "uncertainty": "Legal challenges to ECI orders",
+      "corrective_action": "Direct Supreme Court judicial review"
+    },
+    {
+      "id": "accessibility",
+      "score": 4,
+      "evidence": "Public filing of defection petitions before ECI",
+      "uncertainty": "Regional language translations",
+      "corrective_action": "Regional ECI notices"
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "Mandates fresh electoral mandate (by-election) whenever a member seeks to change party affiliation",
+      "uncertainty": "By-election cost",
+      "corrective_action": "Financed via Consolidated Fund"
+    }
+  ]
+}

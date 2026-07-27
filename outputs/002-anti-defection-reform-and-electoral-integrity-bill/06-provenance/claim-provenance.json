@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "Anti-Defection Reform Bill Legal Provenance Ledger",
+    "jurisdiction": "India",
+    "as_of": "2026-07-27",
+    "generated_at": "2026-07-27T11:50:00+05:30"
+  },
+  "claims": [
+    {
+      "id": "C-001",
+      "text": "The Tenth Schedule to the Constitution of India governs disqualification on grounds of defection.",
+      "classification": "current_law",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Constitution of India",
+          "authority_type": "constitution",
+          "issuer": "Legislative Department, Government of India",
+          "url": "https://www.indiacode.nic.in/handle/123456789/10232",
+          "document_date": "1985-02-15",
+          "version_or_stage": "Tenth Schedule",
+          "pinpoint": "Paragraph 2",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Amended by the 91st Constitutional Amendment Act, 2003.",
+      "limitations": "Paragraph 4 merger exemption permits wholesale defection.",
+      "reviewer_action": "Verified against current Constitution text."
+    },
+    {
+      "id": "C-002",
+      "text": "The Supreme Court recommended replacing the Speaker with an independent tribunal to adjudicate defection petitions within a binding time frame.",
+      "classification": "legal_interpretation",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Keisham Meghachandra Singh v. Speaker, Manipur Legislative Assembly",
+          "authority_type": "judicial_precedent",
+          "issuer": "Supreme Court of India",
+          "url": "https://sci.gov.in/supremecourt/2019/33580/33580_2019_1_1501_19854_Judg.pdf",
+          "document_date": "2020-01-21",
+          "version_or_stage": "(2020) 14 SCC 307",
+          "pinpoint": "Paras 28-33",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Affirmed in Subhash Desai (2023).",
+      "limitations": "Recommends legislative / constitutional amendment.",
+      "reviewer_action": "Verified against Supreme Court official judgment."
+    }
+  ]
+}

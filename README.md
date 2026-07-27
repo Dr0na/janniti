@@ -97,6 +97,7 @@ Every instrument that passes the gate is automatically added to [the introductio
 | Instrument | Type | Jurisdiction | Final file |
 |---|---|---|---|
 | Forest Protection, Anti-Mining, Public Official Deterrence, and Ecological Restoration Bill, 2026 | Bill | India | [001-forest-protection-and-mining-prohibition-bill/01-draft/introduction-ready-forest-protection-and-mining-prohibition-bill.md](outputs/001-forest-protection-and-mining-prohibition-bill/01-draft/introduction-ready-forest-protection-and-mining-prohibition-bill.md) |
+| The Constitution (One Hundred and Thirty-Sixth Amendment) Bill, 2026 | Constitutional Amendment | India | [002-anti-defection-reform-and-electoral-integrity-bill/01-draft/introduction-ready-anti-defection-reform-bill.md](outputs/002-anti-defection-reform-and-electoral-integrity-bill/01-draft/introduction-ready-anti-defection-reform-bill.md) |
 
 <!-- END INTRODUCTION-READY REGISTRY -->
 

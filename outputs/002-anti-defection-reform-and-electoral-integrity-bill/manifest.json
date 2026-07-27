@@ -1,0 +1,20 @@
+{
+  "matter_id": "002",
+  "title": "Anti Defection Reform and Electoral Integrity Bill",
+  "status": "completed",
+  "created_at": "2026-07-27T06:20:17+00:00",
+  "jurisdiction": "India",
+  "as_of_date": "2026-07-27",
+  "source_or_instruction": "User prompt requesting loophole-free anti-defection law repealing Paragraph 4 merger exception and transferring adjudication to ECI.",
+  "related_matters": [],
+  "legacy_source_location": null,
+  "notes": "Matter 002 completed under JanNiti Operating Charter.",
+  "introduction_ready_instruments": [
+    {
+      "title": "The Constitution (One Hundred and Thirty-Sixth Amendment) Bill, 2026",
+      "instrument_type": "Constitutional Amendment",
+      "file": "01-draft/introduction-ready-anti-defection-reform-bill.md",
+      "registered_at": "2026-07-27T06:21:30+00:00"
+    }
+  ]
+}
