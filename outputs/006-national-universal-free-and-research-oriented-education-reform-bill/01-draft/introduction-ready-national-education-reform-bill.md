@@ -280,7 +280,13 @@ In this Act, unless the context otherwise requires,—
 
   (c) serving on any educational board, council, or inspection committee.
 
-### 29. Power to make rules
+### 29. Statutory entrenchment safeguard against political dilution
+
+1. Notwithstanding anything contained in any other law for the time being in force, no bill seeking to repeal, amend, or dilute the provisions of sections 4, 5, 7, 8, 9, 10, 16, 19, 22, 23, or this section shall be passed in either House of Parliament unless it is passed by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting.
+
+2. Before any bill referred to in sub-section (1) is introduced in Parliament, the Central Government shall obtain a formal resolution of concurrence passed by the Inter-State Council.
+
+### 30. Power to make rules
 
 1. The Central Government may, by notification in the Official Gazette, make rules for carrying out the provisions of this Act.
 
@@ -396,7 +402,7 @@ The Bill seeks to achieve these transformative objectives while respecting the f
 
 ## MEMORANDUM REGARDING DELEGATED LEGISLATION
 
-Clause 29 of the Bill empowers the Central Government to make rules for carrying out the provisions of the Act. The matters with respect to which rules may be made pertain to procedural and administrative details regarding:
+Clause 30 of the Bill empowers the Central Government to make rules for carrying out the provisions of the Act. The matters with respect to which rules may be made pertain to procedural and administrative details regarding:
 
 1. Infrastructure benchmarks and neighborhood school distance standards under Clause 5 and Schedule I;
 
@@ -412,5 +418,5 @@ Clause 29 of the Bill empowers the Central Government to make rules for carrying
 
 7. Research fellowship grant disbursement criteria under Clauses 17 and 18.
 
-The delegated powers are administrative in nature and strictly bounded by statutory criteria. All rules made under the Act are subject to mandatory parliamentary scrutiny and laying requirements under sub-clause (3) of Clause 29. The delegation of legislative power is, therefore, of a normal and routine character.
+The delegated powers are administrative in nature and strictly bounded by statutory criteria. All rules made under the Act are subject to mandatory parliamentary scrutiny and laying requirements under sub-clause (3) of Clause 30. The delegation of legislative power is, therefore, of a normal and routine character.
 
