@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "Right to Free, Universal, Scientific and Research-Oriented Education Bill Legal Provenance Ledger",
+    "jurisdiction": "India",
+    "as_of": "2026-07-27",
+    "generated_at": "2026-07-27T16:17:00+05:30"
+  },
+  "claims": [
+    {
+      "id": "C-001",
+      "text": "Article 21A guarantees free and compulsory education for children aged 6 to 14 years.",
+      "classification": "current_law",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Constitution of India",
+          "authority_type": "constitution",
+          "issuer": "Ministry of Law and Justice",
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "document_date": "2002-12-12",
+          "version_or_stage": "Part III Fundamental Rights",
+          "pinpoint": "Article 21A",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Enacted via 86th Constitutional Amendment Act, 2002.",
+      "limitations": "Does not cover pre-primary (3-6 yrs) or higher/vocational education (14-22 yrs).",
+      "reviewer_action": "Verified against current Constitution text."
+    },
+    {
+      "id": "C-002",
+      "text": "Article 51A(h) casts a fundamental duty on citizens to develop scientific temper, humanism, and the spirit of inquiry and reform.",
+      "classification": "current_law",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Constitution of India",
+          "authority_type": "constitution",
+          "issuer": "Ministry of Law and Justice",
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "document_date": "1976-12-18",
+          "version_or_stage": "Part IVA Fundamental Duties",
+          "pinpoint": "Article 51A(h)",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Inserted via 42nd Constitutional Amendment Act, 1976.",
+      "limitations": "Directive duty requiring statutory curricular implementation.",
+      "reviewer_action": "Verified against Part IVA of Constitution."
+    },
+    {
+      "id": "C-003",
+      "text": "The Supreme Court ruled in Unni Krishnan (1993) that education cannot be commercialized and capitation fees are unlawful.",
+      "classification": "legal_interpretation",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Unni Krishnan, J.P. v. State of Andhra Pradesh",
+          "authority_type": "judicial_decision",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "1993-02-04",
+          "version_or_stage": "(1993) 1 SCC 645",
+          "pinpoint": "1993 1 SCC 645",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "subsequent_history_checked": "Affirmed in TMA Pai (2002) and Islamic Academy (2003).",
+      "limitations": "Enforcement requires state-level fee regulation commissions and criminal sanctions.",
+      "reviewer_action": "Verified against Supreme Court precedent."
+    }
+  ]
+}

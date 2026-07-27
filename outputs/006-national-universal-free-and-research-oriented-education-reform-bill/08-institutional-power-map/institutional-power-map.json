@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "006",
+  "title": "Right to Free, Universal, Scientific and Research-Oriented Education Institutional Power Map",
+  "nodes": [
+    {
+      "id": "nsrf",
+      "name": "National Scientific Research Foundation (NSRF)",
+      "type": "statutory_foundation",
+      "appointment_chain": "President of India on recommendation of Prime Minister and Chief Scientific Adviser",
+      "funding_source": "Statutory R&D Allocation (Targeting 3% GDP)",
+      "powers": ["National research grant administration", "Undergraduate Research Fellowships", "University R&D accreditation"],
+      "checks": ["Parliamentary oversight", "Peer-reviewed scientific merit audit"],
+      "removal_mechanism": "Statutory inquiry on proven misbehavior"
+    },
+    {
+      "id": "fee_commission",
+      "name": "State Education Fee Regulation Commissions",
+      "type": "statutory_commission",
+      "appointment_chain": "State Government in consultation with Chief Justice of High Court",
+      "funding_source": "State Budget / Fee Regulation Fund",
+      "powers": ["Fee caps on private educational institutions", "Audit of school/university financial accounts"],
+      "checks": ["High Court judicial review", "Annual public fee notification"],
+      "removal_mechanism": "Same as High Court Judge"
+    },
+    {
+      "id": "inspectorate",
+      "name": "National Education Quality and Integrity Inspectorate",
+      "type": "oversight_body",
+      "appointment_chain": "Union Cabinet Selection Panel",
+      "funding_source": "Central Budget Allocation",
+      "powers": ["Unannounced academic and infrastructural audits", "District education scorecards"],
+      "checks": ["Parliamentary Committee on Education", "CAG Financial Audit"],
+      "removal_mechanism": "Fixed 3-year term; statutory removal process"
+    }
+  ],
+  "power_chains": [
+    {
+      "chain_id": "free_education_chain",
+      "description": "Statutory universal free education entitlement -> State public infrastructure expansion -> Zero fee enrollment (Age 3-22)",
+      "vulnerability": "Risk of private school fee gouging or commercial capitation fees",
+      "mitigation": "State Fee Regulation Commissions + 3 to 10 years imprisonment for capitation fees (Clause 18)"
+    },
+    {
+      "chain_id": "research_funding_chain",
+      "description": "3% GDP R&D budget allocation -> NSRF competitive grants -> 500,000 Undergraduate Fellowships",
+      "vulnerability": "Risk of political bias or unscientific grant allocation",
+      "mitigation": "Independent peer-review scientific merit requirement + open digital grant tracking"
+    }
+  ]
+}

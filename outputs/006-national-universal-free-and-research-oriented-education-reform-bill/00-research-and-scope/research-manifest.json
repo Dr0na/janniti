@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "006",
+  "topic": "National Universal Free and Research Oriented Education Reform Bill",
+  "as_of_date": "2026-07-27",
+  "jurisdictions": [
+    {
+      "name": "India",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/",
+        "https://www.education.gov.in/",
+        "https://www.ugc.ac.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Constitution",
+      "title": "Constitution of India, Article 21A, 51A(g), 51A(h)",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "publisher": "Ministry of Law and Justice",
+          "pinpoint": "Article 21A, Article 51A(g), (h)",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "limitations": "Article 21A covers only ages 6 to 14; expansion to ages 3-22 requires central statutory legislation."
+    },
+    {
+      "id": "finding-002",
+      "instrument_type": "Act",
+      "title": "Right of Children to Free and Compulsory Education Act, 2009",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/2088",
+          "publisher": "Parliament of India",
+          "pinpoint": "Sections 3, 12",
+          "retrieved_at": "2026-07-27"
+        }
+      ],
+      "limitations": "Restricted scope; lacks R&D spending guarantees and universal pre-primary to higher education coverage."
+    }
+  ],
+  "gaps": [
+    "National R&D spending under-allocated (~0.65% GDP).",
+    "Absence of statutory guarantees for free higher/vocational education and practical scientific curriculum."
+  ],
+  "next_step": "draft"
+}
