@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: National Anti Counterfeiting Product Integrity and Quality Standards Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track digital track-and-trace adoption, counterfeit seizure rates, and consumer compensation.",
+  "affected_groups": [
+    "Consumers across India",
+    "Manufacturers and brand owners",
+    "Retailers and e-commerce platforms"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Digital Track-and-Trace Compliance Rate",
+      "category": "product_integrity",
+      "definition": "Proportion of consumer commodities carrying active QR/RFID track-and-trace serialization codes.",
+      "data_source": "National Product Authenticity Information Portal",
+      "frequency": "monthly",
+      "publication": "Public Open Portal",
+      "independent_validation": "BIS & Consumer Association Audit",
+      "privacy_safeguard": "Product serialization telemetry (no PII)"
+    }
+  ],
+  "oversight": {
+    "body": "National Anti-Counterfeiting Oversight Committee",
+    "composition": "Judges, customs officials, consumer advocates, technical experts",
+    "powers": "Statutory audit and enforcement oversight"
+  },
+  "complaints": {
+    "channel": "National Counterfeit Product Reporting Portal & App",
+    "deadline_days": 7,
+    "appeal_route": "Special Anti-Counterfeiting Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Detection of counterfeit Life-Critical Commodities in commercial supply chains or e-commerce platforms.",
+      "detector": "National Product Authenticity Portal & Consumer Reports",
+      "responsible_body": "National Anti-Counterfeiting Authority",
+      "deadline": "12 hours",
+      "interim_protection": "Mandatory digital takedown and inventory seizure order",
+      "correction": "Seizure, forensic analysis, syndicate prosecution, asset forfeiture",
+      "public_notice": "Public red alert notice on National Portal"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

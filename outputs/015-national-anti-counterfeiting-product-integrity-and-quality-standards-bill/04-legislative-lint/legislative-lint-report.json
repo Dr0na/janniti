@@ -1,0 +1,12 @@
+{
+  "file": "outputs/015-national-anti-counterfeiting-product-integrity-and-quality-standards-bill/01-draft/introduction-ready-national-anti-counterfeiting-product-integrity-and-quality-standards-bill.md",
+  "findings": [
+    {
+      "rule_id": "L010",
+      "severity": "High",
+      "line": 139,
+      "excerpt": "(1) Whoever contravenes section 3 by manufacturing, importing, or distributing any counterfeit Life-Critical Commodity shall be punishable with imprisonment for a term which shall not be less than seven years but which may extend to life imprisonment, and with fine which shall not be less than fifty lakh rupees but which may extend to five crore rupees.",
+      "suggested_review": "Penalty provision; verify clear elements, mental state, defences, and proportionality."
+    }
+  ]
+}

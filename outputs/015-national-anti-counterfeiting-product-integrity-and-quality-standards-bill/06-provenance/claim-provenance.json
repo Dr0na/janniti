@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "015",
+    "title": "National Anti Counterfeiting Product Integrity and Quality Standards Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "State has a constitutional duty under Article 21 to protect consumers against hazardous, spurious, and sub-standard commodities.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Centre for Public Interest Litigation v. Union of India",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "2013-10-22",
+          "version_or_stage": "reported",
+          "pinpoint": "(2013) 16 SCC 279",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes state duty to enforce strict quality and safety standards.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

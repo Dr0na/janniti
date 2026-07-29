@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "015",
+  "title": "National Anti Counterfeiting Product Integrity and Quality Standards Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "napia",
+      "name": "National Anti-Counterfeiting and Product Integrity Authority"
+    },
+    {
+      "id": "special_courts",
+      "name": "Special Anti-Counterfeiting Courts"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "napia",
+      "power": "rulemaking"
+    },
+    {
+      "from": "special_courts",
+      "to": "napia",
+      "power": "adjudication"
+    }
+  ]
+}

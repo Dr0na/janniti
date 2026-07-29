@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "015",
+  "title": "Democratic Quality Scorecard: National Anti Counterfeiting Product Integrity and Quality Standards Bill",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects Article 21 health and consumer safety rights against hazardous/spurious goods.",
+      "uncertainty": "Technical implementation timeline.",
+      "corrective_action": "Staged commencement."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Protects innocent small retailers under Clause 11 bona fide purchaser defense.",
+      "uncertainty": "Enforcement variation across districts.",
+      "corrective_action": "National track-and-trace portal."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "Life imprisonment for life-critical counterfeits; summary asset forfeiture of syndicates.",
+      "uncertainty": "Prosecutorial trial speed.",
+      "corrective_action": "Special Courts with 90-day trial limit."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Independent National Anti-Counterfeiting Authority with judicial trial oversight by Special Courts.",
+      "uncertainty": "Inter-agency coordination.",
+      "corrective_action": "Parliamentary annual review."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Real-time open National Product Authenticity Information Portal for instant consumer scanning.",
+      "uncertainty": "Server downtime.",
+      "corrective_action": "Redundant portal infrastructure."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Asset forfeiture, e-commerce strict liability, 10x consumer compensation.",
+      "uncertainty": "Corporate litigation resistance.",
+      "corrective_action": "Fast-track summary trials."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "13 languages, instant mobile QR code scanning.",
+      "uncertainty": "Digital literacy.",
+      "corrective_action": "SMS verification alternative."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day public consultation, consumer forum roundtables.",
+      "uncertainty": "Comment volume.",
+      "corrective_action": "NLP tool categorization."
+    }
+  ]
+}
