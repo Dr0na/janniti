@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "011",
+  "title": "Democratic Quality Scorecard: Gig Worker Protection Minimum Wage and Social Security Bill",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Guarantees Article 21 livelihood and Article 23 protection against wage exploitation.",
+      "uncertainty": "Platform compliance tracking.",
+      "corrective_action": "Statutory social security fund audit."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Protects informal and gig workers with living wages and health insurance.",
+      "uncertainty": "Varying regional cost of living.",
+      "corrective_action": "Tier-based minimum living wage calculation."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "Human-in-the-loop review for account deactivations; 2% platform transaction levy.",
+      "uncertainty": "Platform restructuring.",
+      "corrective_action": "Labour Commissioner enforcement."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Tripartite Gig Worker Welfare Board representing workers, platforms, and government.",
+      "uncertainty": "Inter-agency coordination.",
+      "corrective_action": "Parliamentary annual review."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Mandatory algorithmic transparency regarding task allocation and earnings.",
+      "uncertainty": "Proprietary algorithm secrecy claims.",
+      "corrective_action": "Statutory disclosure mandate."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Civil penalties and mandatory account restoration for unfair deactivations.",
+      "uncertainty": "Platform evasion.",
+      "corrective_action": "License suspension power."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "13 languages, mobile app grievance filing.",
+      "uncertainty": "Digital access.",
+      "corrective_action": "Labor helpline."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day consultation, gig union roundtables.",
+      "uncertainty": "Comment volume.",
+      "corrective_action": "NLP tool categorization."
+    }
+  ]
+}

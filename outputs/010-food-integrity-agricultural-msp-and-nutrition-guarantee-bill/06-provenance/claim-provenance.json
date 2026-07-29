@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "010",
+    "title": "Food Integrity Agricultural MSP and Nutrition Guarantee Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "Right to life includes the right to wholesome, unadulterated food and nutrition.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "People's Union for Civil Liberties v. Union of India",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "2001-07-23",
+          "version_or_stage": "reported",
+          "pinpoint": "(2007) 1 SCC 728",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes constitutional right to food.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

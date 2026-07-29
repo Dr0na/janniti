@@ -63,6 +63,69 @@
       "as_of_date": "2026-07-29",
       "path": "007-national-universal-free-healthcare-and-medical-integrity-bill",
       "related_matters": []
+    },
+    {
+      "matter_id": "008",
+      "title": "National Clean Air Water and Environmental Accountability Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "008-national-clean-air-water-and-environmental-accountability-bill",
+      "related_matters": []
+    },
+    {
+      "matter_id": "009",
+      "title": "Whistleblower Protection Free Expression and Anti SLAPP Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "009-whistleblower-protection-free-expression-and-anti-slapp-bill",
+      "related_matters": []
+    },
+    {
+      "matter_id": "010",
+      "title": "Food Integrity Agricultural MSP and Nutrition Guarantee Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "010-food-integrity-agricultural-msp-and-nutrition-guarantee-bill",
+      "related_matters": []
+    },
+    {
+      "matter_id": "011",
+      "title": "Gig Worker Protection Minimum Wage and Social Security Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "011-gig-worker-protection-minimum-wage-and-social-security-bill",
+      "related_matters": []
+    },
+    {
+      "matter_id": "012",
+      "title": "Citizen Algorithmic Rights Biometric and AI Transparency Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "012-citizen-algorithmic-rights-biometric-and-ai-transparency-bill",
+      "related_matters": []
+    },
+    {
+      "matter_id": "013",
+      "title": "Housing Security Anti Eviction and Urban Land Equity Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "013-housing-security-anti-eviction-and-urban-land-equity-bill",
+      "related_matters": []
+    },
+    {
+      "matter_id": "014",
+      "title": "Universal Public Transport and Accessible Mobility Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "014-universal-public-transport-and-accessible-mobility-bill",
+      "related_matters": []
     }
   ]
 }

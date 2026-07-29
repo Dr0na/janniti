@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Food Integrity Agricultural MSP and Nutrition Guarantee Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track MSP realization, food adulteration reduction, and nutritional security.",
+  "affected_groups": [
+    "Farmers and agricultural workers",
+    "Consumers across India",
+    "Traders and food processors"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "MSP Realization Percentage",
+      "category": "agricultural_equity",
+      "definition": "Proportion of agricultural produce sold at or above statutory C2+50% MSP.",
+      "data_source": "National Agriculture Market (eNAM) Portal",
+      "frequency": "monthly",
+      "publication": "Public Open Portal",
+      "independent_validation": "Commission for Agricultural Costs and Prices Audit",
+      "privacy_safeguard": "Aggregated trade telemetry"
+    }
+  ],
+  "oversight": {
+    "body": "National Agricultural Price and Food Integrity Board",
+    "composition": "Farmer representatives, agricultural economists, food scientists",
+    "powers": "Statutory audit and price enforcement"
+  },
+  "complaints": {
+    "channel": "Farmer MSP Grievance Portal & Mandi Ombudsman",
+    "deadline_days": 7,
+    "appeal_route": "District Agricultural Tribunal"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Mandi trade price falling below statutory MSP for any crop in a district.",
+      "detector": "eNAM Price Monitoring System",
+      "responsible_body": "National Agricultural Price Authority",
+      "deadline": "24 hours",
+      "interim_protection": "Mandatory market intervention and state procurement",
+      "correction": "Immediate market intervention fund release",
+      "public_notice": "Public notification on Mandi board"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

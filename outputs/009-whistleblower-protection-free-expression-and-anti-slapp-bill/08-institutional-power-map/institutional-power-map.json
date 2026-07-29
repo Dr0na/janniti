@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "009",
+  "title": "Whistleblower Protection Free Expression and Anti SLAPP Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "competent_authority",
+      "name": "Central Whistleblower Protection Authority"
+    },
+    {
+      "id": "high_courts",
+      "name": "High Courts & District Judiciary"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "competent_authority",
+      "power": "rulemaking"
+    },
+    {
+      "from": "high_courts",
+      "to": "competent_authority",
+      "power": "adjudication"
+    }
+  ]
+}

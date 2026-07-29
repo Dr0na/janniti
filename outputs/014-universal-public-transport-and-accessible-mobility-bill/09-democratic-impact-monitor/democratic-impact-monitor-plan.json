@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Universal Public Transport and Accessible Mobility Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track 1km transit stop radius coverage, disability accessibility compliance, and NMT lane safety.",
+  "affected_groups": [
+    "Urban commuters and residents",
+    "Persons with disabilities and elderly commuters",
+    "State transport corporations"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Transit Stop 1km Urban Radius Coverage Rate",
+      "category": "mobility_equity",
+      "definition": "Percentage of urban residents within 1 km walking distance of a functional public transit stop.",
+      "data_source": "GIS Urban Mobility Spatial Portal",
+      "frequency": "semi_annual",
+      "publication": "Public Open Portal",
+      "independent_validation": "Urban Mobility Institute Audit",
+      "privacy_safeguard": "Spatial infrastructure telemetry"
+    }
+  ],
+  "oversight": {
+    "body": "National Public Transit Board",
+    "composition": "Disability rights advocates, urban transit planners, commuter representatives",
+    "powers": "Statutory accessibility audit and grant disbursement"
+  },
+  "complaints": {
+    "channel": "Transit Accessibility Grievance Portal",
+    "deadline_days": 15,
+    "appeal_route": "Chief Commissioner for Persons with Disabilities / High Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Procurement or operation of non-accessible public buses or systemic transit stop radius gap.",
+      "detector": "Transit Audit & Grievance Portal",
+      "responsible_body": "National Public Transit Authority",
+      "deadline": "30 days",
+      "interim_protection": "Mandatory temporary shuttle deployment",
+      "correction": "Grant withholding and fleet accessibility compliance directive",
+      "public_notice": "Public compliance audit report"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation Plan: Housing Security Anti Eviction and Urban Land Equity Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "Housing Security Anti Eviction and Urban Land Equity Bill",
+  "publication": {
+    "plain_language_summary": "Ban on forced evictions without 90-day notice and judicial hearing, 30% urban land quota for low-income housing, land title security.",
+    "full_draft": "Draft text published on Housing Ministry portal.",
+    "impact_notes": "Urban housing and human rights impact notes.",
+    "evidence_register": "UN Housing Rights reports, Supreme Court judgments.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader PDF"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission", "Municipal drop-boxes"],
+    "accessibility": "Barrier-free access, 13 languages",
+    "affected_groups": ["Urban poor", "Housing activists", "Real estate developers"],
+    "anti_retaliation": "Whistleblower protection"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory real estate lobby register",
+    "anti_capture": "Independent housing advisory panel",
+    "privacy": "Anonymized public comments",
+    "automated_analysis_disclosure": "NLP tool disclosure"
+  },
+  "deliberation": {
+    "townhalls": "District Municipal Corporation public hearings",
+    "stakeholder_roundtables": "Roundtables with urban planners, housing rights NGOs"
+  },
+  "response_to_comments": {
+    "publication": "Public Submissions Matrix",
+    "fields": ["Submission ID", "Clause Reference", "Response"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Cell",
+    "reconsultation_trigger": "Substantive structural changes to land pooling quota",
+    "public_notice": "Gazette notice"
+  }
+}

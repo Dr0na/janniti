@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "013",
+  "topic": "Housing Security Anti Eviction and Urban Land Equity Bill",
+  "as_of_date": "2026-07-29",
+  "jurisdictions": [
+    {
+      "name": "India (Union & States)",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Constitution",
+      "title": "Constitution of India, Article 21, Seventh Schedule List III Item 20",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "publisher": "Ministry of Law and Justice",
+          "pinpoint": "Article 21 (Right to Shelter - Chameli Singh v. State of U.P. (1996) 2 SCC 549)",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Right to life includes right to shelter and protection against arbitrary forced eviction."
+    }
+  ],
+  "gaps": [
+    "Absence of statutory prohibition against summary house demolitions without judicial hearing and 90-day notice."
+  ],
+  "next_step": "draft"
+}

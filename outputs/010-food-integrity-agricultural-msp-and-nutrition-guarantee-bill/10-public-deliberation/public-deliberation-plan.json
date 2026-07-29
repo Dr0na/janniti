@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation Plan: Food Integrity Agricultural MSP and Nutrition Guarantee Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "Food Integrity Agricultural MSP and Nutrition Guarantee Bill",
+  "publication": {
+    "plain_language_summary": "Statutory MSP guarantee (C2+50%), digital food testing for adulteration, 100% nutritional security.",
+    "full_draft": "Draft text published on Ministry of Agriculture portal.",
+    "impact_notes": "Agricultural economics impact notes.",
+    "evidence_register": "Swaminathan Commission reports, ICAR studies.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader PDF"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission", "Mandi drop-boxes"],
+    "accessibility": "Barrier-free access, 13 languages",
+    "affected_groups": ["Farmers", "Consumers", "Traders"],
+    "anti_retaliation": "Whistleblower protection"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory corporate agribusiness lobby register",
+    "anti_capture": "Independent farmer advisory panel",
+    "privacy": "Anonymized public comments",
+    "automated_analysis_disclosure": "NLP tool disclosure"
+  },
+  "deliberation": {
+    "townhalls": "District Krishi Vigyan Kendra public hearings",
+    "stakeholder_roundtables": "Roundtables with farmer unions, agricultural universities"
+  },
+  "response_to_comments": {
+    "publication": "Public Submissions Matrix",
+    "fields": ["Submission ID", "Clause Reference", "Response"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Cell",
+    "reconsultation_trigger": "Substantive structural changes to MSP formula",
+    "public_notice": "Gazette notice"
+  }
+}

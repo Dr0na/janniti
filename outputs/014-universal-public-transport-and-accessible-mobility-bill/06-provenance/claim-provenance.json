@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "014",
+    "title": "Universal Public Transport and Accessible Mobility Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "Freedom of movement under Article 19(1)(d) and non-discrimination under Article 14 encompass accessible public transportation rights.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Rajive Raturi v. Union of India",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "2017-12-15",
+          "version_or_stage": "reported",
+          "pinpoint": "(2018) 2 SCC 413",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes mandatory disability accessibility rights.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation Plan: Citizen Algorithmic Rights Biometric and AI Transparency Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "Citizen Algorithmic Rights Biometric and AI Transparency Bill",
+  "publication": {
+    "plain_language_summary": "Ban on mass facial recognition, prohibition of biometric welfare denial, open-source AI audits, right to human explainability.",
+    "full_draft": "Draft text published on MeitY portal.",
+    "impact_notes": "Digital rights and AI ethics impact notes.",
+    "evidence_register": "Justice Srikrishna Committee report, Puttaswamy judgment.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader PDF"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission"],
+    "accessibility": "Barrier-free access, 13 languages",
+    "affected_groups": ["Citizens", "Tech companies", "AI researchers"],
+    "anti_retaliation": "Whistleblower protection"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory tech industry lobby register",
+    "anti_capture": "Independent civil society advisory panel",
+    "privacy": "Anonymized public comments",
+    "automated_analysis_disclosure": "NLP tool disclosure"
+  },
+  "deliberation": {
+    "townhalls": "Public digital rights roundtables",
+    "stakeholder_roundtables": "Roundtables with academic computer scientists, privacy advocates"
+  },
+  "response_to_comments": {
+    "publication": "Public Submissions Matrix",
+    "fields": ["Submission ID", "Clause Reference", "Response"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Cell",
+    "reconsultation_trigger": "Substantive structural changes to AI audit rules",
+    "public_notice": "Gazette notice"
+  }
+}

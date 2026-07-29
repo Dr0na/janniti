@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "009",
+    "title": "Whistleblower Protection Free Expression and Anti SLAPP Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "Freedom of expression includes the right to disclose public interest information.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Romesh Thappar v. State of Madras",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "1950-05-26",
+          "version_or_stage": "reported",
+          "pinpoint": "1950 SCR 594",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Right subject to Article 19(2) reasonable restrictions.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

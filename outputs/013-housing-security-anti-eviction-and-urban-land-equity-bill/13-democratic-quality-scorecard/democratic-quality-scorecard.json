@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "013",
+  "title": "Democratic Quality Scorecard: Housing Security Anti Eviction and Urban Land Equity Bill",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects Article 21 right to shelter and dignity against arbitrary eviction.",
+      "uncertainty": "Enforcement against municipal agencies.",
+      "corrective_action": "Mandatory judicial order requirement."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Reserves 30% urban land pooling for affordable low-income housing.",
+      "uncertainty": "Urban real estate cost pressure.",
+      "corrective_action": "Statutory land reservation override."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "Criminal penalties and reconstruction compensation for illegal demolitions.",
+      "uncertainty": "Administrative delay.",
+      "corrective_action": "Emergency stay helpline."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Demolition powers subject to independent Judicial Magistrate authorization.",
+      "uncertainty": "Judicial caseload.",
+      "corrective_action": "Designated housing rights magistrates."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Mandatory 90-day written public notice and open GIS urban land allocation mapping.",
+      "uncertainty": "Notice delivery in informal settlements.",
+      "corrective_action": "Physical posting and public loudspeaker notice."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Imprisonment up to 3 years for executing unauthorized evictions.",
+      "uncertainty": "Police compliance.",
+      "corrective_action": "Direct judicial contempt enforcement."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "13 languages, municipal drop-boxes, legal aid representation.",
+      "uncertainty": "Literacy barriers.",
+      "corrective_action": "Community legal aid camps."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day consultation, urban poor townhalls.",
+      "uncertainty": "Comment volume.",
+      "corrective_action": "NLP tool categorization."
+    }
+  ]
+}

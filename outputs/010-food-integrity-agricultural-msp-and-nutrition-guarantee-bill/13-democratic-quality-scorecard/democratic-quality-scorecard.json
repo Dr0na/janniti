@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "010",
+  "title": "Democratic Quality Scorecard: Food Integrity Agricultural MSP and Nutrition Guarantee Bill",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Statutory right to MSP (C2+50%) and unadulterated food grounded in Article 21 and 47.",
+      "uncertainty": "Fiscal procurement budget.",
+      "corrective_action": "Market intervention revolving fund."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Protects small and marginal farmers against predatory traders.",
+      "uncertainty": "Mandi infrastructure reach.",
+      "corrective_action": "Mobile mandi procurement units."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "Criminal penalties for purchasing below MSP and food adulteration.",
+      "uncertainty": "Inspection capacity.",
+      "corrective_action": "Automated digital testing labs."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Independent National Authority with multi-stakeholder farmer representation.",
+      "uncertainty": "Inter-state trade friction.",
+      "corrective_action": "Uniform national e-NAM integration."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Real-time open portal for Mandi prices and food adulteration lab test results.",
+      "uncertainty": "Data connectivity in remote Mandis.",
+      "corrective_action": "Offline digital syncing."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Imprisonment and heavy fines for adulteration cartels; summary trial before special courts.",
+      "uncertainty": "Court backlogs.",
+      "corrective_action": "Designated special agricultural courts."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "13 languages, Mandi drop-boxes, SMS price alerts.",
+      "uncertainty": "Digital literacy.",
+      "corrective_action": "Radio and local Mandi announcements."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day consultation, Krishi Vigyan Kendra townhalls.",
+      "uncertainty": "Comment volume.",
+      "corrective_action": "NLP tool categorization."
+    }
+  ]
+}

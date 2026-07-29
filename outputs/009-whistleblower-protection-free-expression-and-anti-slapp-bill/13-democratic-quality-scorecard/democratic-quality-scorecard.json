@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "009",
+  "title": "Democratic Quality Scorecard: Whistleblower Protection Free Expression and Anti SLAPP Bill",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects Article 19(1)(a) freedom of expression and Article 21 life/security.",
+      "uncertainty": "Threat monitoring bandwidth.",
+      "corrective_action": "Statutory protection orders."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Protects ordinary citizens and journalists against wealthy corporate litigants.",
+      "uncertainty": "Litigation costs.",
+      "corrective_action": "Mandatory anti-SLAPP costs award."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "Mandatory anti-SLAPP dismissal and physical protection enforcement.",
+      "uncertainty": "Police compliance.",
+      "corrective_action": "Binding judicial protection orders."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Judicial anti-SLAPP determination separate from executive influence.",
+      "uncertainty": "Court delay.",
+      "corrective_action": "45-day statutory stay and decision limit."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Open court anti-SLAPP hearings and public whistleblower protection guidelines.",
+      "uncertainty": "Whistleblower anonymity.",
+      "corrective_action": "Redacted public filings."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Exemplary costs against SLAPP litigants; criminal contempt for retaliatory acts.",
+      "uncertainty": "Litigant evasion.",
+      "corrective_action": "Asset attachment."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "13 languages, simple anti-SLAPP motion procedure.",
+      "uncertainty": "Legal aid availability.",
+      "corrective_action": "Free legal representation for whistleblowers."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day consultation with media and legal bodies.",
+      "uncertainty": "Public comment volume.",
+      "corrective_action": "NLP tool categorization."
+    }
+  ]
+}

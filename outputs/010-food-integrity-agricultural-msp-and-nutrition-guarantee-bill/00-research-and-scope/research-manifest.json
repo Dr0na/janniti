@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "010",
+  "topic": "Food Integrity Agricultural MSP and Nutrition Guarantee Bill",
+  "as_of_date": "2026-07-29",
+  "jurisdictions": [
+    {
+      "name": "India (Union & States)",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Constitution",
+      "title": "Constitution of India, Article 21, Article 47, Seventh Schedule List III Item 33",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "publisher": "Ministry of Law and Justice",
+          "pinpoint": "Article 21, Article 47, List III Item 33 (Trade and commerce in foodstuffs)",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Right to life includes right to unadulterated food and basic nutritional security."
+    }
+  ],
+  "gaps": [
+    "MSP is currently an executive announcement without statutory legal right of procurement.",
+    "Widespread food adulteration and pesticide residue markups in local markets."
+  ],
+  "next_step": "draft"
+}

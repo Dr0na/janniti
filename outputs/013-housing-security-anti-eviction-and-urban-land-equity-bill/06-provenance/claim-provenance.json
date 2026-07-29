@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "013",
+    "title": "Housing Security Anti Eviction and Urban Land Equity Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "The right to shelter and dignified housing is a fundamental right under Article 21.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Chameli Singh v. State of U.P.",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "1995-12-15",
+          "version_or_stage": "reported",
+          "pinpoint": "(1996) 2 SCC 549",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes constitutional right to shelter.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

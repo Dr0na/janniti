@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "012",
+  "topic": "Citizen Algorithmic Rights Biometric and AI Transparency Bill",
+  "as_of_date": "2026-07-29",
+  "jurisdictions": [
+    {
+      "name": "India (Union & States)",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Constitution",
+      "title": "Constitution of India, Article 14, Article 21, Seventh Schedule List I Item 31, Item 97",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "publisher": "Ministry of Law and Justice",
+          "pinpoint": "Article 14, Article 21 (Right to Privacy - K.S. Puttaswamy v. Union of India)",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Right to privacy and protection against arbitrary biometric exclusion as held in K.S. Puttaswamy (Aadhaar) (2019) 1 SCC 1."
+    }
+  ],
+  "gaps": [
+    "DPDP Act 2023 lacks explicit prohibitions on mass facial recognition and public sector AI algorithmic bias audits."
+  ],
+  "next_step": "draft"
+}

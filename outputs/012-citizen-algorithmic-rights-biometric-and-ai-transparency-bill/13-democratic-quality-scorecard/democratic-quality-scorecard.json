@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "012",
+  "title": "Democratic Quality Scorecard: Citizen Algorithmic Rights Biometric and AI Transparency Bill",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects Article 21 privacy rights and Article 14 non-discrimination against AI bias.",
+      "uncertainty": "Rapid technological evolution.",
+      "corrective_action": "3-year statutory review of AI standards."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Prohibits biometric exclusion in welfare delivery for marginalized populations.",
+      "uncertainty": "Connectivity in rural areas.",
+      "corrective_action": "Mandatory physical offline verification alternative."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "Independent Algorithmic Rights Commission with cease-and-desist power.",
+      "uncertainty": "Tech company compliance.",
+      "corrective_action": "Severe criminal fines for illegal surveillance."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Commission independent of executive intelligence agencies.",
+      "uncertainty": "Inter-agency jurisdictional friction.",
+      "corrective_action": "Judicial review by High Courts."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Mandatory open-source AI impact audits and public source code disclosure.",
+      "uncertainty": "Commercial trade secret claims.",
+      "corrective_action": "Statutory override for public sector software."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Cease-and-desist orders; statutory right to human explainability and override.",
+      "uncertainty": "Technical audit complexity.",
+      "corrective_action": "Specialist technical panel."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "13 languages, plain-language explainability summaries.",
+      "uncertainty": "Digital literacy.",
+      "corrective_action": "Public awareness campaigns."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day consultation with tech ethicists and civil society.",
+      "uncertainty": "Comment volume.",
+      "corrective_action": "NLP tool categorization."
+    }
+  ]
+}

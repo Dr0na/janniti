@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "014",
+  "topic": "Universal Public Transport and Accessible Mobility Bill",
+  "as_of_date": "2026-07-29",
+  "jurisdictions": [
+    {
+      "name": "India (Union & States)",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Constitution",
+      "title": "Constitution of India, Article 14, Article 19(1)(d), Article 21, Rights of Persons with Disabilities Act 2016",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "publisher": "Ministry of Law and Justice",
+          "pinpoint": "Article 14, Article 19(1)(d) (Freedom of Movement), Article 21",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Freedom of movement encompasses right to accessible, affordable public transport."
+    }
+  ],
+  "gaps": [
+    "Absence of statutory radius mandates for public transit stops (1 km urban radius).",
+    "Inadequate disability accessibility across bus fleets and transit hubs."
+  ],
+  "next_step": "draft"
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Citizen Algorithmic Rights Biometric and AI Transparency Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track facial recognition surveillance bans, biometric exclusion prevention, and AI audit compliance.",
+  "affected_groups": [
+    "Citizens and residents",
+    "Public sector agencies deploying AI",
+    "Private technology companies"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Public Sector Open-Source AI Audit Compliance",
+      "category": "digital_rights",
+      "definition": "Proportion of public sector AI deployments with published open-source impact audits.",
+      "data_source": "AI Transparency Register Portal",
+      "frequency": "quarterly",
+      "publication": "Public Open Portal",
+      "independent_validation": "CERT-In & Academic Security Audit",
+      "privacy_safeguard": "Source code audit (no PII)"
+    }
+  ],
+  "oversight": {
+    "body": "Algorithmic Rights and AI Transparency Commission",
+    "composition": "Computer scientists, privacy judges, civil liberties advocates",
+    "powers": "Statutory audit and cease-and-desist orders"
+  },
+  "complaints": {
+    "channel": "Algorithmic Bias & Biometric Exclusion Portal",
+    "deadline_days": 15,
+    "appeal_route": "High Court Writ Jurisdiction"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Unauthorized public deployment of mass facial recognition or systemic biometric welfare exclusion.",
+      "detector": "AI Transparency Audit & Public Grievance Portal",
+      "responsible_body": "Algorithmic Rights Commission",
+      "deadline": "24 hours",
+      "interim_protection": "Mandatory injunction stopping automated decision system",
+      "correction": "Systemic audit and manual welfare restoration directive",
+      "public_notice": "Public cease-and-desist notice"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "3-year statutory review"
+  }
+}

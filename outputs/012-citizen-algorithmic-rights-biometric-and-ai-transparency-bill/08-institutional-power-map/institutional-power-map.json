@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "012",
+  "title": "Citizen Algorithmic Rights Biometric and AI Transparency Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "ai_commission",
+      "name": "Algorithmic Rights and AI Transparency Commission"
+    },
+    {
+      "id": "judiciary",
+      "name": "High Courts & Supreme Court"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "ai_commission",
+      "power": "rulemaking"
+    },
+    {
+      "from": "judiciary",
+      "to": "ai_commission",
+      "power": "adjudication"
+    }
+  ]
+}

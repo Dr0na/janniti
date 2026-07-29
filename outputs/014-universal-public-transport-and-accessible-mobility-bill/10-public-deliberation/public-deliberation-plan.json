@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation Plan: Universal Public Transport and Accessible Mobility Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "Universal Public Transport and Accessible Mobility Bill",
+  "publication": {
+    "plain_language_summary": "Statutory right to public transit within 1km, 100% disability accessibility, dedicated bicycle/pedestrian lanes.",
+    "full_draft": "Draft text published on MoHUA portal.",
+    "impact_notes": "Urban transit and disability accessibility impact notes.",
+    "evidence_register": "Rajive Raturi judgment, Urban Transport Policy.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader PDF", "Braille summaries"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission", "Transit station drop-boxes"],
+    "accessibility": "Barrier-free access, 13 languages",
+    "affected_groups": ["Commuters", "Persons with disabilities", "Transit operators"],
+    "anti_retaliation": "Whistleblower protection"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory auto/automobile industry lobby register",
+    "anti_capture": "Independent disability rights advisory panel",
+    "privacy": "Anonymized public comments",
+    "automated_analysis_disclosure": "NLP tool disclosure"
+  },
+  "deliberation": {
+    "townhalls": "District transit accessibility townhalls",
+    "stakeholder_roundtables": "Roundtables with disability organizations, commuter associations"
+  },
+  "response_to_comments": {
+    "publication": "Public Submissions Matrix",
+    "fields": ["Submission ID", "Clause Reference", "Response"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Cell",
+    "reconsultation_trigger": "Substantive structural changes to accessibility standards",
+    "public_notice": "Gazette notice"
+  }
+}

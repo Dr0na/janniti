@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "014",
+  "title": "Universal Public Transport and Accessible Mobility Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "transit_authority",
+      "name": "National Public Transit Authority"
+    },
+    {
+      "id": "judiciary",
+      "name": "High Courts & Disability Commissioners"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "transit_authority",
+      "power": "rulemaking"
+    },
+    {
+      "from": "judiciary",
+      "to": "transit_authority",
+      "power": "adjudication"
+    }
+  ]
+}

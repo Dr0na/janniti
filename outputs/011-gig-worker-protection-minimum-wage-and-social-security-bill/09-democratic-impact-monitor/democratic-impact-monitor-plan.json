@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Gig Worker Protection Minimum Wage and Social Security Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track living wage compliance, social security fund disbursement, and algorithmic fairness.",
+  "affected_groups": [
+    "Gig and platform workers",
+    "Digital platform companies",
+    "Consumers"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Social Security Fund Registration Rate",
+      "category": "labor_welfare",
+      "definition": "Proportion of active gig workers covered by health and accident insurance.",
+      "data_source": "Gig Worker Welfare Portal",
+      "frequency": "monthly",
+      "publication": "Public Open Portal",
+      "independent_validation": "Central Trade Union Audit",
+      "privacy_safeguard": "Anonymized registration statistics"
+    }
+  ],
+  "oversight": {
+    "body": "National Gig Worker Welfare Board",
+    "composition": "Worker representatives, platform executives, labor experts",
+    "powers": "Statutory audit and deactivation dispute resolution"
+  },
+  "complaints": {
+    "channel": "Gig Worker Deactivation Appeals Portal",
+    "deadline_days": 7,
+    "appeal_route": "Labour Commissioner / Labour Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Platform transaction fee default or systemic algorithmic account deactivation without notice.",
+      "detector": "Social Security Fund Audit & Grievance Portal",
+      "responsible_body": "Gig Worker Welfare Board",
+      "deadline": "48 hours",
+      "interim_protection": "Mandatory account restoration order",
+      "correction": "Platform penalty and fee recovery enforcement",
+      "public_notice": "Public compliance report"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Whistleblower Protection Free Expression and Anti SLAPP Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track Anti-SLAPP dismissals, whistleblower protection efficiency, and freedom of expression.",
+  "affected_groups": [
+    "Whistleblowers",
+    "Journalists and civic auditors",
+    "Corporate entities"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Anti-SLAPP Motion Dismissal Rate",
+      "category": "free_expression",
+      "definition": "Proportion of SLAPP suits dismissed within 45 days with costs.",
+      "data_source": "National Judicial Data Grid",
+      "frequency": "quarterly",
+      "publication": "Public Open Portal",
+      "independent_validation": "Bar Council Audit",
+      "privacy_safeguard": "Anonymized judicial statistics"
+    }
+  ],
+  "oversight": {
+    "body": "Central Whistleblower Protection Commission",
+    "composition": "Judges, senior journalists, human rights advocates",
+    "powers": "Statutory audit and protective order enforcement"
+  },
+  "complaints": {
+    "channel": "Whistleblower Emergency Protection Helpline",
+    "deadline_days": 1,
+    "appeal_route": "High Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Physical threat reported by a registered whistleblower.",
+      "detector": "Emergency Protection Portal",
+      "responsible_body": "Competent Authority & Police Commissioner",
+      "deadline": "6 hours",
+      "interim_protection": "Immediate 24x7 armed police escort",
+      "correction": "Safe-house relocation order",
+      "public_notice": "Confidential status log"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

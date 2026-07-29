@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: National Clean Air Water and Environmental Accountability Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track PM2.5/PM10 reduction, sensor network coverage, and industrial compliance.",
+  "affected_groups": [
+    "Citizens across India",
+    "Industrial entities and commercial polluters"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "PM2.5 Air Quality Target Compliance",
+      "category": "environmental_health",
+      "definition": "Annual average PM2.5 concentration across urban and rural sensor grids.",
+      "data_source": "NEPA Real-Time Sensor Network",
+      "frequency": "continuous",
+      "publication": "Public Open Portal",
+      "independent_validation": "IIT/CSIR Independent Audit",
+      "privacy_safeguard": "Environmental telemetry data"
+    }
+  ],
+  "oversight": {
+    "body": "National Environmental Protection Authority Board",
+    "composition": "Scientists, environmental judges, civil society nominees",
+    "powers": "Statutory audit and enforcement"
+  },
+  "complaints": {
+    "channel": "Environmental Rights Grievance Portal",
+    "deadline_days": 15,
+    "appeal_route": "National Green Tribunal"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Air quality PM2.5 levels exceeding 50 µg/m³ for 3 consecutive days in any district.",
+      "detector": "NEPA Automated Sensor Network",
+      "responsible_body": "National Environmental Protection Authority",
+      "deadline": "24 hours",
+      "interim_protection": "Mandatory temporary shutdown of non-essential industrial emission sources",
+      "correction": "Targeted emergency emission control plan",
+      "public_notice": "Immediate public red alert published on open portal"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "3-year statutory review"
+  }
+}

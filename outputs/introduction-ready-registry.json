@@ -80,6 +80,76 @@
       "instrument_type": "Bill",
       "file": "007-national-universal-free-healthcare-and-medical-integrity-bill/01-draft/introduction-ready-national-universal-free-healthcare-and-medical-integrity-bill.md",
       "registered_at": "2026-07-29T14:52:50+00:00"
+    },
+    {
+      "matter_id": "008",
+      "matter_title": "National Clean Air Water and Environmental Accountability Bill",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "instrument_title": "National Clean Air Water and Environmental Accountability Bill",
+      "instrument_type": "Bill",
+      "file": "008-national-clean-air-water-and-environmental-accountability-bill/01-draft/introduction-ready-national-clean-air-water-and-environmental-accountability-bill.md",
+      "registered_at": "2026-07-29T15:15:00+00:00"
+    },
+    {
+      "matter_id": "009",
+      "matter_title": "Whistleblower Protection Free Expression and Anti SLAPP Bill",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "instrument_title": "Whistleblower Protection Free Expression and Anti SLAPP Bill",
+      "instrument_type": "Bill",
+      "file": "009-whistleblower-protection-free-expression-and-anti-slapp-bill/01-draft/introduction-ready-whistleblower-protection-free-expression-and-anti-slapp-bill.md",
+      "registered_at": "2026-07-29T15:15:00+00:00"
+    },
+    {
+      "matter_id": "010",
+      "matter_title": "Food Integrity Agricultural MSP and Nutrition Guarantee Bill",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "instrument_title": "Food Integrity Agricultural MSP and Nutrition Guarantee Bill",
+      "instrument_type": "Bill",
+      "file": "010-food-integrity-agricultural-msp-and-nutrition-guarantee-bill/01-draft/introduction-ready-food-integrity-agricultural-msp-and-nutrition-guarantee-bill.md",
+      "registered_at": "2026-07-29T15:15:00+00:00"
+    },
+    {
+      "matter_id": "011",
+      "matter_title": "Gig Worker Protection Minimum Wage and Social Security Bill",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "instrument_title": "Gig Worker Protection Minimum Wage and Social Security Bill",
+      "instrument_type": "Bill",
+      "file": "011-gig-worker-protection-minimum-wage-and-social-security-bill/01-draft/introduction-ready-gig-worker-protection-minimum-wage-and-social-security-bill.md",
+      "registered_at": "2026-07-29T15:15:00+00:00"
+    },
+    {
+      "matter_id": "012",
+      "matter_title": "Citizen Algorithmic Rights Biometric and AI Transparency Bill",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "instrument_title": "Citizen Algorithmic Rights Biometric and AI Transparency Bill",
+      "instrument_type": "Bill",
+      "file": "012-citizen-algorithmic-rights-biometric-and-ai-transparency-bill/01-draft/introduction-ready-citizen-algorithmic-rights-biometric-and-ai-transparency-bill.md",
+      "registered_at": "2026-07-29T15:15:00+00:00"
+    },
+    {
+      "matter_id": "013",
+      "matter_title": "Housing Security Anti Eviction and Urban Land Equity Bill",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "instrument_title": "Housing Security Anti Eviction and Urban Land Equity Bill",
+      "instrument_type": "Bill",
+      "file": "013-housing-security-anti-eviction-and-urban-land-equity-bill/01-draft/introduction-ready-housing-security-anti-eviction-and-urban-land-equity-bill.md",
+      "registered_at": "2026-07-29T15:15:00+00:00"
+    },
+    {
+      "matter_id": "014",
+      "matter_title": "Universal Public Transport and Accessible Mobility Bill",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "instrument_title": "Universal Public Transport and Accessible Mobility Bill",
+      "instrument_type": "Bill",
+      "file": "014-universal-public-transport-and-accessible-mobility-bill/01-draft/introduction-ready-universal-public-transport-and-accessible-mobility-bill.md",
+      "registered_at": "2026-07-29T15:15:00+00:00"
     }
   ]
 }

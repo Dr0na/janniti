@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Housing Security Anti Eviction and Urban Land Equity Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track forced eviction prevention, 90-day notice compliance, and 30% urban land pooling quota.",
+  "affected_groups": [
+    "Urban residents and informal settlement dwellers",
+    "Municipal development authorities",
+    "Real estate developers"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Affordable Public Housing Land Allocation",
+      "category": "housing_equity",
+      "definition": "Percentage of pooled urban land reserved and developed for low-income housing.",
+      "data_source": "Urban Master Plan GIS Portal",
+      "frequency": "semi_annual",
+      "publication": "Public Open Portal",
+      "independent_validation": "Urban Housing Ombudsman Audit",
+      "privacy_safeguard": "Spatial land data (no PII)"
+    }
+  ],
+  "oversight": {
+    "body": "National Housing Rights Board",
+    "composition": "Urban planners, housing rights advocates, judges",
+    "powers": "Statutory audit and stay order issuance"
+  },
+  "complaints": {
+    "channel": "Anti-Eviction Emergency Helpline & Tribunal",
+    "deadline_days": 3,
+    "appeal_route": "District Judicial Magistrate / High Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Attempted demolition or eviction without 90-day written notice and judicial order.",
+      "detector": "Anti-Eviction Emergency Helpline & Grievance Portal",
+      "responsible_body": "National Housing Rights Authority",
+      "deadline": "2 hours",
+      "interim_protection": "Mandatory immediate stay order halting demolition",
+      "correction": "Prosecution of illegal executing officers",
+      "public_notice": "Public stay order notification"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}
