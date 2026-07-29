@@ -189,6 +189,60 @@
       "as_of_date": "2026-07-29",
       "path": "021-police-working-conditions-welfare-and-shift-reform-bill",
       "related_matters": []
+    },
+    {
+      "matter_id": "022",
+      "title": "Fast Track Judicial Access and Case Timeline Guarantee Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "022-fast-track-judicial-access-and-case-timeline-guarantee-bill",
+      "related_matters": []
+    },
+    {
+      "matter_id": "023",
+      "title": "Electoral Integrity Dark Money Elimination and Campaign Transparency Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "023-electoral-integrity-dark-money-elimination-and-campaign-transparency-bill",
+      "related_matters": []
+    },
+    {
+      "matter_id": "024",
+      "title": "Open Public Contracting Tender Integrity and Asset Recovery Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "024-open-public-contracting-tender-integrity-and-asset-recovery-bill",
+      "related_matters": []
+    },
+    {
+      "matter_id": "025",
+      "title": "Financial Consumer Protection Digital Scam Prevention and Cyber Fraud Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "025-financial-consumer-protection-digital-scam-prevention-and-cyber-fraud-bill",
+      "related_matters": []
+    },
+    {
+      "matter_id": "026",
+      "title": "Prison Reform De Carceration and Undertrial Rights Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "026-prison-reform-de-carceration-and-undertrial-rights-bill",
+      "related_matters": []
+    },
+    {
+      "matter_id": "027",
+      "title": "Universal Senior Citizen Security Disability Pension and Care Guarantee Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "027-universal-senior-citizen-security-disability-pension-and-care-guarantee-bill",
+      "related_matters": []
     }
   ]
 }

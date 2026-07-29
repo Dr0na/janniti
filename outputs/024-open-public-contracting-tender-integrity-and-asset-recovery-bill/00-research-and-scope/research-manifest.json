@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "024",
+  "topic": "Open Public Contracting Tender Integrity and Asset Recovery Bill",
+  "as_of_date": "2026-07-29",
+  "jurisdictions": [
+    {
+      "name": "India (Union & States)",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Judicial Precedent",
+      "title": "Ramana Dayaram Shetty v. International Airport Authority of India (1979) 3 SCC 489",
+      "jurisdiction": "India",
+      "status": "binding",
+      "official_sources": [
+        {
+          "url": "https://main.sci.gov.in/",
+          "publisher": "Supreme Court of India",
+          "pinpoint": "(1979) 3 SCC 489",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes that executive power in granting public contracts must strictly satisfy Article 14 non-arbitrariness and fairness standards."
+    }
+  ],
+  "gaps": [
+    "Absence of a unified Open Contracting Data Standard law mandating machine-readable public tender telemetry and summary asset forfeiture for substandard public infrastructure."
+  ],
+  "next_step": "draft"
+}

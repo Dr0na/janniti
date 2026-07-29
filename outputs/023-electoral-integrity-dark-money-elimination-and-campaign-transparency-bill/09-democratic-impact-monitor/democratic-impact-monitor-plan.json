@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Electoral Integrity Dark Money Elimination and Campaign Transparency Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Eliminate dark political money and enforce real-time campaign donation disclosure.",
+  "affected_groups": [
+    "Voters and citizens",
+    "Political parties and election candidates"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Political Donation Digital Disclosure Compliance Rate",
+      "category": "electoral_transparency",
+      "definition": "Proportion of political party contributions uploaded to the open portal within 48 hours.",
+      "data_source": "ECI Open Digital Contribution Portal",
+      "frequency": "real_time",
+      "publication": "Public Open Portal",
+      "independent_validation": "ECI Audit Unit",
+      "privacy_safeguard": "Public contribution data (PAN verified)"
+    }
+  ],
+  "oversight": {
+    "body": "Election Commission Campaign Transparency Audit Bench",
+    "composition": "Election Commissioners, CAG auditors, jurists",
+    "powers": "Statutory audit and symbol suspension directive"
+  },
+  "complaints": {
+    "channel": "ECI Dark Money Reporting Portal",
+    "deadline_days": 7,
+    "appeal_route": "Supreme Court of India"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Detection of undisclosed political donation or anonymous cash donation exceeding ₹500.",
+      "detector": "ECI Digital Portal Audit & Banking Telemetry",
+      "responsible_body": "Election Commission of India",
+      "deadline": "24 hours",
+      "interim_protection": "Mandatory freezing of disputed bank accounts",
+      "correction": "5x monetary penalty and symbol suspension proceedings",
+      "public_notice": "Public violation notice"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

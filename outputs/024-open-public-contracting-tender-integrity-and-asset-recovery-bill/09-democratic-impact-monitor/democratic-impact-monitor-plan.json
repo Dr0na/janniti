@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Open Public Contracting Tender Integrity and Asset Recovery Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Ensure 100% public procurement OCDS portal compliance and asset recovery for substandard works.",
+  "affected_groups": [
+    "Citizens and taxpayers",
+    "Government contractors and engineers"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Public Procurement OCDS Portal Disclosure Rate",
+      "category": "tender_integrity",
+      "definition": "Percentage of public tenders published in full compliance with the Open Contracting Data Standard.",
+      "data_source": "Open Contracting National Portal",
+      "frequency": "monthly",
+      "publication": "Public Open Portal",
+      "independent_validation": "CAG Procurement Audit",
+      "privacy_safeguard": "Commercial procurement telemetry"
+    }
+  ],
+  "oversight": {
+    "body": "National Public Procurement Oversight Board",
+    "composition": "Supreme Court judges, CAG representatives, engineering experts",
+    "powers": "Statutory audit and contract cancellation directive"
+  },
+  "complaints": {
+    "channel": "Tender Integrity & Substandard Works Reporting Portal",
+    "deadline_days": 15,
+    "appeal_route": "High Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Collapse or structural degradation of public infrastructure during 10-year defect liability period.",
+      "detector": "Public Infrastructure Failure Portal & Citizen Reports",
+      "responsible_body": "Independent Public Procurement Ombudsman",
+      "deadline": "24 hours",
+      "interim_protection": "Mandatory freezing of contractor assets and bank accounts",
+      "correction": "Forensic engineering audit, syndicate prosecution, asset forfeiture",
+      "public_notice": "Public status entry"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "022",
+  "topic": "Fast Track Judicial Access and Case Timeline Guarantee Bill",
+  "as_of_date": "2026-07-29",
+  "jurisdictions": [
+    {
+      "name": "India (Union & States)",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Judicial Precedent",
+      "title": "Hussainara Khatoon (I) v. Home Secretary, State of Bihar (1980) 1 SCC 81",
+      "jurisdiction": "India",
+      "status": "binding",
+      "official_sources": [
+        {
+          "url": "https://main.sci.gov.in/",
+          "publisher": "Supreme Court of India",
+          "pinpoint": "(1980) 1 SCC 81",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes right to speedy trial as an integral fundamental right under Article 21 of the Constitution."
+    }
+  ],
+  "gaps": [
+    "Absence of enforceable statutory time limits and delay compensation for trial completion in trial courts."
+  ],
+  "next_step": "draft"
+}

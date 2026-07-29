@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation Plan: Universal Senior Citizen Security Disability Pension and Care Guarantee Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "Universal Senior Citizen Security Disability Pension and Care Guarantee Bill",
+  "publication": {
+    "plain_language_summary": "Universal monthly pension (min ₹3,000 indexed to inflation), free district assisted living homes, doorstep medicine delivery for senior citizens and disabled persons.",
+    "full_draft": "Draft text published on Social Justice Ministry portal.",
+    "impact_notes": "Social security and disability rights impact notes.",
+    "evidence_register": "Law Commission reports on elder care, Disability Rights Convention.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader PDF", "Braille summaries"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission", "District welfare drop-boxes"],
+    "accessibility": "Barrier-free access, 13 languages",
+    "affected_groups": ["Senior citizens", "Persons with disabilities", "Caregivers"],
+    "anti_retaliation": "Whistleblower protection"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory public register",
+    "anti_capture": "Independent social security advisory panel",
+    "privacy": "Anonymized public comments",
+    "automated_analysis_disclosure": "NLP tool disclosure"
+  },
+  "deliberation": {
+    "townhalls": "Public elder care and disability rights hearings",
+    "stakeholder_roundtables": "Roundtables with Pension Parishad, Disability Rights Organizations"
+  },
+  "response_to_comments": {
+    "publication": "Public Submissions Matrix",
+    "fields": ["Submission ID", "Clause Reference", "Response"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Cell",
+    "reconsultation_trigger": "Substantive structural changes to pension indexing rules",
+    "public_notice": "Gazette notice"
+  }
+}

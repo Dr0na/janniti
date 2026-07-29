@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Prison Reform De Carceration and Undertrial Rights Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Eliminate undertrial over-stay and cap prison occupancy at 100% certified capacity.",
+  "affected_groups": [
+    "Undertrial prisoners and inmates",
+    "Prison authorities"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Undertrial 1/3rd Sentence Release Rate",
+      "category": "undertrial_rights",
+      "definition": "Proportion of eligible undertrials released automatically on personal bond upon completing 1/3rd sentence.",
+      "data_source": "National Prison Information Portal",
+      "frequency": "monthly",
+      "publication": "Public Open Portal",
+      "independent_validation": "DLSA Judicial Audit",
+      "privacy_safeguard": "Anonymized inmate statistics"
+    }
+  ],
+  "oversight": {
+    "body": "National Prison Reform Oversight Board",
+    "composition": "Judges, human rights advocates, penal reform jurists",
+    "powers": "Statutory audit and release directive"
+  },
+  "complaints": {
+    "channel": "National Prison Grievance Portal & Board of Visitors",
+    "deadline_days": 7,
+    "appeal_route": "High Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Prison occupancy exceeding 100% of certified capacity in any district facility.",
+      "detector": "National Prison Information Portal Alerts",
+      "responsible_body": "Independent Board of Visitors",
+      "deadline": "48 hours",
+      "interim_protection": "Mandatory temporary inmate transfer order",
+      "correction": "Magisterial undertrial bail review hearing",
+      "public_notice": "Public compliance audit report"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

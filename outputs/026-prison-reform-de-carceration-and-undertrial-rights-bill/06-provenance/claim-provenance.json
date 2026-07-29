@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "026",
+    "title": "Prison Reform De Carceration and Undertrial Rights Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "Undertrials completing half or one-third maximum sentence have a statutory right to release.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Bhim Singh v. Union of India",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "2014-09-05",
+          "version_or_stage": "reported",
+          "pinpoint": "(2015) 13 SCC 605",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes undertrial release mandate under Section 436A CrPC / Article 21.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

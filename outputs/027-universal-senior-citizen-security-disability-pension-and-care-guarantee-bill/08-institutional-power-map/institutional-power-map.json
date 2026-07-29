@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "027",
+  "title": "Universal Senior Citizen Security Disability Pension and Care Guarantee Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "senior_security_authority",
+      "name": "National Senior Citizen and Disability Security Authority"
+    },
+    {
+      "id": "judiciary",
+      "name": "High Courts & Maintenance Tribunals"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "senior_security_authority",
+      "power": "rulemaking"
+    },
+    {
+      "from": "judiciary",
+      "to": "senior_security_authority",
+      "power": "adjudication"
+    }
+  ]
+}

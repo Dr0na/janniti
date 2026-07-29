@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "026",
+  "topic": "Prison Reform De Carceration and Undertrial Rights Bill",
+  "as_of_date": "2026-07-29",
+  "jurisdictions": [
+    {
+      "name": "India (Union & States)",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Judicial Precedent",
+      "title": "Bhim Singh v. Union of India (2015) 13 SCC 605",
+      "jurisdiction": "India",
+      "status": "binding",
+      "official_sources": [
+        {
+          "url": "https://main.sci.gov.in/",
+          "publisher": "Supreme Court of India",
+          "pinpoint": "(2015) 13 SCC 605",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Supreme Court directive mandating implementation of Section 436A CrPC for release of undertrials completing half or one-third maximum sentence."
+    }
+  ],
+  "gaps": [
+    "Absence of a mandatory statutory prison capacity cap (100% threshold) and automatic personal bond release without financial surety for impoverished undertrials."
+  ],
+  "next_step": "draft"
+}

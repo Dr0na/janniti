@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Financial Consumer Protection Digital Scam Prevention and Cyber Fraud Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Ensure 5-day bank customer reimbursement for reported cyber fraud and eliminate illegal loan apps.",
+  "affected_groups": [
+    "Financial consumers and bank customers",
+    "Banks and payment service providers"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Cyber Fraud 5-Day Bank Reimbursement Rate",
+      "category": "financial_protection",
+      "definition": "Proportion of reported unauthorized digital fraud claims reimbursed by banks within 5 working days.",
+      "data_source": "RBI National Cyber Fraud Portal",
+      "frequency": "monthly",
+      "publication": "Public Open Portal",
+      "independent_validation": "RBI Banking Ombudsman Audit",
+      "privacy_safeguard": "Anonymized transaction telemetry"
+    }
+  ],
+  "oversight": {
+    "body": "National Cyber Financial Protection Board",
+    "composition": "RBI representatives, judges, cyber forensic experts, consumer advocates",
+    "powers": "Statutory audit and bank reimbursement enforcement"
+  },
+  "complaints": {
+    "channel": "National Cyber Fraud Reporting Portal & Helpline (1930)",
+    "deadline_days": 3,
+    "appeal_route": "Cyber Crime Special Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Failure of a bank to reimburse an unauthorized fraud victim within 5 working days.",
+      "detector": "RBI National Cyber Fraud Portal Alerts",
+      "responsible_body": "RBI Banking Ombudsman",
+      "deadline": "48 hours",
+      "interim_protection": "Mandatory temporary credit order against defaulting bank",
+      "correction": "Penalty release and bank compliance directive",
+      "public_notice": "Public compliance audit report"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

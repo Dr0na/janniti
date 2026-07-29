@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation Plan: Prison Reform De Carceration and Undertrial Rights Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "Prison Reform De Carceration and Undertrial Rights Bill",
+  "publication": {
+    "plain_language_summary": "Automatic bail for undertrials completing 1/3rd sentence, 100% prison capacity cap, minimum wages for prison labor, Independent Board of Visitors.",
+    "full_draft": "Draft text published on MHA & Law Ministry portal.",
+    "impact_notes": "Penal reform and human rights impact notes.",
+    "evidence_register": "Bhim Singh judgment, Mulla Committee report on prison reforms.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader PDF"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission"],
+    "accessibility": "Barrier-free access, 13 languages",
+    "affected_groups": ["Citizens", "Human rights groups", "Penal reform advocates"],
+    "anti_retaliation": "Whistleblower protection"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory public register",
+    "anti_capture": "Independent penal reform panel",
+    "privacy": "Anonymized public comments",
+    "automated_analysis_disclosure": "NLP tool disclosure"
+  },
+  "deliberation": {
+    "townhalls": "Public prison reform hearings",
+    "stakeholder_roundtables": "Roundtables with NHRC, Legal Aid Services Authorities"
+  },
+  "response_to_comments": {
+    "publication": "Public Submissions Matrix",
+    "fields": ["Submission ID", "Clause Reference", "Response"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Cell",
+    "reconsultation_trigger": "Substantive structural changes to undertrial bail rules",
+    "public_notice": "Gazette notice"
+  }
+}

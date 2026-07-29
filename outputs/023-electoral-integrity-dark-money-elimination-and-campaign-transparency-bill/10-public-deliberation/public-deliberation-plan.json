@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation Plan: Electoral Integrity Dark Money Elimination and Campaign Transparency Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "Electoral Integrity Dark Money Elimination and Campaign Transparency Bill",
+  "publication": {
+    "plain_language_summary": "Absolute ban on anonymous political donations, real-time digital contribution portal, ban on government-funded political ads before elections, intra-party elections.",
+    "full_draft": "Draft text published on Law Ministry & ECI portal.",
+    "impact_notes": "Electoral integrity and voter information impact notes.",
+    "evidence_register": "ADR judgment, Law Commission 255th report on electoral reforms.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader PDF"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission"],
+    "accessibility": "Barrier-free access, 13 languages",
+    "affected_groups": ["Voters", "Political parties", "Civil society groups"],
+    "anti_retaliation": "Whistleblower protection"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory public register",
+    "anti_capture": "Independent election reform panel",
+    "privacy": "Anonymized public comments",
+    "automated_analysis_disclosure": "NLP tool disclosure"
+  },
+  "deliberation": {
+    "townhalls": "Public election transparency hearings",
+    "stakeholder_roundtables": "Roundtables with ADR, election watch groups, legal jurists"
+  },
+  "response_to_comments": {
+    "publication": "Public Submissions Matrix",
+    "fields": ["Submission ID", "Clause Reference", "Response"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Cell",
+    "reconsultation_trigger": "Substantive structural changes to donation disclosure rules",
+    "public_notice": "Gazette notice"
+  }
+}

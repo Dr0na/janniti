@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "027",
+    "title": "Universal Senior Citizen Security Disability Pension and Care Guarantee Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "State has a constitutional duty under Article 41 to provide public assistance in old age and disablement.",
+      "classification": "current_law",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Constitution of India",
+          "authority_type": "statute",
+          "issuer": "Constituent Assembly of India",
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "document_date": "1950-01-26",
+          "version_or_stage": "in_force",
+          "pinpoint": "Article 41",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Directive principles duty to provide old-age and disability assistance.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

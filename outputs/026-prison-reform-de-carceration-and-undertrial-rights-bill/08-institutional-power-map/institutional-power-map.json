@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "026",
+  "title": "Prison Reform De Carceration and Undertrial Rights Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "board_of_visitors",
+      "name": "Independent Board of Visitors"
+    },
+    {
+      "id": "judiciary",
+      "name": "High Courts & District Magistrates"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "board_of_visitors",
+      "power": "rulemaking"
+    },
+    {
+      "from": "judiciary",
+      "to": "board_of_visitors",
+      "power": "adjudication"
+    }
+  ]
+}

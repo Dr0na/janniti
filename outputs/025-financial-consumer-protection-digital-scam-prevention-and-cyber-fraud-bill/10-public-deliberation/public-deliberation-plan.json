@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation Plan: Financial Consumer Protection Digital Scam Prevention and Cyber Fraud Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "Financial Consumer Protection Digital Scam Prevention and Cyber Fraud Bill",
+  "publication": {
+    "plain_language_summary": "Mandatory 5-day bank reimbursement for cyber fraud, ban on illegal loan apps, fast-track cyber courts, fund freezing within 1 hour.",
+    "full_draft": "Draft text published on Finance Ministry & RBI portal.",
+    "impact_notes": "Consumer financial protection and cyber safety impact notes.",
+    "evidence_register": "RBI Consumer Protection Circulars, Cyber Crime Cell reports.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader PDF"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission"],
+    "accessibility": "Barrier-free access, 13 languages",
+    "affected_groups": ["Bank customers", "Cyber security experts", "Consumer forums"],
+    "anti_retaliation": "Whistleblower protection"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory banking lobby register",
+    "anti_capture": "Independent consumer financial panel",
+    "privacy": "Anonymized public comments",
+    "automated_analysis_disclosure": "NLP tool disclosure"
+  },
+  "deliberation": {
+    "townhalls": "Public cyber safety hearings",
+    "stakeholder_roundtables": "Roundtables with Indian Banks' Association, Fintech Associations, Consumer Voice"
+  },
+  "response_to_comments": {
+    "publication": "Public Submissions Matrix",
+    "fields": ["Submission ID", "Clause Reference", "Response"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Cell",
+    "reconsultation_trigger": "Substantive structural changes to bank liability rules",
+    "public_notice": "Gazette notice"
+  }
+}

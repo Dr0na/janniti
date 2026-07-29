@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "023",
+  "title": "Electoral Integrity Dark Money Elimination and Campaign Transparency Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "election_commission",
+      "name": "Election Commission of India"
+    },
+    {
+      "id": "judiciary",
+      "name": "Supreme Court of India"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "election_commission",
+      "power": "rulemaking"
+    },
+    {
+      "from": "judiciary",
+      "to": "election_commission",
+      "power": "adjudication"
+    }
+  ]
+}

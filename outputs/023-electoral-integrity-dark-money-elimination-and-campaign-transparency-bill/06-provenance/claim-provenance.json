@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "023",
+    "title": "Electoral Integrity Dark Money Elimination and Campaign Transparency Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "Voter access to information regarding political party funding is a fundamental right under Article 19(1)(a).",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Association for Democratic Reforms v. Union of India",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "2024-02-15",
+          "version_or_stage": "reported",
+          "pinpoint": "(2024) 5 SCC 1",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes constitutional right to political donation disclosure.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Universal Senior Citizen Security Disability Pension and Care Guarantee Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track universal pension coverage for senior citizens and disabled persons and doorstep medicine delivery.",
+  "affected_groups": [
+    "Senior citizens and persons with disabilities",
+    "Social welfare departments"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Senior Citizen and Disability Pension Coverage Rate",
+      "category": "social_security",
+      "definition": "Percentage of eligible senior citizens and disabled persons receiving direct monthly pension transfers.",
+      "data_source": "National Social Pension Portal",
+      "frequency": "monthly",
+      "publication": "Public Open Portal",
+      "independent_validation": "Social Welfare Audit Panel",
+      "privacy_safeguard": "Anonymized pension telemetry"
+    }
+  ],
+  "oversight": {
+    "body": "National Senior Citizen and Disability Welfare Board",
+    "composition": "Senior citizen advocates, disability rights jurists, medical experts",
+    "powers": "Statutory audit and pension disbursement directive"
+  },
+  "complaints": {
+    "channel": "Senior Citizen & Disability Rights Helpline & Portal",
+    "deadline_days": 15,
+    "appeal_route": "Maintenance Tribunal / High Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Disruption or delay of monthly pension transfer to senior citizens or disabled persons exceeding 15 days.",
+      "detector": "National Social Pension Portal Telemetry",
+      "responsible_body": "National Senior Citizen and Disability Security Authority",
+      "deadline": "48 hours",
+      "interim_protection": "Mandatory emergency payment dispatch order",
+      "correction": "Immediate pension release and interest penalty directive",
+      "public_notice": "Public compliance audit report"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

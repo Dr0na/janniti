@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "026",
+  "title": "Democratic Quality Scorecard: Prison Reform De Carceration and Undertrial Rights Bill",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects Article 21 fundamental right to human dignity and liberty for undertrial prisoners.",
+      "uncertainty": "State prison capacity expansion.",
+      "corrective_action": "Statutory non-custodial bail cap."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Ensures equal automatic bail without financial surety for poor undertrials.",
+      "uncertainty": "Legal aid availability.",
+      "corrective_action": "Mandatory DLSA presentation."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "100% capacity cap; mandatory monthly inspection by Independent Board of Visitors.",
+      "uncertainty": "Inspection report delay.",
+      "corrective_action": "Online portal sync."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Independent Board of Visitors operates outside prison executive hierarchy.",
+      "uncertainty": "Prison staff pushback.",
+      "corrective_action": "Judicial magistrate head."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Real-time open portal tracking prison occupancy and undertrial release logs.",
+      "uncertainty": "Portal downtime.",
+      "corrective_action": "Redundant cloud servers."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Statutory bail release enforceable via Magistrate writ.",
+      "uncertainty": "Court delay.",
+      "corrective_action": "High Court summary review."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "13 languages, open portal.",
+      "uncertainty": "Public awareness.",
+      "corrective_action": "Public legal guides."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day consultation, penal reform roundtables.",
+      "uncertainty": "Comment volume.",
+      "corrective_action": "NLP tool categorization."
+    }
+  ]
+}

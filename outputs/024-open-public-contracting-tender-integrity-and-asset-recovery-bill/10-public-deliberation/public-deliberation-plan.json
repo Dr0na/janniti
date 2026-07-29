@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation Plan: Open Public Contracting Tender Integrity and Asset Recovery Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "Open Public Contracting Tender Integrity and Asset Recovery Bill",
+  "publication": {
+    "plain_language_summary": "100% public procurement OCDS disclosure, 10-year contractor defect liability, criminal asset forfeiture for infrastructure collapse, Procurement Ombudsman.",
+    "full_draft": "Draft text published on Finance Ministry portal.",
+    "impact_notes": "Public finance and infrastructure quality impact notes.",
+    "evidence_register": "Ramana Dayaram Shetty judgment, CAG procurement audit reports.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader PDF"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission"],
+    "accessibility": "Barrier-free access, 13 languages",
+    "affected_groups": ["Citizens", "Contractors", "Civil engineers"],
+    "anti_retaliation": "Whistleblower protection"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory contractor lobby register",
+    "anti_capture": "Independent procurement reform panel",
+    "privacy": "Anonymized public comments",
+    "automated_analysis_disclosure": "NLP tool disclosure"
+  },
+  "deliberation": {
+    "townhalls": "Public tender integrity hearings",
+    "stakeholder_roundtables": "Roundtables with CAG, Institution of Engineers, transparency advocates"
+  },
+  "response_to_comments": {
+    "publication": "Public Submissions Matrix",
+    "fields": ["Submission ID", "Clause Reference", "Response"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Cell",
+    "reconsultation_trigger": "Substantive structural changes to OCDS disclosure rules",
+    "public_notice": "Gazette notice"
+  }
+}

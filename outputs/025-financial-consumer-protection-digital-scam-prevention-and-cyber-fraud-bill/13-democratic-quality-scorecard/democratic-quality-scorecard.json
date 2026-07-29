@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "025",
+  "title": "Democratic Quality Scorecard: Financial Consumer Protection Digital Scam Prevention and Cyber Fraud Bill",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects Article 21 financial security and Article 300A property rights against cyber fraud.",
+      "uncertainty": "Bank compliance delay.",
+      "corrective_action": "Statutory 5-day reimbursement cap."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Protects non-tech-savvy citizens against digital financial scams.",
+      "uncertainty": "Regional helpline awareness.",
+      "corrective_action": "Toll-free 1930 integration."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "Strict bank liability; 14 years imprisonment for illegal loan app extortion.",
+      "uncertainty": "Mule account tracing.",
+      "corrective_action": "1-hour fund freezing order."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Ombudsman and Special Courts independent of banking entities.",
+      "uncertainty": "Bank lobby resistance.",
+      "corrective_action": "RBI statutory directive."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Real-time tracking of fraud claims and reimbursement statistics.",
+      "uncertainty": "Portal downtime.",
+      "corrective_action": "Redundant cloud servers."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Statutory 5-day reimbursement enforceable by RBI Ombudsman and Courts.",
+      "uncertainty": "Bank dispute litigation.",
+      "corrective_action": "Summary Cyber Court trial."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "13 languages, 1930 helpline.",
+      "uncertainty": "Public awareness.",
+      "corrective_action": "Public legal guides."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day consultation, fintech roundtables.",
+      "uncertainty": "Comment volume.",
+      "corrective_action": "NLP tool categorization."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Fast Track Judicial Access and Case Timeline Guarantee Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track 12-month criminal & 18-month civil trial completion rate and vacancy clearance.",
+  "affected_groups": [
+    "Litigants and accused persons",
+    "Judicial officers and lawyers"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Trial Completion Timeline Compliance Rate",
+      "category": "judicial_performance",
+      "definition": "Proportion of cases disposed within statutory 12-month (criminal) and 18-month (civil) caps.",
+      "data_source": "National Judicial Data Grid & E-Courts Portal",
+      "frequency": "monthly",
+      "publication": "Public Open Portal",
+      "independent_validation": "Supreme Court E-Committee Audit",
+      "privacy_safeguard": "Anonymized case telemetry"
+    }
+  ],
+  "oversight": {
+    "body": "National Judicial Performance & Access Board",
+    "composition": "Supreme Court judges, High Court judges, Bar representatives",
+    "powers": "Statutory audit and vacancy clearance directive"
+  },
+  "complaints": {
+    "channel": "Judicial Delay & Adjournment Grievance Portal",
+    "deadline_days": 15,
+    "appeal_route": "High Court Bench"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Exceeding 12-month or 18-month statutory trial completion limit without judicial justification.",
+      "detector": "E-Courts Automated Case Telemetry",
+      "responsible_body": "High Court Administrative Committee",
+      "deadline": "14 days",
+      "interim_protection": "Mandatory day-to-day trial listing order",
+      "correction": "Case reallocation and trial delay compensation release",
+      "public_notice": "Public clearance log entry"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India & State Legislatures",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

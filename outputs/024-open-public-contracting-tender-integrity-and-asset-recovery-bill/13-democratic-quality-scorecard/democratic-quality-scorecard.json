@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "024",
+  "title": "Democratic Quality Scorecard: Open Public Contracting Tender Integrity and Asset Recovery Bill",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects Article 14 non-arbitrariness and public safety against dangerous substandard infrastructure.",
+      "uncertainty": "Contractor asset tracing.",
+      "corrective_action": "Statutory asset forfeiture."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Ensures equal access to public tenders through open machine-readable data.",
+      "uncertainty": "Small vendor participation.",
+      "corrective_action": "Transparent L1/L2 criteria."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "10-year defect liability; criminal penalties and asset forfeiture for structural failures.",
+      "uncertainty": "Forensic audit delays.",
+      "corrective_action": "Fast-track Ombudsman inquiry."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Procurement Ombudsman independent of ministry and executive control.",
+      "uncertainty": "Bureaucratic resistance.",
+      "corrective_action": "Judicial oversight."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "100% public OCDS tender data disclosure on open portal.",
+      "uncertainty": "Portal downtime.",
+      "corrective_action": "Redundant servers."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Mandatory asset forfeiture and contract cancellation powers.",
+      "uncertainty": "Litigation delays.",
+      "corrective_action": "High Court summary review."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "13 languages, open data API.",
+      "uncertainty": "Public awareness.",
+      "corrective_action": "Public legal guides."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day consultation, engineer association roundtables.",
+      "uncertainty": "Comment volume.",
+      "corrective_action": "NLP tool categorization."
+    }
+  ]
+}

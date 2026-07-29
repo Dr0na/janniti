@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "024",
+    "title": "Open Public Contracting Tender Integrity and Asset Recovery Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "Executive discretion in awarding public contracts must satisfy Article 14 fairness and non-arbitrariness standards.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Ramana Dayaram Shetty v. International Airport Authority of India",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "1979-05-04",
+          "version_or_stage": "reported",
+          "pinpoint": "(1979) 3 SCC 489",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes non-arbitrariness in government contracts.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

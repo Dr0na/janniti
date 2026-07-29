@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "025",
+    "title": "Financial Consumer Protection Digital Scam Prevention and Cyber Fraud Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "Financial consumers have a statutory right to protection against unfair trade practices and digital fraud.",
+      "classification": "current_law",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Consumer Protection Act, 2019",
+          "authority_type": "statute",
+          "issuer": "Parliament of India",
+          "url": "https://www.indiacode.nic.in/",
+          "document_date": "2019-08-09",
+          "version_or_stage": "in_force",
+          "pinpoint": "Act No. 35 of 2019",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes statutory financial consumer protection rights.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

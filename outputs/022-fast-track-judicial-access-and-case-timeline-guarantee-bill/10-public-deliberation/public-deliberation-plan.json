@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation Plan: Fast Track Judicial Access and Case Timeline Guarantee Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "Fast Track Judicial Access and Case Timeline Guarantee Bill",
+  "publication": {
+    "plain_language_summary": "12-month cap for criminal trials, 18-month cap for civil suits, automatic judicial vacancy recruitment, open e-court telemetry, delay compensation.",
+    "full_draft": "Draft text published on Law Ministry portal.",
+    "impact_notes": "Judicial access and speedy trial impact notes.",
+    "evidence_register": "Hussainara Khatoon judgment, Law Commission 245th report.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader PDF"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission"],
+    "accessibility": "Barrier-free access, 13 languages",
+    "affected_groups": ["Litigants", "Bar Association members", "Judicial officers"],
+    "anti_retaliation": "Whistleblower protection"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory public register",
+    "anti_capture": "Independent judicial reform panel",
+    "privacy": "Anonymized public comments",
+    "automated_analysis_disclosure": "NLP tool disclosure"
+  },
+  "deliberation": {
+    "townhalls": "Public judicial reform hearings",
+    "stakeholder_roundtables": "Roundtables with Bar Council, Supreme Court Advocates Association"
+  },
+  "response_to_comments": {
+    "publication": "Public Submissions Matrix",
+    "fields": ["Submission ID", "Clause Reference", "Response"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Cell",
+    "reconsultation_trigger": "Substantive structural changes to trial timeline rules",
+    "public_notice": "Gazette notice"
+  }
+}

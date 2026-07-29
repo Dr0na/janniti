@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "025",
+  "title": "Financial Consumer Protection Digital Scam Prevention and Cyber Fraud Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "rbi",
+      "name": "Reserve Bank of India"
+    },
+    {
+      "id": "cyber_courts",
+      "name": "Cyber Crime Special Courts"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "rbi",
+      "power": "rulemaking"
+    },
+    {
+      "from": "cyber_courts",
+      "to": "rbi",
+      "power": "adjudication"
+    }
+  ]
+}

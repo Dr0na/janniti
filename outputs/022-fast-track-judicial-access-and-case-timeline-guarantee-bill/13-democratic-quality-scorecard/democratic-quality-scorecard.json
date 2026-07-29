@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "022",
+  "title": "Democratic Quality Scorecard: Fast Track Judicial Access and Case Timeline Guarantee Bill",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects Article 21 fundamental right to speedy trial and access to justice.",
+      "uncertainty": "Judicial vacancy filling speed.",
+      "corrective_action": "Automatic vacancy recruitment procedure."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Ensures equal trial timeline guarantees for poor litigants unable to afford prolonged litigation.",
+      "uncertainty": "District court infrastructure.",
+      "corrective_action": "Central infrastructure grants."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "Adjournment limits enforced; statutory delay compensation for trial delays.",
+      "uncertainty": "Lawyer strikes/delays.",
+      "corrective_action": "Adjournment cost recovery."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Judicial appointment procedures remain within judicial & independent commission domain.",
+      "uncertainty": "Executive delay in notifications.",
+      "corrective_action": "Deemed appointment provision."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Real-time e-court open telemetry on public portal.",
+      "uncertainty": "Portal downtime.",
+      "corrective_action": "Redundant servers."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Statutory trial caps enforceable via High Court writ.",
+      "uncertainty": "High Court backlog.",
+      "corrective_action": "Administrative bench oversight."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "13 languages, open e-court portal.",
+      "uncertainty": "Public awareness.",
+      "corrective_action": "Public legal guides."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day consultation, Bar Council roundtables.",
+      "uncertainty": "Comment volume.",
+      "corrective_action": "NLP tool categorization."
+    }
+  ]
+}

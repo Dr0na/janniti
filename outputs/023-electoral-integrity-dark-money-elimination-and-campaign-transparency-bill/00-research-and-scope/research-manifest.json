@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "023",
+  "topic": "Electoral Integrity Dark Money Elimination and Campaign Transparency Bill",
+  "as_of_date": "2026-07-29",
+  "jurisdictions": [
+    {
+      "name": "India (Union & States)",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Judicial Precedent",
+      "title": "Association for Democratic Reforms v. Union of India (2024) 5 SCC 1",
+      "jurisdiction": "India",
+      "status": "binding",
+      "official_sources": [
+        {
+          "url": "https://main.sci.gov.in/",
+          "publisher": "Supreme Court of India",
+          "pinpoint": "(2024) 5 SCC 1",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Unanimously struck down anonymous electoral bonds, holding that voter information on political party funding is a fundamental right under Article 19(1)(a)."
+    }
+  ],
+  "gaps": [
+    "Absence of real-time digital disclosure mandates for all corporate/individual political contributions and public campaign funding frameworks."
+  ],
+  "next_step": "draft"
+}
