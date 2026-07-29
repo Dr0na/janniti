@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "021",
+  "title": "Democratic Quality Scorecard: Police Working Conditions Welfare and Shift Reform Bill",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects Article 21 and Article 42 humane labor rights for police personnel.",
+      "uncertainty": "State recruitment speed.",
+      "corrective_action": "Central recruitment grant incentives."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Guarantees equal 8-hour shift and housing rights for all ranks.",
+      "uncertainty": "Tier-3 station staffing.",
+      "corrective_action": "Mandatory rotation pool."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "National Police Welfare Board audits shift compliance and housing delivery.",
+      "uncertainty": "Data reporting delay.",
+      "corrective_action": "Online roster portal."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Independent Welfare Board manages housing and health funds without executive diversion.",
+      "uncertainty": "Fund diversion attempt.",
+      "corrective_action": "Statutory audit oversight."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Mandatory open portal publication of shift rosters and housing allocation statistics.",
+      "uncertainty": "Portal downtime.",
+      "corrective_action": "Redundant cloud servers."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Statutory entitlement to overtime pay and weekly rest days enforceable in court.",
+      "uncertainty": "Litigation delays.",
+      "corrective_action": "High Court summary review."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "13 languages, open grievance portal.",
+      "uncertainty": "Public awareness.",
+      "corrective_action": "Public legal guides."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day consultation, police association roundtables.",
+      "uncertainty": "Comment volume.",
+      "corrective_action": "NLP tool categorization."
+    }
+  ]
+}

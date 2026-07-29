@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "021",
+    "title": "Police Working Conditions Welfare and Shift Reform Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "Right to life under Article 21 encompasses just, humane, and healthy working conditions.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Consumer Education and Research Centre v. Union of India",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "1995-01-27",
+          "version_or_stage": "reported",
+          "pinpoint": "(1995) 3 SCC 42",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes constitutional right to humane working conditions.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

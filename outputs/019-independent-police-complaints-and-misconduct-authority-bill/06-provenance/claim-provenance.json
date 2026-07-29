@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "019",
+    "title": "Independent Police Complaints and Misconduct Authority Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "Independent Police Complaints Authorities at District and State levels are mandatory Supreme Court directives.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Prakash Singh v. Union of India",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "2006-09-22",
+          "version_or_stage": "reported",
+          "pinpoint": "(2006) 8 SCC 1",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes binding PCA directives.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

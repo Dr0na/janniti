@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "018",
+  "title": "Police Station Surveillance Transparency and Digital Evidence Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "digital_audit_authority",
+      "name": "State Digital Audit Authority"
+    },
+    {
+      "id": "trial_courts",
+      "name": "Criminal Trial Courts"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "digital_audit_authority",
+      "power": "rulemaking"
+    },
+    {
+      "from": "trial_courts",
+      "to": "digital_audit_authority",
+      "power": "adjudication"
+    }
+  ]
+}

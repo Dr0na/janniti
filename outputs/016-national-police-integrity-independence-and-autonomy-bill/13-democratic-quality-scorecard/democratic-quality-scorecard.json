@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "016",
+  "title": "Democratic Quality Scorecard: National Police Integrity Independence and Autonomy Bill",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Insulates criminal investigation from political direction to ensure impartial enforcement under Article 14 and 21.",
+      "uncertainty": "State adoption willingness.",
+      "corrective_action": "Central incentive grants."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Ensures equal police protection regardless of political affiliation.",
+      "uncertainty": "District implementation.",
+      "corrective_action": "State Security Commission audit."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "Police Establishment Board decisions recorded transparently; DGP tenure revocable only for proven misconduct.",
+      "uncertainty": "Litigation delays.",
+      "corrective_action": "High Court summary review."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Separates political policy setting (Commission) from operational postings (Board) and investigation (Cadre).",
+      "uncertainty": "Executive pushback.",
+      "corrective_action": "Judicial oversight panel."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Mandatory publication of transfer orders, tenure statistics, and Commission annual reports.",
+      "uncertainty": "Portal downtime.",
+      "corrective_action": "Redundant portal servers."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Mandatory 2-year tenure enforceable by High Court writ.",
+      "uncertainty": "State non-compliance.",
+      "corrective_action": "Supreme Court contempt power."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "13 languages, open portal access.",
+      "uncertainty": "Public awareness.",
+      "corrective_action": "Public legal guides."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day consultation, police association roundtables.",
+      "uncertainty": "Comment volume.",
+      "corrective_action": "NLP tool categorization."
+    }
+  ]
+}

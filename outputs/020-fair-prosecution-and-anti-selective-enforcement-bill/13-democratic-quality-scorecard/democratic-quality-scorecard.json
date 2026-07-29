@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "020",
+  "title": "Democratic Quality Scorecard: Fair Prosecution and Anti Selective Enforcement Bill",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Protects Article 14 equality and Article 21 liberty against political vendetta prosecutions.",
+      "uncertainty": "Judicial magistrate hearing volume.",
+      "corrective_action": "Dedicated pre-arrest magistrates."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Guarantees equal non-selective application of criminal law.",
+      "uncertainty": "Statistical audit accuracy.",
+      "corrective_action": "Annual anti-vendetta comparator audit."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "₹25 Lakhs compensation for malicious prosecution recoverable from guilty officers.",
+      "uncertainty": "Litigation delays.",
+      "corrective_action": "Fast-track compensation bench."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Directorate of Prosecution independent of police and executive control.",
+      "uncertainty": "Executive pushback.",
+      "corrective_action": "Judicial selection panel."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Mandatory public release of annual anti-vendetta audit reports.",
+      "uncertainty": "Portal downtime.",
+      "corrective_action": "Redundant servers."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Pre-arrest judicial scrutiny legally binding on police.",
+      "uncertainty": "Magisterial compliance.",
+      "corrective_action": "High Court writ oversight."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "13 languages, open portal.",
+      "uncertainty": "Public awareness.",
+      "corrective_action": "Public legal guides."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day consultation, Bar Council roundtables.",
+      "uncertainty": "Comment volume.",
+      "corrective_action": "NLP tool categorization."
+    }
+  ]
+}

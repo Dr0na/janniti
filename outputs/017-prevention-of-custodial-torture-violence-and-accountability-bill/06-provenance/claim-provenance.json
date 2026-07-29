@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "017",
+    "title": "Prevention of Custodial Torture Violence and Accountability Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "Custodial torture is a severe violation of Article 21 and human dignity.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "D.K. Basu v. State of West Bengal",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "1996-12-18",
+          "version_or_stage": "reported",
+          "pinpoint": "(1997) 1 SCC 416",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes constitutional prohibition of custodial torture.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

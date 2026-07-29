@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Independent Police Complaints and Misconduct Authority Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track police misconduct complaints, FIR registrations against officers, and inquiry outcomes.",
+  "affected_groups": [
+    "Citizens and victims of misconduct",
+    "Police officers"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Police Misconduct FIR Registration Rate",
+      "category": "police_accountability",
+      "definition": "Proportion of verified police misconduct complaints resulting in direct FIR registration and investigation.",
+      "data_source": "PCA Open National Portal",
+      "frequency": "quarterly",
+      "publication": "Public Open Portal",
+      "independent_validation": "Judicial Audit",
+      "privacy_safeguard": "Anonymized complaint statistics"
+    }
+  ],
+  "oversight": {
+    "body": "State Police Complaints Board",
+    "composition": "Retired High Court judges, human rights advocates, legal experts",
+    "powers": "Statutory audit and binding direction"
+  },
+  "complaints": {
+    "channel": "PCA National Direct Reporting Portal",
+    "deadline_days": 15,
+    "appeal_route": "High Court Writ Jurisdiction"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Filing of a complaint alleging custodial death, firing injury, or sexual violence by a police officer.",
+      "detector": "PCA Emergency Reporting Portal",
+      "responsible_body": "District Police Complaints Authority",
+      "deadline": "6 hours",
+      "interim_protection": "Mandatory temporary suspension order against accused officer",
+      "correction": "Independent forensic investigation and binding charge sheet direction",
+      "public_notice": "Public status entry"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

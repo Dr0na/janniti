@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: National Police Integrity Independence and Autonomy Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track police tenure stability, investigation separation, and reduction in arbitrary transfers.",
+  "affected_groups": [
+    "Police officers across India",
+    "Citizens and litigants",
+    "State administration"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Police Officer Fixed Tenure Compliance Rate",
+      "category": "institutional_autonomy",
+      "definition": "Proportion of DGPs, SPs, and SHOs completing mandatory 2-year statutory tenure without premature transfer.",
+      "data_source": "State Police Establishment Portals",
+      "frequency": "annual",
+      "publication": "Public Open Portal",
+      "independent_validation": "State Security Commission Audit",
+      "privacy_safeguard": "Personnel tenure telemetry"
+    }
+  ],
+  "oversight": {
+    "body": "State Security Commission",
+    "composition": "Judges, Leader of Opposition, public members",
+    "powers": "Statutory audit and transfer review"
+  },
+  "complaints": {
+    "channel": "Police Transfer & Tenure Grievance Portal",
+    "deadline_days": 15,
+    "appeal_route": "High Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Premature transfer of a DGP or SP without Police Establishment Board recommendation.",
+      "detector": "State Security Commission Monitoring Portal",
+      "responsible_body": "State Security Commission",
+      "deadline": "48 hours",
+      "interim_protection": "Mandatory stay of transfer order",
+      "correction": "Review and reinstatement order",
+      "public_notice": "Public compliance audit report"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India & State Legislatures",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

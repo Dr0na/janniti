@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Police Working Conditions Welfare and Shift Reform Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track 8-hour shift compliance, weekly rest days, and police housing allocation.",
+  "affected_groups": [
+    "Police personnel and families"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Police 8-Hour Shift and Rest Day Compliance Rate",
+      "category": "labor_welfare",
+      "definition": "Proportion of police stations complying with 8-hour shifts and granting 1 weekly rest day.",
+      "data_source": "National Police Welfare Portal",
+      "frequency": "quarterly",
+      "publication": "Public Open Portal",
+      "independent_validation": "Welfare Board Audit",
+      "privacy_safeguard": "Anonymized duty rosters"
+    }
+  ],
+  "oversight": {
+    "body": "National Police Welfare Council",
+    "composition": "Judges, labor welfare experts, retired officers, health professionals",
+    "powers": "Statutory audit and housing fund allocation"
+  },
+  "complaints": {
+    "channel": "Police Working Conditions Grievance Portal",
+    "deadline_days": 15,
+    "appeal_route": "State Security Commission / High Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Systemic failure to implement 8-hour shifts or grant weekly rest days in any police district.",
+      "detector": "National Police Welfare Portal & Officer Grievances",
+      "responsible_body": "National Police Welfare Board",
+      "deadline": "14 days",
+      "interim_protection": "Mandatory temporary rotation deployment order",
+      "correction": "Staffing reallocation and Superintendent explanation directive",
+      "public_notice": "Public compliance audit report"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

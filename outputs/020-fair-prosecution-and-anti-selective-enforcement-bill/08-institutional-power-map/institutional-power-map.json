@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "020",
+  "title": "Fair Prosecution and Anti Selective Enforcement Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "prosecution_directorate",
+      "name": "Independent Directorate of Prosecution"
+    },
+    {
+      "id": "judiciary",
+      "name": "High Courts & Trial Courts"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "prosecution_directorate",
+      "power": "rulemaking"
+    },
+    {
+      "from": "judiciary",
+      "to": "prosecution_directorate",
+      "power": "adjudication"
+    }
+  ]
+}

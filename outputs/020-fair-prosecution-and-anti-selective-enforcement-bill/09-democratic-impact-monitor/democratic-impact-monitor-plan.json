@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Fair Prosecution and Anti Selective Enforcement Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track non-selective prosecution compliance, malicious prosecution compensation awards, and pre-arrest hearings.",
+  "affected_groups": [
+    "Citizens and public figures",
+    "Public prosecutors and police officers"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Anti-Vendetta Comparator Audit Index",
+      "category": "prosecutorial_fairness",
+      "definition": "Statistical evaluation of prosecution filing rates across political affiliations.",
+      "data_source": "National Prosecution Audit Portal",
+      "frequency": "annual",
+      "publication": "Public Open Portal",
+      "independent_validation": "Supreme Court Audit Panel",
+      "privacy_safeguard": "Aggregated prosecution telemetry"
+    }
+  ],
+  "oversight": {
+    "body": "Independent Prosecution Oversight Board",
+    "composition": "Retired Supreme Court judges, Leader of Opposition, public jurists",
+    "powers": "Statutory audit and prosecution review"
+  },
+  "complaints": {
+    "channel": "Malicious Prosecution Compensation Portal",
+    "deadline_days": 30,
+    "appeal_route": "High Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Finding of malicious prosecution or selective enforcement pattern by a criminal court.",
+      "detector": "Judicial Acquittal Order & Audit Portal",
+      "responsible_body": "Independent Directorate of Prosecution",
+      "deadline": "15 days",
+      "interim_protection": "Mandatory stay of any parallel proceedings",
+      "correction": "Compensation release and officer recovery directive",
+      "public_notice": "Public audit report"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

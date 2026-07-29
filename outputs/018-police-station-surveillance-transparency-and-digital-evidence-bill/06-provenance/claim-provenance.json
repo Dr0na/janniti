@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "018",
+    "title": "Police Station Surveillance Transparency and Digital Evidence Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "Night-vision audio CCTV coverage across all police stations with 18-month retention is a mandatory Supreme Court directive.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Paramvir Singh Saini v. Baljit Singh",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "2020-12-02",
+          "version_or_stage": "reported",
+          "pinpoint": "(2021) 1 SCC 184",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes mandatory police station CCTV directives.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

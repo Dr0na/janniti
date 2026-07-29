@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "018",
+  "topic": "Police Station Surveillance Transparency and Digital Evidence Bill",
+  "as_of_date": "2026-07-29",
+  "jurisdictions": [
+    {
+      "name": "India (Union & States)",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Judicial Precedent",
+      "title": "Paramvir Singh Saini v. Baljit Singh (2021) 1 SCC 184",
+      "jurisdiction": "India",
+      "status": "binding",
+      "official_sources": [
+        {
+          "url": "https://main.sci.gov.in/",
+          "publisher": "Supreme Court of India",
+          "pinpoint": "(2021) 1 SCC 184",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Supreme Court directives mandating night-vision audio CCTV coverage across all areas of all police stations with 18-month retention."
+    }
+  ],
+  "gaps": [
+    "Absence of statutory invalidation rules for arrests/searches conducted during un-explicated CCTV outages."
+  ],
+  "next_step": "draft"
+}

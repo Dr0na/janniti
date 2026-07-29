@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "017",
+  "title": "Prevention of Custodial Torture Violence and Accountability Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "special_courts",
+      "name": "Special Human Rights Courts"
+    },
+    {
+      "id": "nhrc",
+      "name": "National Human Rights Commission"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "nhrc",
+      "power": "rulemaking"
+    },
+    {
+      "from": "special_courts",
+      "to": "nhrc",
+      "power": "adjudication"
+    }
+  ]
+}

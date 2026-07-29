@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Prevention of Custodial Torture Violence and Accountability Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Eliminate custodial deaths, torture, and un-explicated injuries in police custody.",
+  "affected_groups": [
+    "Detainees and arrested persons",
+    "Police and law enforcement officers"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Custodial Mortality and Injury Rate",
+      "category": "human_rights",
+      "definition": "Annual total number of custodial deaths and reported injuries across all police stations.",
+      "data_source": "NHRC Custodial Portal & Judicial Audit",
+      "frequency": "monthly",
+      "publication": "Public Open Portal",
+      "independent_validation": "Human Rights Commission Audit",
+      "privacy_safeguard": "Anonymized statistics"
+    }
+  ],
+  "oversight": {
+    "body": "National Human Rights Commission Custodial Monitoring Board",
+    "composition": "Judges, medical examiners, human rights advocates",
+    "powers": "Statutory inspection and prosecution referral"
+  },
+  "complaints": {
+    "channel": "Custodial Torture Emergency Portal & Helpline",
+    "deadline_days": 1,
+    "appeal_route": "High Court / Special Human Rights Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Report of custodial death or severe injury during police detention.",
+      "detector": "Magistrate Mandatory Inquiry & NHRC Portal",
+      "responsible_body": "Special Human Rights Court & Judicial Magistrate",
+      "deadline": "12 hours",
+      "interim_protection": "Immediate suspension and arrest of custodial officers",
+      "correction": "Mandatory autopsies and fast-track trial within 90 days",
+      "public_notice": "Public inquiry report"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

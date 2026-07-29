@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "021",
+  "title": "Police Working Conditions Welfare and Shift Reform Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "welfare_board",
+      "name": "National Police Welfare Board"
+    },
+    {
+      "id": "judiciary",
+      "name": "High Courts"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "welfare_board",
+      "power": "rulemaking"
+    },
+    {
+      "from": "judiciary",
+      "to": "welfare_board",
+      "power": "adjudication"
+    }
+  ]
+}

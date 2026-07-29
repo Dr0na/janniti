@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "017",
+  "topic": "Prevention of Custodial Torture Violence and Accountability Bill",
+  "as_of_date": "2026-07-29",
+  "jurisdictions": [
+    {
+      "name": "India (Union & States)",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Judicial Precedent",
+      "title": "D.K. Basu v. State of West Bengal (1997) 1 SCC 416",
+      "jurisdiction": "India",
+      "status": "binding",
+      "official_sources": [
+        {
+          "url": "https://main.sci.gov.in/",
+          "publisher": "Supreme Court of India",
+          "pinpoint": "(1997) 1 SCC 416",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes mandatory guidelines for arrest, custody, medical examination, and prohibition of custodial torture under Article 21."
+    }
+  ],
+  "gaps": [
+    "Absence of a standalone national anti-torture statute with mandatory minimum prison sentences and statutory burden-of-proof reversal."
+  ],
+  "next_step": "draft"
+}

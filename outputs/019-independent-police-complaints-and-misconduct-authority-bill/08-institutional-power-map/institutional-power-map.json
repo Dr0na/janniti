@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "019",
+  "title": "Independent Police Complaints and Misconduct Authority Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "complaints_authority",
+      "name": "State Police Complaints Authority"
+    },
+    {
+      "id": "judiciary",
+      "name": "High Courts"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "complaints_authority",
+      "power": "rulemaking"
+    },
+    {
+      "from": "judiciary",
+      "to": "complaints_authority",
+      "power": "adjudication"
+    }
+  ]
+}

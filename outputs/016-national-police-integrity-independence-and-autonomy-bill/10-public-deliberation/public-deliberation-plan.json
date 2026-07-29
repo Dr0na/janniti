@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation Plan: National Police Integrity Independence and Autonomy Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "National Police Integrity Independence and Autonomy Bill",
+  "publication": {
+    "plain_language_summary": "State Security Commissions, 2-year fixed police chief tenure, complete separation of criminal investigation from law-and-order.",
+    "full_draft": "Draft text published on MHA portal.",
+    "impact_notes": "Police reform and public safety impact notes.",
+    "evidence_register": "Prakash Singh judgment, National Police Commission reports.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader PDF"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission"],
+    "accessibility": "Barrier-free access, 13 languages",
+    "affected_groups": ["Police officers", "Citizens", "Legal experts"],
+    "anti_retaliation": "Whistleblower protection"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory public register",
+    "anti_capture": "Independent advisory panel",
+    "privacy": "Anonymized public comments",
+    "automated_analysis_disclosure": "NLP tool disclosure"
+  },
+  "deliberation": {
+    "townhalls": "Public police reform townhalls",
+    "stakeholder_roundtables": "Roundtables with retired DGPs, police associations, civil society"
+  },
+  "response_to_comments": {
+    "publication": "Public Submissions Matrix",
+    "fields": ["Submission ID", "Clause Reference", "Response"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Cell",
+    "reconsultation_trigger": "Substantive structural changes to State Security Commission composition",
+    "public_notice": "Gazette notice"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation Plan: Independent Police Complaints and Misconduct Authority Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "Independent Police Complaints and Misconduct Authority Bill",
+  "publication": {
+    "plain_language_summary": "Independent District and State Police Complaints Authorities headed by retired judges with direct FIR registration and investigation powers.",
+    "full_draft": "Draft text published on MHA portal.",
+    "impact_notes": "Police accountability and human rights impact notes.",
+    "evidence_register": "Prakash Singh judgment, National Human Rights Commission reports.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader PDF"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission"],
+    "accessibility": "Barrier-free access, 13 languages",
+    "affected_groups": ["Citizens", "Human rights groups", "Police officers"],
+    "anti_retaliation": "Whistleblower protection"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory public register",
+    "anti_capture": "Independent advisory panel",
+    "privacy": "Anonymized public comments",
+    "automated_analysis_disclosure": "NLP tool disclosure"
+  },
+  "deliberation": {
+    "townhalls": "District police accountability hearings",
+    "stakeholder_roundtables": "Roundtables with NHRC, SHRC, Bar Associations"
+  },
+  "response_to_comments": {
+    "publication": "Public Submissions Matrix",
+    "fields": ["Submission ID", "Clause Reference", "Response"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Cell",
+    "reconsultation_trigger": "Substantive structural changes to PCA composition",
+    "public_notice": "Gazette notice"
+  }
+}

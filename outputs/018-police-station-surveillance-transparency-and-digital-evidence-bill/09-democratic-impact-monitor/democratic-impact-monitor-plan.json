@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: Police Station Surveillance Transparency and Digital Evidence Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Ensure 100% operational CCTV coverage in police stations and officer body-cam usage.",
+  "affected_groups": [
+    "Detainees and citizens",
+    "Police officers"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Police Station Operational CCTV Uptime",
+      "category": "digital_surveillance",
+      "definition": "Percentage of police station CCTV cameras operational with continuous 18-month backup.",
+      "data_source": "Digital Audit Authority Portal",
+      "frequency": "real_time",
+      "publication": "Public Open Portal",
+      "independent_validation": "Independent Technical Audit",
+      "privacy_safeguard": "System uptime telemetry (no PII)"
+    }
+  ],
+  "oversight": {
+    "body": "State Digital Audit Committee",
+    "composition": "Judges, technical experts, human rights advocates",
+    "powers": "Statutory audit and remote camera inspection"
+  },
+  "complaints": {
+    "channel": "CCTV Outage & Missing Footage Portal",
+    "deadline_days": 7,
+    "appeal_route": "High Court"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Unreported CCTV camera outage exceeding 2 hours in any police station lockup or interrogation room.",
+      "detector": "Digital Audit Authority Automated Telemetry",
+      "responsible_body": "State Digital Audit Committee",
+      "deadline": "4 hours",
+      "interim_protection": "Mandatory technical repair dispatch order",
+      "correction": "Station House Officer disciplinary inquiry",
+      "public_notice": "Public outage log entry"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India",
+    "sunset_or_revision": "5-year statutory review"
+  }
+}

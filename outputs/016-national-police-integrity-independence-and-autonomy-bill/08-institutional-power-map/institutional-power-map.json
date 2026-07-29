@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "016",
+  "title": "National Police Integrity Independence and Autonomy Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "security_commission",
+      "name": "State Security Commission"
+    },
+    {
+      "id": "establishment_board",
+      "name": "Police Establishment Board"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "security_commission",
+      "power": "rulemaking"
+    },
+    {
+      "from": "establishment_board",
+      "to": "security_commission",
+      "power": "direction"
+    }
+  ]
+}

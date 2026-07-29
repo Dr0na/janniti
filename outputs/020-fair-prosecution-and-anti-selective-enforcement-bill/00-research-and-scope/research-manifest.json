@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "020",
+  "topic": "Fair Prosecution and Anti Selective Enforcement Bill",
+  "as_of_date": "2026-07-29",
+  "jurisdictions": [
+    {
+      "name": "India (Union & States)",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Constitution",
+      "title": "Constitution of India, Article 14, Article 21",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "publisher": "Ministry of Law and Justice",
+          "pinpoint": "Article 14, Article 21",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Article 14 prohibits discriminatory or selective criminal enforcement based on political or personal vendetta as held in S.G. Jaisinghani v. Union of India AIR 1967 SC 1427."
+    }
+  ],
+  "gaps": [
+    "Absence of statutory anti-vendetta comparator audits and independent pre-arrest judicial scrutiny for non-violent offenses."
+  ],
+  "next_step": "draft"
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "020",
+    "title": "Fair Prosecution and Anti Selective Enforcement Bill",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "Article 14 prohibits arbitrary or selective enforcement of law by executive authorities.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "S.G. Jaisinghani v. Union of India",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "1967-02-22",
+          "version_or_stage": "reported",
+          "pinpoint": "AIR 1967 SC 1427",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes constitutional non-arbitrariness doctrine.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

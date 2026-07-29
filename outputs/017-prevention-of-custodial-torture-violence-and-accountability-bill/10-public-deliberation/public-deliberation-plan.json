@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation Plan: Prevention of Custodial Torture Violence and Accountability Bill",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "Prevention of Custodial Torture Violence and Accountability Bill",
+  "publication": {
+    "plain_language_summary": "Absolute criminalization of custodial torture (7 yrs to Life Imprisonment), statutory reversal of burden of proof, medical exam within 2 hours, ₹25 Lakhs victim compensation.",
+    "full_draft": "Draft text published on MHA & Law Ministry portal.",
+    "impact_notes": "Human rights and criminal justice impact notes.",
+    "evidence_register": "Law Commission 273rd report on anti-torture, D.K. Basu judgment.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader PDF"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission"],
+    "accessibility": "Barrier-free access, 13 languages",
+    "affected_groups": ["Citizens", "Human rights groups", "Police associations"],
+    "anti_retaliation": "Whistleblower protection"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory public register",
+    "anti_capture": "Independent human rights advisory panel",
+    "privacy": "Anonymized public comments",
+    "automated_analysis_disclosure": "NLP tool disclosure"
+  },
+  "deliberation": {
+    "townhalls": "Public human rights hearings",
+    "stakeholder_roundtables": "Roundtables with NHRC, State Human Rights Commissions, Bar Associations"
+  },
+  "response_to_comments": {
+    "publication": "Public Submissions Matrix",
+    "fields": ["Submission ID", "Clause Reference", "Response"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Cell",
+    "reconsultation_trigger": "Substantive structural changes to burden of proof rules",
+    "public_notice": "Gazette notice"
+  }
+}

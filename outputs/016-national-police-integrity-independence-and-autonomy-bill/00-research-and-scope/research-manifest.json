@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "016",
+  "topic": "National Police Integrity Independence and Autonomy Bill",
+  "as_of_date": "2026-07-29",
+  "jurisdictions": [
+    {
+      "name": "India (Union & States)",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/",
+        "https://main.sci.gov.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Judicial Precedent",
+      "title": "Prakash Singh v. Union of India (2006) 8 SCC 1",
+      "jurisdiction": "India",
+      "status": "binding",
+      "official_sources": [
+        {
+          "url": "https://main.sci.gov.in/",
+          "publisher": "Supreme Court of India",
+          "pinpoint": "(2006) 8 SCC 1",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Supreme Court directives mandating police autonomy, State Security Commissions, fixed tenures, and separation of investigation from law and order."
+    }
+  ],
+  "gaps": [
+    "Absence of binding national statutory framework enforcing Prakash Singh directives across all States and UTs."
+  ],
+  "next_step": "draft"
+}
