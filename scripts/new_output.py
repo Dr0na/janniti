@@ -7,7 +7,7 @@ import argparse
 import json
 import re
 import sys
-from datetime import UTC, datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 
@@ -70,7 +70,7 @@ def main() -> int:
         "matter_id": matter_id,
         "title": args.title,
         "status": "in_progress",
-        "created_at": datetime.now(UTC).replace(microsecond=0).isoformat(),
+        "created_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
         "jurisdiction": None,
         "as_of_date": None,
         "source_or_instruction": None,

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "Public Deliberation & Consultation Plan: National Universal Free Healthcare and Medical Integrity Bill, 2026",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "proposal": "National Universal Free Healthcare and Medical Integrity Bill, 2026",
+  "publication": {
+    "plain_language_summary": "Universal free healthcare, free medicines, diagnostics, and surgeries in public facilities, private tariff capping, 15km/30km facility mandates, AI clinical auditing, and penalizing doctor kickbacks.",
+    "full_draft": "Draft text published on Ministry of Health portal and Gazette of India.",
+    "impact_notes": "Socio-economic impact assessment, health economics analysis, and fiscal memorandum.",
+    "evidence_register": "NSSO health rounds, WHO global health reports, ICMR study registers.",
+    "languages": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+    "accessible_formats": ["Screen-reader accessible PDF", "Braille summaries", "Audio podcasts", "Simplified visual infographics"]
+  },
+  "schedule": {
+    "launch_date": "2026-08-01",
+    "closing_date": "2026-09-30",
+    "duration_days": 60
+  },
+  "participation": {
+    "channels": ["Online portal submission", "District Collectorate physical drop-boxes", "Public town-hall hearings in every district"],
+    "accessibility": "Barrier-free access, local language translation, toll-free phone recording",
+    "affected_groups": ["Patients", "Healthcare workers", "Doctors", "Pharmacists", "Private hospital associations", "Civil society organzations"],
+    "anti_retaliation": "Whistleblower protection and anonymous submission option"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory public registration of all pharmaceutical and private hospital lobbying meetings",
+    "anti_capture": "Independent multi-stakeholder advisory council overseeing public submissions",
+    "privacy": "Anonymized public comment register",
+    "automated_analysis_disclosure": "Public report on natural language processing tools used for comment categorization"
+  },
+  "deliberation": {
+    "townhalls": "District-level public hearings conducted by District Magistrates",
+    "stakeholder_roundtables": "Roundtables with National Medical Commission, IMA, civil society, patient groups"
+  },
+  "response_to_comments": {
+    "publication": "Public Redline and Submissions Outcome Matrix",
+    "fields": ["Submission ID", "Stakeholder Category", "Clause Reference", "Summary of Point", "Government Response / Revision"],
+    "deadline": "2026-10-31"
+  },
+  "remedies": {
+    "complaint_route": "Public Consultation Grievance Cell",
+    "reconsultation_trigger": "Substantive structural revision to core statutory rights or private price-capping formulas",
+    "public_notice": "Public notification in Official Gazette and national media"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "matter_id": "007",
+  "title": "National Universal Free Healthcare and Medical Integrity Bill",
+  "status": "completed",
+  "created_at": "2026-07-29T14:47:36+00:00",
+  "jurisdiction": "India (Union)",
+  "as_of_date": "2026-07-29",
+  "source_or_instruction": "User prompt requesting Universal Free Healthcare Bill with private price capping, 15km/30km radius mandate, AI prescription audit, National EHR, penal clauses for brand favouritism/antibiotic misuse, and anti-repeal entrenchment.",
+  "related_matters": [],
+  "legacy_source_location": null,
+  "notes": "National Universal Free Healthcare and Medical Integrity Bill, 2026 matter record.",
+  "introduction_ready_instruments": [
+    {
+      "title": "National Universal Free Healthcare and Medical Integrity Bill",
+      "instrument_type": "Bill",
+      "file": "01-draft/introduction-ready-national-universal-free-healthcare-and-medical-integrity-bill.md",
+      "registered_at": "2026-07-29T14:52:50+00:00"
+    }
+  ]
+}

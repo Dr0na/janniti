@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "007",
+  "topic": "National Universal Free Healthcare and Medical Integrity Bill",
+  "as_of_date": "2026-07-29",
+  "jurisdictions": [
+    {
+      "name": "India (Union & States)",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://legislative.gov.in/constitution-of-india",
+        "https://www.indiacode.nic.in/",
+        "https://main.mohfw.gov.in/",
+        "https://www.nmc.org.in/",
+        "https://cdsco.gov.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Constitution",
+      "title": "Constitution of India, Articles 21, 47, Seventh Schedule List II Item 6, List III Items 20, 23, 26",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "publisher": "Ministry of Law and Justice",
+          "pinpoint": "Article 21 (Right to Life and Health), Article 47 (Duty of State to raise level of nutrition and standard of living and improve public health), Seventh Schedule",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Public health is primarily List II Item 6 (State list), but Economic and Social Planning (List III Item 20), Social Security (List III Item 23), Medical Profession (List III Item 26), and Criminal Law (List III Item 1) allow Union parliamentary legislation under Article 246 read with Article 252/253."
+    },
+    {
+      "id": "finding-002",
+      "instrument_type": "Judicial Precedent",
+      "title": "Paschim Banga Khet Mazdoor Samity v. State of W.B. (1996) 4 SCC 37; State of Punjab v. Ram Lubhaya Bagga (1998) 4 SCC 117",
+      "jurisdiction": "India",
+      "status": "binding",
+      "official_sources": [
+        {
+          "url": "https://main.sci.gov.in/",
+          "publisher": "Supreme Court of India",
+          "pinpoint": "(1996) 4 SCC 37",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes constitutional obligation of the State to provide timely medical treatment as an integral part of Article 21."
+    },
+    {
+      "id": "finding-003",
+      "instrument_type": "Act",
+      "title": "Clinical Establishments (Registration and Regulation) Act, 2010; Drugs and Cosmetics Act, 1940; National Medical Commission Act, 2019; Digital Personal Data Protection Act, 2023",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://www.indiacode.nic.in/",
+          "publisher": "Parliament of India",
+          "pinpoint": "Relevant statutory schemes",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Existing acts are fragmented, lack universal free entitlement mandates, lack radius-based infrastructure density requirements, lack AI clinical audit mechanisms, and fail to criminally penalize brand-favoritism kickbacks or irrational antibiotic prescribing."
+    }
+  ],
+  "gaps": [
+    "Absence of statutory right to universal free healthcare, surgeries, OTC/essential medicines, and diagnostics.",
+    "Lack of mandatory 15 km (urban) and 30 km (rural) radius ultra-modern public healthcare facility density.",
+    "Unregulated private sector pricing leading to catastrophic out-of-pocket health expenditures (~47% of total health expenditure).",
+    "Absence of AI-driven prescription/operative procedure auditing to catch irrational prescriptions and unnecessary surgeries.",
+    "Widespread pharmaceutical brand kickbacks, doctor incentives, and uncontrolled over-the-counter antimicrobial misuse.",
+    "Lack of a constitutional entrenchment mechanism protecting healthcare access from repeal by subsequent governments."
+  ],
+  "next_step": "draft"
+}

@@ -1,0 +1,40 @@
+{
+  "file": "outputs/007-national-universal-free-healthcare-and-medical-integrity-bill/01-draft/introduction-ready-national-universal-free-healthcare-and-medical-integrity-bill.md",
+  "findings": [
+    {
+      "rule_id": "L013",
+      "severity": "Medium",
+      "line": 23,
+      "excerpt": "(a) \"AI Clinical Audit System\" means the automated, double-blind algorithmic prescription and operative procedure audit platform established under section 11 in alignment with the National AI Policy;",
+      "suggested_review": "Indirect-evasion risk; apply safeguards to delegates and technology."
+    },
+    {
+      "rule_id": "L010",
+      "severity": "High",
+      "line": 189,
+      "excerpt": "(1) Whoever contravenes the provisions of section 9 by offering, giving, accepting, or soliciting any kickback, gift, or brand-specific inducement shall be punishable with imprisonment for a term which shall not be less than one year but which may extend to five years, and with fine which shall not be less than ten lakh rupees.",
+      "suggested_review": "Penalty provision; verify clear elements, mental state, defences, and proportionality."
+    },
+    {
+      "rule_id": "L010",
+      "severity": "High",
+      "line": 195,
+      "excerpt": "(1) Whoever sells or dispenses prescription antimicrobials in violation of section 10 shall be punishable with a fine of not less than fifty thousand rupees for the first offence, and for subsequent offences, with imprisonment for a term which may extend to two years and fine up to five lakh rupees.",
+      "suggested_review": "Penalty provision; verify clear elements, mental state, defences, and proportionality."
+    },
+    {
+      "rule_id": "L003",
+      "severity": "High",
+      "line": 207,
+      "excerpt": "No suit, prosecution, or other legal proceeding shall lie against the Central Government, State Government, Authority, Board, or any officer acting under this Act for anything done or intended to be done in good faith under this Act or rules made thereunder.",
+      "suggested_review": "Potential immunity; preserve remedies for unlawful conduct."
+    },
+    {
+      "rule_id": "L005",
+      "severity": "Medium",
+      "line": 233,
+      "excerpt": "The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or any instrument having effect by virtue of any law other than the Constitution of India.",
+      "suggested_review": "Exception may be overbroad; narrow scope, duration, and oversight."
+    }
+  ]
+}

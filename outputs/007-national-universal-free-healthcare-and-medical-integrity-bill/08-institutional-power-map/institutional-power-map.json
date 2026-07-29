@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "007",
+  "title": "National Universal Free Healthcare and Medical Integrity Bill, 2026",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "central_gov",
+      "name": "Central Government (Ministry of Health)"
+    },
+    {
+      "id": "nuha",
+      "name": "National Universal Health Authority (NUHA)"
+    },
+    {
+      "id": "nhta",
+      "name": "National Healthcare Tariff Authority (NHTA)"
+    },
+    {
+      "id": "ai_imrc",
+      "name": "AI Clinical Audit System & Independent Medical Review Board"
+    },
+    {
+      "id": "nmrpa",
+      "name": "National Medical Records Protection Authority (NMRPA)"
+    },
+    {
+      "id": "nuhtf",
+      "name": "National Universal Health Trust Fund Board"
+    },
+    {
+      "id": "supreme_court",
+      "name": "Supreme Court / High Courts"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "nuha",
+      "power": "rulemaking"
+    },
+    {
+      "from": "central_gov",
+      "to": "nuha",
+      "power": "appointment"
+    },
+    {
+      "from": "central_gov",
+      "to": "nhta",
+      "power": "appointment"
+    },
+    {
+      "from": "nuhtf",
+      "to": "nuha",
+      "power": "funding"
+    },
+    {
+      "from": "ai_imrc",
+      "to": "nuha",
+      "power": "investigation"
+    },
+    {
+      "from": "supreme_court",
+      "to": "nuha",
+      "power": "adjudication"
+    },
+    {
+      "from": "parliament",
+      "to": "nuhtf",
+      "power": "audit"
+    },
+    {
+      "from": "nmrpa",
+      "to": "central_gov",
+      "power": "information"
+    }
+  ]
+}

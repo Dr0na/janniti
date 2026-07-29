@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "matter_id": "007",
+    "title": "National Universal Free Healthcare and Medical Integrity Bill, 2026",
+    "as_of_date": "2026-07-29",
+    "jurisdiction": "India (Union)"
+  },
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "The State has a constitutional obligation under Article 21 to provide timely medical treatment to preserve human life.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Paschim Banga Khet Mazdoor Samity v. State of W.B.",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "1996-05-06",
+          "version_or_stage": "reported",
+          "pinpoint": "(1996) 4 SCC 37",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Establishes constitutional duty of public hospitals to provide emergency care.",
+      "reviewer_action": "verified_and_accepted"
+    },
+    {
+      "id": "claim-002",
+      "text": "Article 47 mandates the State to treat the improvement of public health as among its primary duties.",
+      "classification": "current_law",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Constitution of India, Article 47",
+          "authority_type": "constitution",
+          "issuer": "Constituent Assembly / Parliament of India",
+          "url": "https://legislative.gov.in/constitution-of-india",
+          "document_date": "1950-01-26",
+          "version_or_stage": "in_force",
+          "pinpoint": "Part IV Article 47",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Directive Principle of State Policy; statutory enactment gives enforceable effect.",
+      "reviewer_action": "verified_and_accepted"
+    },
+    {
+      "id": "claim-003",
+      "text": "Price regulation of private healthcare establishments is constitutional under reasonable restriction principles.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [
+        {
+          "treatment": "controlling",
+          "title": "Modern Dental College v. State of M.P.",
+          "authority_type": "judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://main.sci.gov.in/",
+          "document_date": "2016-05-02",
+          "version_or_stage": "reported",
+          "pinpoint": "(2016) 7 SCC 353",
+          "retrieved_at": "2026-07-29"
+        }
+      ],
+      "limitations": "Requires transparent cost-plus tariff determination by an independent statutory authority.",
+      "reviewer_action": "verified_and_accepted"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "title": "Democratic Impact Monitor: National Universal Free Healthcare and Medical Integrity Bill, 2026",
+  "jurisdiction": "India (Union)",
+  "as_of": "2026-07-29",
+  "objective": "Track universal free healthcare delivery, private tariff compliance, 15km/30km facility radius density, AI prescription auditing fairness, and EHR privacy security.",
+  "affected_groups": [
+    "Patients across urban and rural India",
+    "Public health service medical professionals and staff",
+    "Private healthcare establishments and diagnostic laboratories",
+    "Pharmaceutical manufacturers and distributors"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Out-of-Pocket Expenditure (OOPE) Reduction",
+      "category": "equity_and_access",
+      "definition": "Proportion of total household health spending out-of-pocket across public and private facilities.",
+      "data_source": "National Sample Survey Office (NSSO) Health Rounds & National Health Accounts",
+      "frequency": "annual",
+      "publication": "Publicly published on National Health Portal",
+      "independent_validation": "Independent academic evaluation by Indian Council of Medical Research (ICMR)",
+      "privacy_safeguard": "Aggregated anonymized statistical reporting"
+    },
+    {
+      "id": "ind-002",
+      "name": "Public Infrastructure Density Compliance",
+      "category": "infrastructure_coverage",
+      "definition": "Percentage of urban populations within 15 km and rural populations within 30 km of a functional ultra-modern public healthcare facility.",
+      "data_source": "GIS Spatial Mapping & State Health Infrastructure Dashboards",
+      "frequency": "semi_annual",
+      "publication": "Public GIS interactive dashboard",
+      "independent_validation": "Auditor General of India physical verification",
+      "privacy_safeguard": "Spatial infrastructure data (no PII)"
+    }
+  ],
+  "oversight": {
+    "body": "National Universal Health Authority Oversight Committee",
+    "composition": "Public health experts, judicial nominees, patient advocates, CAG representatives",
+    "powers": "Statutory audit, spot inspections, subpoena records, issue binding corrective directions"
+  },
+  "complaints": {
+    "channel": "National Healthcare Grievance Redressal Portal & Ombudsman",
+    "deadline_days": 15,
+    "appeal_route": "District Health Ombudsman -> State Health Rights Tribunal"
+  },
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Facility density shortfall exceeding 10% in any district or private overcharging complaints exceeding threshold.",
+      "detector": "National Health Infrastructure GIS & Grievance Redressal Portal",
+      "responsible_body": "National Universal Health Authority",
+      "deadline": "30 days",
+      "interim_protection": "Emergency financial allocation from National Universal Health Trust Fund",
+      "correction": "Mandatory directive to State Administration to establish temporary mobile surgical/diagnostic units",
+      "public_notice": "Immediate public report published on National Health Portal"
+    }
+  ],
+  "review": {
+    "cadence": "annual",
+    "reporting_to": "Parliament of India (Joint Parliamentary Committee on Health)",
+    "sunset_or_revision": "5-year statutory parliamentary review"
+  }
+}

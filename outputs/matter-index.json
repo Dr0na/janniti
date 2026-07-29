@@ -36,6 +36,33 @@
       "as_of_date": "2026-07-27",
       "path": "004-judicial-reform-social-representation-and-accountability-bill",
       "related_matters": []
+    },
+    {
+      "matter_id": "005",
+      "title": "Wealth Decentralization and Economic Concentration Reform Ideas",
+      "status": "completed",
+      "jurisdiction": "India",
+      "as_of_date": "2026-07-27",
+      "path": "005-wealth-decentralization-and-economic-concentration-reform-ideas",
+      "related_matters": []
+    },
+    {
+      "matter_id": "006",
+      "title": "National Universal Free and Research Oriented Education Reform Bill",
+      "status": "completed",
+      "jurisdiction": "India",
+      "as_of_date": "2026-07-27",
+      "path": "006-national-universal-free-and-research-oriented-education-reform-bill",
+      "related_matters": []
+    },
+    {
+      "matter_id": "007",
+      "title": "National Universal Free Healthcare and Medical Integrity Bill",
+      "status": "completed",
+      "jurisdiction": "India (Union)",
+      "as_of_date": "2026-07-29",
+      "path": "007-national-universal-free-healthcare-and-medical-integrity-bill",
+      "related_matters": []
     }
   ]
 }

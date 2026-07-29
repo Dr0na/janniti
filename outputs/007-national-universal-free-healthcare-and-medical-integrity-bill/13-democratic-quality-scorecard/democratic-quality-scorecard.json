@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "007",
+  "title": "Democratic Quality Scorecard: National Universal Free Healthcare and Medical Integrity Bill, 2026",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Establishes universal statutory right to free healthcare and medicines; embeds companion Article 21B amendment draft.",
+      "uncertainty": "Requires sustained state fiscal allocations.",
+      "corrective_action": "Statutory National Universal Health Trust Fund financed by dedicated health cess."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Eliminates economic discrimination; mandates 15km urban and 30km rural public infrastructure radius density.",
+      "uncertainty": "Implementation timeline in remote tribal regions.",
+      "corrective_action": "Central financial assistance and mobile diagnostic units for lagging districts."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "Independent Medical Review Boards, National Healthcare Tariff Authority, and criminalization of doctor kickbacks.",
+      "uncertainty": "Potential resistance from commercial hospital lobbies.",
+      "corrective_action": "Strict judicial review, transparent public cost hearings, and whistleblower protections."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Power divided across separate authorities for administration (NUHA), tariffs (NHTA), clinical audits (IMRC), data privacy (NMRPA), and funding (NUHTF).",
+      "uncertainty": "Inter-agency coordination overhead.",
+      "corrective_action": "Joint Parliamentary Committee annual reporting and clear statutory jurisdictions."
+    },
+    {
+      "id": "transparency",
+      "score": 5,
+      "evidence": "Mandatory publication of private price ceilings, generic prescribing rules, and open GIS infrastructure mapping.",
+      "uncertainty": "Data latency in rural health centre logging.",
+      "corrective_action": "Real-time digital sync via National Health Portal."
+    },
+    {
+      "id": "enforceability",
+      "score": 5,
+      "evidence": "Cognizable offences under BNS for kickbacks and unauthorized antimicrobial sales; civil penalties for private overcharging.",
+      "uncertainty": "Prosecutorial bandwidth.",
+      "corrective_action": "Designated special health rights courts and time-bound summary trials."
+    },
+    {
+      "id": "accessibility",
+      "score": 5,
+      "evidence": "Plain-language summaries in 22 languages, screen-reader PDF, toll-free grievance helpline.",
+      "uncertainty": "Literacy barriers in remote areas.",
+      "corrective_action": "Audio podcasts and community health worker outreach."
+    },
+    {
+      "id": "public_participation",
+      "score": 5,
+      "evidence": "60-day nationwide consultation, lobbying transparency register, district town-halls, public redline outcome matrix.",
+      "uncertainty": "Volume of public submissions.",
+      "corrective_action": "Automated NLP analysis paired with independent advisory panel review."
+    }
+  ]
+}

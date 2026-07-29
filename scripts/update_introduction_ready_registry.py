@@ -7,7 +7,7 @@ import argparse
 import json
 import re
 import sys
-from datetime import UTC, datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 
@@ -145,7 +145,7 @@ def main() -> int:
             "title": args.instrument_title or manifest.get("title") or instrument.stem,
             "instrument_type": args.instrument_type,
             "file": relative_file,
-            "registered_at": datetime.now(UTC).replace(microsecond=0).isoformat(),
+            "registered_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
         })
         manifest_path.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
 
