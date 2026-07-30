@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "title": "National Institutional Integrity, Public Asset Audit, and Review Commission Public Deliberation Plan",
+  "jurisdiction": "India",
+  "as_of": "2026-07-30",
+  "proposal": "Enactment of the National Institutional Integrity, Public Asset Audit, and Review Commission Bill, 2026.",
+  "publication": {
+    "plain_language_summary": "Public summary explaining the asset audit process, rights safeguards under Article 20(1) and Article 311, and High Court review procedures.",
+    "full_draft": "Complete text of the Bill and explanatory memoranda.",
+    "impact_notes": "Explanatory note on public exchequer recovery, contractual rights, and civil service integrity.",
+    "evidence_register": "Register of CAG reports, Supreme Court judgments, and financial valuation methodologies.",
+    "languages": ["English", "Hindi", "Scheduled Languages"],
+    "accessible_formats": ["Digital HTML", "PDF", "Audio Summary", "Screen-reader Accessible Text"]
+  },
+  "schedule": {
+    "notice_period_days": 60,
+    "consultation_start": "2026-08-15",
+    "consultation_end": "2026-10-15"
+  },
+  "participation": {
+    "channels": ["Online Public Consultation Portal", "Regional Town Hall Consultations", "Written Submissions to Parliamentary Committee"],
+    "accessibility": "Free online and postal submission options across all States",
+    "affected_groups": ["Citizens", "Legal Experts", "Civil Society Organizations", "Trade Unions", "Industry Associations"],
+    "anti_retaliation": "Whistleblower protection and anonymous submission option"
+  },
+  "integrity": {
+    "lobbying_disclosure": "Mandatory disclosure of all corporate and organizational submissions",
+    "anti_capture": "Independent oversight by multi-party selection committee",
+    "privacy": "Protection of personal data under Digital Personal Data Protection Act, 2023",
+    "automated_analysis_disclosure": "Public reporting of submission categorization and methodology"
+  },
+  "deliberation": {
+    "expert_hearings": "Hearings with former Supreme Court judges, CAG auditors, and constitutional scholars",
+    "civic_forums": "Public hearings conducted by Joint Parliamentary Committee"
+  },
+  "response_to_comments": {
+    "publication": "Public Consultation Outcome Matrix published online",
+    "fields": ["Submission ID", "Category", "Issue Raised", "Government Response / Clause Modification"],
+    "deadline": "30 days post-consultation close"
+  },
+  "remedies": {
+    "complaint_route": "Petition to Joint Parliamentary Committee Secretariat",
+    "reconsultation_trigger": "Substantive structural alteration to due process provisions",
+    "public_notice": "Published in Gazette and online portal"
+  }
+}

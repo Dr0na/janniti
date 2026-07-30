@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "028",
+  "topic": "National Institutional Integrity, Public Asset Audit, and Review Commission Bill",
+  "as_of_date": "2026-07-30",
+  "jurisdictions": [
+    {
+      "name": "India",
+      "coverage_status": "researched",
+      "repositories_checked": [
+        "https://www.indiacode.nic.in/",
+        "https://main.sci.gov.in/",
+        "https://cdnbbsr.s3waas.gov.in/"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Constitution",
+      "title": "Constitution of India, Article 20(1) (Ex Post Facto Criminal Protection)",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcef1b0829066/uploads/2024/05/20240516102142204.pdf",
+          "publisher": "Ministry of Law and Justice",
+          "pinpoint": "Article 20(1)",
+          "retrieved_at": "2026-07-30"
+        }
+      ],
+      "limitations": "Absolute fundamental right; bars retrospective criminal laws and penalties."
+    },
+    {
+      "id": "finding-002",
+      "instrument_type": "Act",
+      "title": "Commissions of Inquiry Act, 1952",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/1529",
+          "publisher": "Legislative Department",
+          "pinpoint": "Sections 3-6",
+          "retrieved_at": "2026-07-30"
+        }
+      ],
+      "limitations": "Inquiry powers lack direct civil contract quashing or asset recovery powers."
+    },
+    {
+      "id": "finding-003",
+      "instrument_type": "Judicial Precedent",
+      "title": "Centre for Public Interest Litigation v. Union of India (2G Spectrum Case)",
+      "jurisdiction": "India",
+      "status": "in_force",
+      "official_sources": [
+        {
+          "url": "https://main.sci.gov.in/jonew/judis/38995.pdf",
+          "publisher": "Supreme Court of India",
+          "pinpoint": "(2012) 3 SCC 1",
+          "retrieved_at": "2026-07-30"
+        }
+      ],
+      "limitations": "Requires public asset disposition to be transparent, non-arbitrary, and evidence-based."
+    }
+  ],
+  "gaps": [
+    "State land lease records subject to individual State Government registries; central asset recovery applies to Union land, central PSUs, and Union public service recruitment."
+  ],
+  "next_step": "draft"
+}

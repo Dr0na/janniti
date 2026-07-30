@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "actors": [
+    {
+      "id": "selection_committee",
+      "name": "Tripartite Selection Committee (PM, Leader of Opposition, CJI)"
+    },
+    {
+      "id": "president_of_india",
+      "name": "President of India"
+    },
+    {
+      "id": "commission",
+      "name": "National Institutional Integrity, Public Asset Audit, and Review Commission"
+    },
+    {
+      "id": "public_assets",
+      "name": "Contested Public Assets, Disinvestments, and Contracts"
+    },
+    {
+      "id": "high_court",
+      "name": "High Court of Judicature"
+    },
+    {
+      "id": "supreme_court",
+      "name": "Supreme Court of India"
+    },
+    {
+      "id": "upsc",
+      "name": "Union Public Service Commission"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "selection_committee",
+      "to": "commission",
+      "power": "appointment",
+      "safeguards": "Statutory tripartite consensus requirement including Leader of Opposition and CJI."
+    },
+    {
+      "from": "president_of_india",
+      "to": "commission",
+      "power": "removal",
+      "safeguards": "Removal permitted only upon proved misbehaviour after Supreme Court Judge inquiry."
+    },
+    {
+      "from": "commission",
+      "to": "public_assets",
+      "power": "audit",
+      "safeguards": "Audit conducted under objective valuation standards and civil court powers."
+    },
+    {
+      "from": "high_court",
+      "to": "commission",
+      "power": "adjudication",
+      "safeguards": "Full judicial review and writ jurisdiction under Article 226."
+    },
+    {
+      "from": "high_court",
+      "to": "public_assets",
+      "power": "adjudication",
+      "safeguards": "Final quashing or recovery orders issued by Division Bench of High Court."
+    },
+    {
+      "from": "supreme_court",
+      "to": "commission",
+      "power": "adjudication",
+      "safeguards": "Direct statutory appeal under Section 11."
+    },
+    {
+      "from": "upsc",
+      "to": "commission",
+      "power": "audit",
+      "safeguards": "Civil service lateral entry review conducted strictly in concurrence with UPSC."
+    }
+  ]
+}

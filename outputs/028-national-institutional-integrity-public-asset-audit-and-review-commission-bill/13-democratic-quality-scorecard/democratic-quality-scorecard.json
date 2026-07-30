@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "title": "National Institutional Integrity, Public Asset Audit, and Review Commission Democratic Scorecard",
+  "as_of_date": "2026-07-30",
+  "dimensions": [
+    {
+      "id": "rights",
+      "score": 5,
+      "evidence": "Strictly enforces Article 20(1) immunity against ex post facto criminal penalization and Article 21 due process.",
+      "uncertainty": "Requires vigilant judicial supervision against political misuse.",
+      "corrective_action": "Statutory right of appeal to Supreme Court under Section 11."
+    },
+    {
+      "id": "equality",
+      "score": 5,
+      "evidence": "Applies objective valuation and recruitment criteria equally without political discrimination.",
+      "uncertainty": "Varying complexity of asset valuations across sectors.",
+      "corrective_action": "Independent valuation panel composed of certified economic experts."
+    },
+    {
+      "id": "accountability",
+      "score": 5,
+      "evidence": "Establishes judicially led Commission with annual reporting duties to Parliament.",
+      "uncertainty": "Administrative delay in complex civil litigation before High Courts.",
+      "corrective_action": "Mandatory 180-day statutory timeline for High Court petitions."
+    },
+    {
+      "id": "power_concentration",
+      "score": 5,
+      "evidence": "Tripartite selection committee (PM, Opposition Leader, CJI) prevents executive capture.",
+      "uncertainty": "Coordination across selection committee members.",
+      "corrective_action": "Statutory multi-member consensus requirement."
+    },
+    {
+      "id": "transparency",
+      "score": 4,
+      "evidence": "Mandates open-access portal publishing all audit determinations and court petitions within 14 days.",
+      "uncertainty": "Commercially sensitive trade secret claims by private contracting parties.",
+      "corrective_action": "In-camera judicial inspection for genuine trade secrets."
+    },
+    {
+      "id": "enforceability",
+      "score": 4,
+      "evidence": "Direct civil court powers and statutory standing to file High Court quashing/recovery suits.",
+      "uncertainty": "Interstate jurisdictional variance in land records.",
+      "corrective_action": "Special Division Benches designated in each High Court."
+    },
+    {
+      "id": "accessibility",
+      "score": 4,
+      "evidence": "Multilingual summaries, accessible digital portal, and plain-language public materials.",
+      "uncertainty": "Regional language translation turnaround times.",
+      "corrective_action": "Pre-translated standardized legal notice templates."
+    },
+    {
+      "id": "public_participation",
+      "score": 4,
+      "evidence": "60-day public consultation plan with Joint Parliamentary Committee civic hearings.",
+      "uncertainty": "Public awareness of technical asset valuation methodologies.",
+      "corrective_action": "Publishing simplified civic explainer notes."
+    }
+  ]
+}

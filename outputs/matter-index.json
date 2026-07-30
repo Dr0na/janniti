@@ -243,6 +243,20 @@
       "as_of_date": "2026-07-29",
       "path": "027-universal-senior-citizen-security-disability-pension-and-care-guarantee-bill",
       "related_matters": []
+    },
+    {
+      "matter_id": "028",
+      "title": "National Institutional Integrity Public Asset Audit and Review Commission Bill",
+      "status": "complete",
+      "jurisdiction": "India",
+      "as_of_date": "2026-07-30",
+      "path": "028-national-institutional-integrity-public-asset-audit-and-review-commission-bill",
+      "related_matters": [
+        "003",
+        "004",
+        "020",
+        "024"
+      ]
     }
   ]
 }

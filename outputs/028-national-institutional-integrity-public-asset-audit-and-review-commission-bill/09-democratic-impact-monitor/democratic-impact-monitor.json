@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "title": "National Institutional Integrity, Public Asset Audit, and Review Commission Democratic Impact Plan",
+  "jurisdiction": "India",
+  "as_of": "2026-07-30",
+  "objective": "Track, audit, and evaluate public asset recovery, disinvestment reviews, civil service appointment regularity, and constitutional rights compliance.",
+  "affected_groups": [
+    "Public exchequer and taxpayers",
+    "Former and existing leaseholders and asset purchasers",
+    "Civil servants and lateral entry appointees",
+    "General public and civic oversight organizations"
+  ],
+  "indicators": [
+    {
+      "id": "ind-001",
+      "name": "Public Asset Audit Coverage",
+      "category": "Asset Recovery",
+      "definition": "Percentage of major disinvestments and high-value land leases audited against valuation standards.",
+      "data_source": "Commission Audit Register",
+      "frequency": "Quarterly",
+      "publication": "Public Online Portal",
+      "independent_validation": "CAG Audit Verification",
+      "privacy_safeguard": "Anonymized administrative metrics"
+    },
+    {
+      "id": "ind-002",
+      "name": "Judicial Quashing and Recovery Rate",
+      "category": "Judicial Enforcement",
+      "definition": "Number and financial value of petitions decided by High Courts for quashing tainted contracts.",
+      "data_source": "High Court Registry Data",
+      "frequency": "Bi-annually",
+      "publication": "Annual Parliamentary Report",
+      "independent_validation": "High Court Annual Reports",
+      "privacy_safeguard": "Public court judgment records"
+    }
+  ],
+  "triggers": [
+    {
+      "id": "trig-001",
+      "condition": "Failure to complete audit of a high-value transaction within 180 days.",
+      "detector": "Internal Monitoring Cell",
+      "responsible_body": "Commission Chairperson",
+      "deadline": "14 days",
+      "interim_protection": "Provisional preservation of assets",
+      "correction": "Reallocation to special valuation panel",
+      "public_notice": "Published on portal"
+    }
+  ],
+  "oversight": {
+    "body": "Parliamentary Standing Committee on Law and Public Grievances",
+    "frequency": "Annual",
+    "report_target": "Parliament of India"
+  },
+  "complaints": {
+    "mechanism": "Independent Whistleblower & Public Complaint Cell",
+    "due_process": "Strict confidentiality, written reasons, 30-day decision deadline",
+    "appeal_route": "High Court Writ Petition"
+  },
+  "review": {
+    "statutory_mandate": "3-year statutory review",
+    "sunset_clause": "5-year statutory expiry unless extended by Parliament"
+  }
+}
