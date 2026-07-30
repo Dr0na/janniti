@@ -14,6 +14,8 @@
     "00-research-and-scope/research-manifest.json",
     "01-draft/analysis-and-drafting-record.md",
     "01-draft/introduction-ready-national-institutional-integrity-public-asset-audit-and-review-commission-bill.md",
+    "02-legal-review/legal-review-report.md",
+    "03-validation/legal-validation-report.md",
     "04-legislative-lint/legislative-lint-report.json",
     "05-citation-verification/citation-verification-report.json",
     "06-provenance/claim-provenance.json",
@@ -21,6 +23,9 @@
     "08-institutional-power-map/institutional-power-map.json",
     "09-democratic-impact-monitor/democratic-impact-monitor.json",
     "10-public-deliberation/public-deliberation-plan.json",
+    "11-public-legal-accessibility/public-legal-accessibility.md",
+    "12-expert-escalation/expert-escalation-register.json",
+    "12-expert-escalation/expert-escalation-brief.md",
     "13-democratic-quality-scorecard/democratic-quality-scorecard.json"
   ],
   "introduction_ready_instruments": [

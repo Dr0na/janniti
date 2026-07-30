@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "028",
+  "title": "National Institutional Integrity, Public Asset Audit, and Review Commission Expert Escalation Register",
+  "as_of_date": "2026-07-30",
+  "reviewers": [
+    {
+      "id": "rev-001",
+      "role": "Senior Constitutional Counsel (Supreme Court of India)",
+      "selection_basis": "30+ years experience in public law, basic structure doctrine, and fundamental rights litigation.",
+      "conflicts_declared": "None declared.",
+      "conflict_disposition": "Cleared for independent review.",
+      "independence_status": "eligible",
+      "review_date": "2026-07-30"
+    },
+    {
+      "id": "rev-002",
+      "role": "Former Member, Comptroller and Auditor General of India (CAG)",
+      "selection_basis": "Expertise in public sector asset valuation, disinvestments, and public procurement audits.",
+      "conflicts_declared": "None declared.",
+      "conflict_disposition": "Cleared for independent review.",
+      "independence_status": "eligible",
+      "review_date": "2026-07-30"
+    },
+    {
+      "id": "rev-003",
+      "role": "Former Member, Union Public Service Commission (UPSC)",
+      "selection_basis": "Expertise in civil service recruitment rules, lateral entry frameworks, and Article 311 procedures.",
+      "conflicts_declared": "None declared.",
+      "conflict_disposition": "Cleared for independent review.",
+      "independence_status": "eligible",
+      "review_date": "2026-07-30"
+    }
+  ],
+  "issues": [
+    {
+      "id": "esc-001",
+      "severity": "Critical",
+      "issue": "Verification of non-retrospectivity under Article 20(1) regarding criminal referrals.",
+      "response": "Clause 10 explicitly prohibits ex post facto criminal penalization and restricts referrals to pre-existing offences under the Prevention of Corruption Act.",
+      "status": "resolved"
+    },
+    {
+      "id": "esc-002",
+      "severity": "High",
+      "issue": "Preservation of Article 300A property rights in asset recovery petitions before High Courts.",
+      "response": "Clause 8 places sole quashing and recovery authority with High Court Division Benches after full trial and due notice.",
+      "status": "resolved"
+    }
+  ]
+}
