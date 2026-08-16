@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "title": "Food, Feed and Delivery Integrity Democratic Impact Monitor",
+  "jurisdiction": "India",
+  "as_of": "2026-08-16",
+  "objective": "Monitor health, nutrition, animal welfare, consumer, worker, equality, privacy and anti-capture outcomes without creating a surveillance system.",
+  "affected_groups": [
+    {"group": "Consumers, workers, small vendors, traditional producers, animal keepers and delivery workers", "access_barriers": ["cost", "language", "disability", "digital access", "retaliation"], "baseline_source": "Pre-commencement independently audited baseline"}
+  ],
+  "indicators": [
+    {"id": "I-001", "name": "Safety and recall timeliness", "category": "health", "definition": "Time from credible signal to preservation, warning, recall and remedy.", "data_source": "De-identified incident register", "frequency": "quarterly", "publication": "Open aggregate dataset", "independent_validation": "Annual external audit", "privacy_safeguard": "Aggregate/de-identify and minimise retention"},
+    {"id": "I-002", "name": "Selective-enforcement disparity", "category": "equality", "definition": "Comparator analysis of inspections, closures, penalties and reversals.", "data_source": "Enforcement register", "frequency": "quarterly", "publication": "Open aggregate dataset", "independent_validation": "Independent equality audit", "privacy_safeguard": "No protected-identity publication"}
+  ],
+  "oversight": {"body": "Plural independent auditor specified by enacted law", "appointment_safeguard": "Published criteria, plural selection, conflict disclosure and removal due process", "audit_frequency": "annual", "public_report": "annual public report", "information_remedy": "court or legislative referral for unjustified withholding"},
+  "complaints": {"channels": ["online", "offline", "accessible telephone", "protected worker route"], "retaliation_protection": "Confidential intake and independent retaliation investigation", "outcome_publication": "Anonymised quarterly outcomes", "appeal_route": "Independent review and court access"},
+  "triggers": [{"id": "T-001", "condition": "Material rights harm, repeated safety failure, persistent disparity, corruption signal or data breach", "detector": "Independent audit or complaint data", "responsible_body": "Oversight body", "deadline": "30 days", "interim_protection": "Suspend harmful practice where necessary", "correction": "Published corrective plan and legislative/judicial referral", "public_notice": true}],
+  "review": {"legislative_review": "annual", "sunset_or_review_date": "Two years after commencement and every three years thereafter", "repeal_or_amendment_route": "Published review with legislative action"}
+}

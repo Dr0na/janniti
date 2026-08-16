@@ -1,0 +1,16 @@
+# Citation Verification — BNS Section 274 Amendment
+
+**Scope:** targeted draft amendment in `02-legal-review/bns-food-adulteration-minimum-sentence-amendment-schedule.md`.
+
+| Claim | Classification | Source and pinpoint | Status | Required correction |
+|---|---|---|---|---|
+| BNS section 274 currently punishes adulteration of food or drink made noxious for sale with up to six months’ imprisonment, fine up to Rs. 5,000, or both. | Current law | India Code, *The Bharatiya Nyaya Sanhita, 2023*, Act 45 of 2023, p. 94, s. 274: <https://www.indiacode.nic.in/bitstream/123456789/20062/1/a202345.pdf> (retrieved 16 August 2026). | Verified against official PDF; local hash-pinned snapshot retained pending human source acceptance. | Obtain the designated reviewer’s acceptance record before relying on the snapshot as an accepted consequential source. |
+| BNSS First Schedule presently lists BNS section 274 as non-cognizable, bailable and triable by any Magistrate. | Current law | India Code, *The Bharatiya Nagarik Suraksha Sanhita, 2023*, Act 46 of 2023, First Schedule, p. 206: <https://www.indiacode.nic.in/bitstream/123456789/20099/1/A202346.pdf> (retrieved 16 August 2026). | Verified against official PDF; local hash-pinned snapshot retained pending human source acceptance. | The proposed five-year maximum requires the matching schedule amendment and a court with adequate sentencing power. |
+| A Chief Judicial Magistrate may pass any sentence except death, life imprisonment or a term exceeding seven years; a first-class Magistrate may not impose more than three years. | Current law | BNSS, s. 23, p. 26: <https://www.indiacode.nic.in/bitstream/123456789/20099/1/A202346.pdf> (retrieved 16 August 2026). | Verified against official PDF. | None for the proposed CJM allocation. |
+| FSS Act section 59 separately sets outcome-based penalties for unsafe food. | Current law | India Code, *The Food Safety and Standards Act, 2006*, Act 34 of 2006, s. 59, p. 31: <https://www.indiacode.nic.in/bitstream/123456789/2027/1/AFOOD.pdf> (retrieved 16 August 2026). | Verified against official PDF; local hash-pinned snapshot retained pending human source acceptance. | Keep it distinct from the BNS section 274 amendment unless Parliament expressly chooses to amend it. |
+| Parliament’s criminal-law route is principally Concurrent List Entry 1, with Articles 14, 20(1), 21 and 254 relevant to a Union penal amendment. | Legal interpretation of constitutional text | Constitution of India, Seventh Schedule, List III Entry 1; arts. 14, 20(1), 21 and 254: <https://www.indiacode.nic.in/bitstream/123456789/1362/1/coi.pdf>. | Verified as a high-level competence/rights baseline. | A final Bill must also verify current BNSS classification and any specific State-law interaction. |
+| The proposed two-year minimum and five-year maximum are draft text. | Draft text | Proposed schedule, clause 2. | Not a current-law claim. | None. |
+
+## Result
+
+**Verified with stated limitations.** The operative BNS words, BNSS First Schedule entry, court-power rationale and FSS Act section 59 interface match the official India Code PDFs. This record does not verify parliamentary filing form or make the final constitutional proportionality judgment reserved to the legislature and competent courts.

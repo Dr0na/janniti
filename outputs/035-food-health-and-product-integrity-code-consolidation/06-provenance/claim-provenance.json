@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "Matter 035 primary-source baseline ledger",
+    "jurisdiction": "India",
+    "as_of": "2026-08-16",
+    "generated_at": "2026-08-16T00:00:00+05:30"
+  },
+  "claims": [
+    {
+      "id": "C-001",
+      "text": "The Food Safety and Standards Act, 2006 is a Central Act whose long title describes consolidation of food law, FSSAI and regulation of food manufacture, storage, distribution, sale and import for safe and wholesome food for human consumption.",
+      "classification": "current_law",
+      "status": "verified_with_limitations",
+      "authorities": [{
+        "treatment": "supports",
+        "title": "Food Safety and Standards Act, 2006",
+        "authority_type": "statute",
+        "issuer": "India Code",
+        "url": "https://www.indiacode.nic.in/handle/123456789/13658?locale=en",
+        "document_date": "2006-08-23",
+        "version_or_stage": "current India Code route checked 2026-08-16",
+        "pinpoint": "long title; chapters I–VIII",
+        "retrieved_at": "2026-08-16"
+      }],
+      "subsequent_history_checked": "India Code current route checked; exact amendments/regulations remain to be verified.",
+      "limitations": "Does not establish the legality of every proposed amendment.",
+      "reviewer_action": "Verify exact section and current FSSAI regulation text before drafting the schedule."
+    },
+    {
+      "id": "C-002",
+      "text": "The Consumer Protection Act, 2019 establishes consumer-protection institutions and India Code lists recall and misleading-advertisement powers within its CCPA chapter.",
+      "classification": "current_law",
+      "status": "verified_with_limitations",
+      "authorities": [{
+        "treatment": "supports",
+        "title": "Consumer Protection Act, 2019",
+        "authority_type": "statute",
+        "issuer": "India Code",
+        "url": "https://www.indiacode.nic.in/handle/123456789/15256?locale=en",
+        "document_date": "2019-08-09",
+        "version_or_stage": "current India Code route checked 2026-08-16",
+        "pinpoint": "chapters II–IV; sections 18–24 listed in source route",
+        "retrieved_at": "2026-08-16"
+      }],
+      "subsequent_history_checked": "Exact rule/case status not yet checked.",
+      "limitations": "No proposition about scope of a new delivery regime is made.",
+      "reviewer_action": "Verify exact sections and current rules before drafting amendments."
+    }
+  ]
+}

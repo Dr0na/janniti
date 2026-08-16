@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "title": "Food, Feed and Delivery Integrity Bill Public Deliberation Plan",
+  "jurisdiction": "India",
+  "as_of": "2026-08-16",
+  "proposal": "Consolidated working Bill; not ready for introduction.",
+  "publication": {"plain_language_summary": true, "full_draft": true, "impact_notes": ["rights", "equality", "fiscal", "federalism", "privacy"], "evidence_register": true, "languages": ["English", "Hindi"], "accessible_formats": ["screen-reader HTML", "easy-read PDF", "low-data text"]},
+  "schedule": {"consultation_start": "After exact primary-source crosswalk is published", "consultation_end": "Not less than 90 days after publication", "urgent_exception": "Written urgency reasons; immediate post-action consultation and review"},
+  "participation": {"channels": ["online", "offline local hearing", "written submission", "telephone assistance"], "accessibility": ["disability access", "low-data option", "language assistance"], "affected_groups": ["consumers", "small vendors", "workers", "delivery workers", "traditional producers", "animal keepers", "scientists", "States/local bodies"], "anti_retaliation": "Confidential route and independent retaliation complaint"},
+  "integrity": {"lobbying_disclosure": "Publish material meetings, funding, conflicts and methodology", "anti_capture": "Transparent moderation, duplicate detection and representative outreach", "privacy": "Minimise and redact personal data", "automated_analysis_disclosure": true},
+  "deliberation": {"method": "Public hearings, State/local consultation and representative citizen panels", "selection_safeguard": "Transparent, inclusive, conflict-screened process", "moderation": "Independent facilitator with published rules"},
+  "response_to_comments": {"publication": "Issue-by-issue response register", "fields": ["issue", "evidence", "decision", "reason", "draft_change", "remaining_disagreement"], "deadline": "Before formal introduction decision"},
+  "remedies": {"complaint_route": "Independent complaint and court/legislative review", "reconsultation_trigger": "Material accessibility, manipulation, source or evidence failure", "public_notice": true}
+}

@@ -1,0 +1,15 @@
+Legislative lint: 7 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/01-draft/not-ready-for-introduction-bns-food-adulteration-amendment-bill.md
+L010 [High] L19: In section 274 of the Bharatiya Nyaya Sanhita, 2023, for the words “imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both”, substitute the following:—
+  Review: Penalty provision; verify clear elements, mental state, defences, and proportionality.
+L010 [High] L21: “imprisonment of either description for a term which shall not be less than two years but which may extend to five years, and shall also be liable to fine.”
+  Review: Penalty provision; verify clear elements, mental state, defences, and proportionality.
+L010 [High] L27: | Section | Offence | Punishment | Cognizable or non-cognizable | Bailable or non-bailable | By what Court triable |
+  Review: Penalty provision; verify clear elements, mental state, defences, and proportionality.
+L010 [High] L29: | 274 | Adulterating food or drink intended for sale, so as to make the same noxious. | Imprisonment for not less than 2 years but which may extend to 5 years, and fine. | Non-cognizable. | Bailable. | Chief Judicial Magistrate. |
+  Review: Penalty provision; verify clear elements, mental state, defences, and proportionality.
+L010 [High] L33: This Act applies only to an offence committed on or after the date on which this Act comes into force.
+  Review: Penalty provision; verify clear elements, mental state, defences, and proportionality.
+L010 [High] L37: The Bharatiya Nyaya Sanhita, 2023 makes it an offence to adulterate food or drink intended for sale so as to make it noxious. The present maximum sentence is six months’ imprisonment, a fine up to five thousand rupees, or both. The Bill increases the punishment for that intentional offence to imprisonment of not less than two years and up to five years, with fine.
+  Review: Penalty provision; verify clear elements, mental state, defences, and proportionality.
+L010 [High] L41: The Bill operates prospectively. It does not alter the elements of the offence, the burden of proof, the Food Safety and Standards Act, 2006, or any other applicable criminal offence.
+  Review: Penalty provision; verify clear elements, mental state, defences, and proportionality.

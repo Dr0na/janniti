@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "035",
+  "topic": "Food, feed, delivery and public-health integrity reform",
+  "as_of_date": "2026-08-16",
+  "jurisdictions": [
+    {
+      "name": "India",
+      "coverage_status": "partially_researched_primary_union_baseline",
+      "repositories_checked": [
+        "https://www.indiacode.nic.in/",
+        "https://egazette.nic.in/",
+        "https://elibrary.sansad.in/"
+      ]
+    },
+    {
+      "name": "All States and Union Territories",
+      "coverage_status": "routing_registry_checked_individual_primary_verification_pending",
+      "repositories_checked": [
+        "knowledge-base/state-ut-source-registry.json"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Act",
+      "title": "Food Safety and Standards Act, 2006",
+      "jurisdiction": "India",
+      "status": "current_india_code_route_checked",
+      "official_sources": [
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/13658?locale=en",
+          "publisher": "India Code",
+          "pinpoint": "long title; chapters I–VIII; linked rules and regulations",
+          "retrieved_at": "2026-08-16"
+        }
+      ],
+      "limitations": "Exact current section/regulation redline remains required."
+    },
+    {
+      "id": "finding-002",
+      "instrument_type": "Act",
+      "title": "Consumer Protection Act, 2019",
+      "jurisdiction": "India",
+      "status": "current_india_code_route_checked",
+      "official_sources": [
+        {
+          "url": "https://www.indiacode.nic.in/handle/123456789/15256?locale=en",
+          "publisher": "India Code",
+          "pinpoint": "chapters II–IV; CCPA and consumer-dispute structure",
+          "retrieved_at": "2026-08-16"
+        }
+      ],
+      "limitations": "Exact rule and current-case review remains required."
+    },
+    {
+      "id": "finding-003",
+      "instrument_type": "Regulations",
+      "title": "Food Safety and Standards (Packaging) First Amendment Regulations, 2025",
+      "jurisdiction": "India",
+      "status": "official_gazette_text_located_source_acceptance_pending",
+      "official_sources": [
+        {
+          "url": "https://www.fssai.gov.in/upload/uploadfiles/files/FSS_Packaging_Amendment%20Regulations2025%20related%20to%20recycled%20plastics.pdf",
+          "publisher": "Food Safety and Standards Authority of India / Gazette of India",
+          "pinpoint": "regulation 4(4)(e), substituted; 28 March 2025",
+          "retrieved_at": "2026-08-16"
+        }
+      ],
+      "limitations": "A complete chronological consolidation and source-acceptance record remains required."
+    },
+    {
+      "id": "finding-004",
+      "instrument_type": "Regulations",
+      "title": "Food Safety and Standards (Labelling and Display) First Amendment Regulations, 2025 and 2026",
+      "jurisdiction": "India",
+      "status": "official_gazette_text_located_source_acceptance_pending",
+      "official_sources": [
+        {
+          "url": "https://www.fssai.gov.in/upload/notifications/2025/08/689d8d163d422coffee%20chicory_gazette.pdf",
+          "publisher": "Food Safety and Standards Authority of India / Gazette of India",
+          "pinpoint": "Schedule II paragraph 2.2; commencement 1 July 2026",
+          "retrieved_at": "2026-08-16"
+        },
+        {
+          "url": "https://www.fssai.gov.in/upload/notifications/2026/04/69cca2b3f3ce9Notification%20dt%2024.03.2026_NRC.pdf",
+          "publisher": "Food Safety and Standards Authority of India / Gazette of India",
+          "pinpoint": "regulations 5, 8 and 10; commencement 1 July 2027",
+          "retrieved_at": "2026-08-16"
+        }
+      ],
+      "limitations": "The full 2020 regulation and every intervening amendment must be consolidated and accepted before an exact redline."
+    }
+  ],
+  "gaps": [
+    "All-State/UT primary source verification is pending.",
+    "Exact amendment/repeal and delegated-law schedule is pending.",
+    "Judicial treatment, legislative history, fiscal and competence analysis are incomplete."
+  ],
+  "next_step": "draft_and_validate_not_ready_bill"
+}

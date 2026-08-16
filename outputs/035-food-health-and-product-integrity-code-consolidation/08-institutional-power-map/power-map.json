@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "title": "Food, Feed and Delivery Integrity Bill — provisional power map",
+  "jurisdiction": "India",
+  "as_of": "2026-08-16",
+  "actors": [
+    {"id": "legislature", "name": "Parliament and applicable State legislatures", "type": "legislature"},
+    {"id": "standard_body", "name": "Independent science/standards function", "type": "standard_setter"},
+    {"id": "implementer", "name": "Food/feed implementing authority", "type": "public_authority"},
+    {"id": "lab", "name": "Conflict-screened laboratory/auditor", "type": "independent_assessor"},
+    {"id": "prosecutor", "name": "Independent referral/prosecution function", "type": "prosecutor"},
+    {"id": "court", "name": "Competent court or statutory tribunal", "type": "court"},
+    {"id": "public", "name": "Consumers, workers, vendors, keepers and public-interest bodies", "type": "public"}
+  ],
+  "relationships": [
+    {"from": "legislature", "to": "standard_body", "power": "statutory mandate and appropriated funding", "check": "published budget, conflict rules, judicial review", "public_record": true},
+    {"from": "standard_body", "to": "implementer", "power": "published standard", "check": "evidence register, public consultation, court review", "public_record": true},
+    {"from": "implementer", "to": "lab", "power": "pre-set/random case allocation", "check": "conflict screening and audit", "public_record": true},
+    {"from": "implementer", "to": "prosecutor", "power": "evidence-based referral only", "check": "independent screening and written reasons", "public_record": true},
+    {"from": "prosecutor", "to": "court", "power": "lawful prosecution/application", "check": "independent adjudication, appeal", "public_record": true},
+    {"from": "court", "to": "implementer", "power": "judicial review and remedy", "check": "reasoned judgment and appeal", "public_record": true},
+    {"from": "public", "to": "implementer", "power": "complaint, protected report and review request", "check": "anti-retaliation, reasons and court access", "public_record": true}
+  ]
+}

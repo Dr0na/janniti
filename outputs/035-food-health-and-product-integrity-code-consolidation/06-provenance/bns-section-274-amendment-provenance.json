@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "BNS section 274 minimum-sentence amendment provenance ledger",
+    "jurisdiction": "India",
+    "as_of": "2026-08-16",
+    "generated_at": "2026-08-16T14:54:00+05:30"
+  },
+  "claims": [
+    {
+      "id": "BNS-274-001",
+      "text": "BNS section 274 presently makes intentional adulteration of food or drink that renders it noxious, where it is intended or known likely to be sold, punishable by imprisonment up to six months, fine up to five thousand rupees, or both.",
+      "classification": "current_law",
+      "status": "verified_with_limitations",
+      "authorities": [{
+        "treatment": "supports",
+        "title": "The Bharatiya Nyaya Sanhita, 2023",
+        "authority_type": "statute",
+        "issuer": "India Code, Legislative Department",
+        "url": "https://www.indiacode.nic.in/bitstream/123456789/20062/1/a202345.pdf",
+        "document_date": "2023-12-25",
+        "version_or_stage": "official India Code PDF retrieved 2026-08-16",
+        "pinpoint": "section 274, p. 94",
+        "retrieved_at": "2026-08-16"
+      }],
+      "subsequent_history_checked": "Official India Code PDF route checked on 2026-08-16; the local source snapshot is pending designated human acceptance.",
+      "limitations": "This record does not establish the current BNSS classification or all interactions with special food-safety law.",
+      "reviewer_action": "Verify procedure and special-law interaction before a formal Bill is introduced."
+    },
+    {
+      "id": "BNS-274-002",
+      "text": "The proposed amendment substitutes a two-year minimum and five-year maximum custodial range plus fine in BNS section 274.",
+      "classification": "draft_text",
+      "status": "draft",
+      "authorities": [],
+      "subsequent_history_checked": "Not applicable; this is proposed text.",
+      "limitations": "Not enacted or formally introduced.",
+      "reviewer_action": "Subject the proposal to proportionality, procedure and parliamentary-format review."
+    },
+    {
+      "id": "BNSS-274-003",
+      "text": "The BNSS First Schedule presently classifies BNS section 274 as non-cognizable and bailable, triable by any Magistrate.",
+      "classification": "current_law",
+      "status": "verified_with_limitations",
+      "authorities": [{
+        "treatment": "supports",
+        "title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "authority_type": "statute",
+        "issuer": "India Code, Legislative Department",
+        "url": "https://www.indiacode.nic.in/bitstream/123456789/20099/1/A202346.pdf",
+        "document_date": "2023-12-25",
+        "version_or_stage": "official India Code PDF retrieved 2026-08-16",
+        "pinpoint": "First Schedule, section 274 entry, p. 206; section 23, p. 26",
+        "retrieved_at": "2026-08-16"
+      }],
+      "subsequent_history_checked": "Official India Code PDF route checked on 2026-08-16; the local source snapshot is pending designated human acceptance.",
+      "limitations": "Does not decide the legislature’s eventual classification policy.",
+      "reviewer_action": "Verify current text at the point of formal introduction."
+    },
+    {
+      "id": "FSS-59-004",
+      "text": "FSS Act section 59 contains a separate outcome-based unsafe-food penalty ladder.",
+      "classification": "current_law",
+      "status": "verified_with_limitations",
+      "authorities": [{
+        "treatment": "supports",
+        "title": "The Food Safety and Standards Act, 2006",
+        "authority_type": "statute",
+        "issuer": "India Code, Legislative Department",
+        "url": "https://www.indiacode.nic.in/bitstream/123456789/2027/1/AFOOD.pdf",
+        "document_date": "2006-08-23",
+        "version_or_stage": "official India Code PDF retrieved 2026-08-16",
+        "pinpoint": "sections 41–47, pp. 27–29; section 59, p. 31",
+        "retrieved_at": "2026-08-16"
+      }],
+      "subsequent_history_checked": "Official India Code PDF route checked on 2026-08-16; the local source snapshot is pending designated human acceptance.",
+      "limitations": "Does not itself resolve charging or sentencing overlap with BNS section 274.",
+      "reviewer_action": "Obtain qualified counsel review before formal introduction."
+    }
+  ]
+}

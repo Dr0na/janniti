@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "title": "BNS section 274 minimum-sentence amendment power map",
+  "jurisdiction": "India",
+  "as_of": "2026-08-16",
+  "actors": [
+    {"id": "parliament", "name": "Parliament", "type": "legislature"},
+    {"id": "investigator", "name": "Food-safety or police investigator", "type": "public_authority"},
+    {"id": "prosecutor", "name": "Prosecutor", "type": "public_authority"},
+    {"id": "court", "name": "Competent court", "type": "court"},
+    {"id": "public", "name": "Public and press", "type": "civil_society"}
+  ],
+  "relationships": [
+    {"from": "parliament", "to": "court", "power": "sets_statutory_penalty_range", "check": "constitutional review, public debate and legislative accountability", "public_record": true},
+    {"from": "investigator", "to": "prosecutor", "power": "evidence_referral", "check": "lawful procedure, independent testing, disclosure and prosecutorial assessment", "public_record": true},
+    {"from": "prosecutor", "to": "court", "power": "prosecution", "check": "burden of proof, defence challenge, reasons and appeal", "public_record": true},
+    {"from": "court", "to": "investigator", "power": "judicial_scrutiny", "check": "reasoned decisions and appellate review", "public_record": true},
+    {"from": "public", "to": "parliament", "power": "democratic_accountability", "check": "free expression, access to information and elections", "public_record": true}
+  ]
+}

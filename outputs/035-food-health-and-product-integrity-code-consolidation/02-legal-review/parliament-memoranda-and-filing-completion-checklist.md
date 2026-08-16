@@ -1,0 +1,5 @@
+# Parliament Memoranda and Filing Completion Checklist
+
+The Union core Bill needs: a verified title and legislative competence statement; exact amendment/repeal schedules; Statement of Objects and Reasons; Financial Memorandum covering laboratories, transition support, public systems and any fund; Memorandum Regarding Delegated Legislation with bounded rule powers; a determination of Article 117/other recommendation requirements; Hindi/English authenticated texts; sponsor/House route; and Secretariat-form review. None may be inferred. Every formal item must be verified against current official Parliament guidance after the Union core has been separated from State/UT/local and feed instruments.
+
+Readiness gate: all Gazette snapshots accepted; all amendment schedules exact; all lint Critical/High findings resolved; competence, fiscal, equality, privacy, criminal-law and institutional-power reviews passed; no placeholders; and the clean instrument validated and registered only after it passes.
