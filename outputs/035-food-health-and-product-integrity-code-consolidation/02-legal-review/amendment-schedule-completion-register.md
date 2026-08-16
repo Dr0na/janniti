@@ -1,5 +1,9 @@
 # Amendment Schedule Completion Register
 
+## 16 August 2026 update
+
+The package assembly and route allocation are completed in `integrated-food-integrity-legislative-package.md`. The exact BNS/BNSS amendment is complete as a standalone Bill. The remaining schedules are complete at the legislative-design level but cannot honestly be represented as exact current-text redlines until their official regulations, Rules, State/UT instruments and delegated-law versions have each passed the repository’s source-acceptance gate.
+
 | Package | Working-Bill clauses | Draft schedule | Status |
 |---|---:|---|---|
 | FSS plastic prohibition and recycled-PET repeal | 80 | `side-by-side-fss-plastic-amendment-schedule.md` | Gazette snapshot obtained; source acceptance pending. |

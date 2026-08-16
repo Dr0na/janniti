@@ -1,0 +1,13 @@
+Legislative lint: 6 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/02-legal-review/dpdp-food-delivery-privacy-schedule.md
+L001 [High] L11: For clauses 19, 23, 32, 54 and 104–106, the eventual food-delivery rule shall provide that a platform, food business, laboratory, regulator or service provider may process kitchen video, order, location, worker, complaint or whistleblower data only where it is necessary for a stated safety, recall, delivery, payment, refund, legal-compliance or dispute purpose and subject to the following conditions:—
+  Review: Subjective threshold; define objective facts and evidence.
+L001 [High] L13: 1. Collect no more data than necessary for the stated purpose; do not collect continuous audio, private-area video, biometric data or precise location where a less intrusive record suffices.
+  Review: Subjective threshold; define objective facts and evidence.
+L005 [Medium] L15: 2. Give an accessible, plain-language notice identifying the data fiduciary or responsible entity, purpose, categories, recipients, retention period, complaint route and material safety exception.
+  Review: Exception may be overbroad; narrow scope, duration, and oversight.
+L015 [High] L19: 4. Do not use safety data for political retaliation, discrimination, labour surveillance, commercial profiling, unrelated policing, behavioural advertising, ranking manipulation or a purpose incompatible with the disclosed lawful purpose.
+  Review: Privacy/secrecy risk; add necessity, minimisation, authorisation, and audit.
+L001 [High] L21: 5. A public kitchen-view facility, if required by a valid food-safety instrument, must exclude changing, rest, payment, private storage and other non-preparation areas; mask personal identifiers; operate without audio unless independently justified; provide a non-video accessibility alternative; and preserve no footage longer than necessary for a documented safety incident or complaint.
+  Review: Subjective threshold; define objective facts and evidence.
+L013 [Medium] L23: 6. Provide a low-cost accessible grievance route, human review of a material automated decision, correction of inaccurate data, an independent audit, regulatory complaint and court remedy. A safety complaint or correction request must not be used to retaliate against a customer, worker, vendor, journalist or whistleblower.
+  Review: Indirect-evasion risk; apply safeguards to delegates and technology.
