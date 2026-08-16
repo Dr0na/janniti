@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "title": "Clean Air, Water Bodies, Environmental Accountability and Single-Use Plastic Prohibition Bill — institutional power map",
+  "jurisdiction": "India",
+  "as_of": "2026-08-09",
+  "actors": [
+    {"id": "parliament", "name": "Parliament", "type": "legislature"},
+    {"id": "central", "name": "Central Government", "type": "executive"},
+    {"id": "state", "name": "State/UT Government", "type": "executive"},
+    {"id": "board", "name": "Pollution-control authority", "type": "regulator"},
+    {"id": "local", "name": "Local authority", "type": "public_authority"},
+    {"id": "lab", "name": "Accredited laboratory", "type": "technical_body"},
+    {"id": "auditor", "name": "Independent auditor / CAG route", "type": "auditor"},
+    {"id": "court", "name": "Court or statutory reviewing forum", "type": "court"},
+    {"id": "public", "name": "Affected person, community or complainant", "type": "public"}
+  ],
+  "relationships": [
+    {"from": "parliament", "to": "central", "power": "rulemaking", "check": "express statutory limits, draft publication, laying and judicial review", "public_record": true},
+    {"from": "central", "to": "state", "power": "guidance", "check": "general written technical guidance only; no case-specific direction", "public_record": true},
+    {"from": "state", "to": "local", "power": "funding", "check": "published implementation plan, audit and judicial remedy", "public_record": true},
+    {"from": "board", "to": "public", "power": "investigation", "check": "objective criteria, written authority, evidence disclosure and review", "public_record": true},
+    {"from": "lab", "to": "board", "power": "information", "check": "accreditation, split sample, conflict disclosure and retesting", "public_record": true},
+    {"from": "auditor", "to": "central", "power": "audit", "check": "published report to legislature", "public_record": true},
+    {"from": "auditor", "to": "state", "power": "audit", "check": "published report to legislature", "public_record": true},
+    {"from": "court", "to": "board", "power": "judicial_review", "check": "reasoned decision, appeal and constitutional remedies", "public_record": true},
+    {"from": "court", "to": "central", "power": "judicial_review", "check": "reasoned decision and constitutional remedies", "public_record": true},
+    {"from": "court", "to": "state", "power": "judicial_review", "check": "reasoned decision and constitutional remedies", "public_record": true}
+  ]
+}

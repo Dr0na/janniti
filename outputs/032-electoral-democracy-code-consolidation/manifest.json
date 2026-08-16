@@ -1,0 +1,29 @@
+{
+  "matter_id": "032",
+  "title": "Electoral democracy code consolidation",
+  "status": "internal_architecture_complete_pending_external_review",
+  "created_at": "2026-08-11T12:54:32+00:00",
+  "jurisdiction": "India (Union and State/UT implementation interfaces)",
+  "as_of_date": "2026-08-11",
+  "source_or_instruction": "User request to proceed with the bill consolidation and completeness plan.",
+  "related_matters": ["002", "003", "023", "031"],
+  "legacy_source_location": null,
+  "notes": "Internal consolidation architecture and clause-to-primary-source locations are verified. Original drafts are preserved. Exact textual amendment/redline checks, public consultation, and qualified independent review remain mandatory before introduction.",
+  "artifacts": [
+    "00-research-and-scope/paper-ballot-exact-redline-and-rule-matrix.md",
+    "01-draft/not-ready-electoral-democracy-code-bill.md",
+    "01-draft/not-ready-final-side-by-side-amendment-schedule.md",
+    "02-legal-review/effectiveness-against-partisan-capture-review.md",
+    "02-legal-review/appointment-reform-filing-record.md",
+    "03-validation/anti-misuse-safeguards-validation.md",
+    "03-validation/paper-ballot-transition-validation.md",
+    "03-validation/paper-ballot-operations-and-fiscal-plan.md",
+    "03-validation/electoral-complaint-registry-specification.md",
+    "05-citation-verification/provisional-bill-primary-source-crosswalk.md",
+    "06-provenance/electoral-consolidation-provenance-ledger.json",
+    "09-democratic-impact-monitor/paper-ballot-democratic-impact-monitor.json",
+    "10-public-deliberation/paper-ballot-consultation-and-independent-review-kit.md",
+    "11-public-legal-accessibility/paper-ballot-public-access-guide.md",
+    "14-legal-change-monitoring/source-authentication-register.md"
+  ]
+}

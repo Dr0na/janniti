@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "033",
+  "topic": "Police governance and accountability package consolidation",
+  "as_of_date": "2026-08-11",
+  "jurisdictions": [
+    {"name": "India", "coverage_status": "researched", "repositories_checked": ["https://www.indiacode.nic.in/", "https://api.sci.gov.in/"]},
+    {"name": "28 States and 8 Union Territories", "coverage_status": "directory_loaded_substantive_law_not_yet_verified", "repositories_checked": ["knowledge-base/state-ut-source-registry.json"]}
+  ],
+  "findings": [
+    {
+      "id": "finding-001",
+      "instrument_type": "Constitution",
+      "title": "Constitution of India: police, public order and criminal procedure competence baseline",
+      "jurisdiction": "India",
+      "status": "current_text_retrieved_pending_source_acceptance",
+      "official_sources": [{"url": "https://upload.indiacode.nic.in/showfile?actid=AC_DH_62_1008_00005_00005_1561028196113&filename=the_constitution_of_india.pdf&type=actfile", "publisher": "Legislative Department / India Code", "pinpoint": "Articles 245–254; Seventh Schedule Lists II–III", "retrieved_at": "2026-08-11"}],
+      "limitations": "Exact version metadata and application to each proposed route remain to be checked before formal drafting."
+    },
+    {
+      "id": "finding-002",
+      "instrument_type": "Act",
+      "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "jurisdiction": "India",
+      "status": "current_record_retrieved_pending_source_acceptance",
+      "official_sources": [{"url": "https://www.indiacode.nic.in/handle/123456789/21419?locale=en", "publisher": "India Code", "pinpoint": "Sections 35, 46–62", "retrieved_at": "2026-08-11"}],
+      "limitations": "Current consolidated text, rules and consequential amendment targets need verification before drafting a redline."
+    },
+    {
+      "id": "finding-003",
+      "instrument_type": "Court order",
+      "title": "Prakash Singh v. Union of India compliance order",
+      "jurisdiction": "India",
+      "status": "official_order_retrieved",
+      "official_sources": [{"url": "https://api.sci.gov.in/supremecourt/1996/79972/79972_1996_Order_16-Jan-2019.pdf", "publisher": "Supreme Court of India", "pinpoint": "pp. 5–6", "retrieved_at": "2026-08-11"}],
+      "limitations": "The original 2006 judgment and later compliance proceedings need direct verification."
+    }
+  ],
+  "gaps": [
+    "Retrieve and log controlling police enactments, rules, Gazettes and case law for every State and Union Territory before State-specific drafting.",
+    "Retrieve accepted current official texts and Gazette history for every proposed Union/Concurrent amendment.",
+    "Obtain fiscal, staffing, technology and accessibility evidence before prescribing operational standards."
+  ],
+  "next_step": "draft"
+}

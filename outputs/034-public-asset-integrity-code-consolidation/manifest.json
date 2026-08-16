@@ -1,0 +1,12 @@
+{
+  "matter_id": "034",
+  "title": "Public Asset Integrity Code Consolidation",
+  "status": "in_progress",
+  "created_at": "2026-08-16T05:08:00+00:00",
+  "jurisdiction": "India; Union public procurement, public assets and competition interfaces",
+  "as_of_date": "2026-08-16",
+  "source_or_instruction": "User instruction: go ahead with the next consolidation package.",
+  "related_matters": ["005", "024", "028", "031"],
+  "legacy_source_location": "outputs/005-*, outputs/024-*, outputs/028-*",
+  "notes": "In progress. Existing drafts are preserved; this matter will eliminate duplicate investigative, procurement, audit and recovery powers."
+}

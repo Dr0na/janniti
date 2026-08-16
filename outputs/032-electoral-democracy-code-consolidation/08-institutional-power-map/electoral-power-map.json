@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "title": "Proposed Electoral Democracy Code — safeguarded power map",
+  "jurisdiction": "India",
+  "as_of": "2026-08-11",
+  "actors": [
+    {"id":"parliament","name":"Parliament","type":"legislature"},
+    {"id":"search_panel","name":"Independent Search Panel","type":"appointment_body"},
+    {"id":"selection_panel","name":"CEC/EC Selection Committee","type":"appointment_body"},
+    {"id":"eci","name":"Election Commission of India","type":"constitutional_body"},
+    {"id":"counting_officer","name":"Paper-ballot polling and counting officer","type":"official"},
+    {"id":"roll_officer","name":"Electoral Registration Officer","type":"official"},
+    {"id":"independent_reviewer","name":"Independent roll-review authority","type":"tribunal"},
+    {"id":"investigator","name":"Independent electoral-investigation unit","type":"agency"},
+    {"id":"prosecutor","name":"Independent prosecutor","type":"prosecutor"},
+    {"id":"court","name":"Constitutional and election courts","type":"court"},
+    {"id":"public","name":"Voters, parties, candidates and civil society","type":"public"},
+    {"id":"auditor","name":"Independent public auditor","type":"auditor"}
+  ],
+  "relationships": [
+    {"from":"parliament","to":"search_panel","power":"statutory_framework","check":"constitutional review and public record","public_record":true},
+    {"from":"search_panel","to":"selection_panel","power":"shortlist","check":"public call, published criteria, conflict screening, recorded reasons and court-controlled confidentiality only","public_record":true},
+    {"from":"selection_panel","to":"eci","power":"appointment","check":"five-member plural membership, two non-executive votes, advance disclosure, recorded reasons and expedited judicial process review","public_record":true},
+    {"from":"parliament","to":"eci","power":"funding","check":"charged/examined appropriation and public audit","public_record":true},
+    {"from":"eci","to":"roll_officer","power":"direction","check":"written published standards, reasons and appeal","public_record":true},
+    {"from":"eci","to":"counting_officer","power":"direction","check":"published paper-ballot custody, reconciliation, accessibility, recount and audit standards","public_record":true},
+    {"from":"counting_officer","to":"public","power":"ballot_count_and_result","check":"equal candidate-agent observation, ballot reconciliation, written reasons, preserved records and judicial remedy","public_record":true},
+    {"from":"roll_officer","to":"public","power":"roll_decision","check":"notice, hearing, accessible records and independent appeal","public_record":true},
+    {"from":"independent_reviewer","to":"roll_officer","power":"review","check":"reasoned decision and judicial review","public_record":true},
+    {"from":"eci","to":"investigator","power":"referral","check":"objective threshold, referral log and prosecutor independence","public_record":true},
+    {"from":"investigator","to":"prosecutor","power":"evidence_referral","check":"disclosure, defence access and court supervision","public_record":true},
+    {"from":"prosecutor","to":"court","power":"prosecution","check":"independent adjudication and appeal","public_record":true},
+    {"from":"court","to":"eci","power":"judicial_review","check":"reasoned public judgment and appeal","public_record":true},
+    {"from":"court","to":"selection_panel","power":"judicial_review","check":"legality, procedure, equality, reasons and proportionality; no substitution of candidate preference","public_record":true},
+    {"from":"auditor","to":"eci","power":"audit","check":"published report and legislative/public response","public_record":true},
+    {"from":"public","to":"search_panel","power":"information_and_comment","check":"public nomination and comment process, conflict record and reasons","public_record":true},
+    {"from":"public","to":"eci","power":"information_request_and_complaint","check":"time-stamped public register, accessible procedure, anti-retaliation and review","public_record":true},
+    {"from":"public","to":"independent_reviewer","power":"review_application","check":"seven-working-day reasoned interim decision and judicial remedy","public_record":true}
+  ]
+}

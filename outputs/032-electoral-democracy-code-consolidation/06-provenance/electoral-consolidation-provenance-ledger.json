@@ -1,0 +1,177 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "title": "Electoral Democracy Code consolidation — primary-source provenance ledger",
+    "jurisdiction": "India",
+    "as_of": "2026-08-11",
+    "generated_at": "2026-08-11T00:00:00+05:30"
+  },
+  "claims": [
+    {
+      "id": "C-001",
+      "text": "The Representation of the People Act, 1950 contains the electoral-roll administration and appeal anchors relevant to provisional Bill clause 4, including sections 13B–13D and 21–24.",
+      "classification": "current_law",
+      "status": "verified_at_source_location",
+      "authorities": [{
+        "treatment": "supports",
+        "title": "Representation of the People Act, 1950",
+        "authority_type": "statute",
+        "issuer": "Legislative Department, Government of India",
+        "url": "https://www.indiacode.nic.in/handle/123456789/1663?locale=en",
+        "document_date": "1950-05-12",
+        "version_or_stage": "current India Code record; text-level amendment check pending",
+        "pinpoint": "sections 13B–13D and 21–24; related sections 31–32",
+        "retrieved_at": "2026-08-11"
+      }],
+      "subsequent_history_checked": "Source-location check only; later amendments and subordinate-rule changes require a text and Gazette check before introduction.",
+      "limitations": "Does not verify the exact wording or a final amendment/redline to the Act or the Registration of Electors Rules, 1960.",
+      "reviewer_action": "Compare every proposed amendment against the controlling English text and the current Rules; record the Gazette history."
+    },
+    {
+      "id": "C-002",
+      "text": "The Representation of the People Act, 1951 contains the party-registration, contribution, declaration, voting/counting and enforcement anchors relevant to provisional Bill clauses 5–8.",
+      "classification": "current_law",
+      "status": "verified_at_source_location",
+      "authorities": [{
+        "treatment": "supports",
+        "title": "Representation of the People Act, 1951",
+        "authority_type": "statute",
+        "issuer": "Legislative Department, Government of India",
+        "url": "https://www.indiacode.nic.in/handle/123456789/2096",
+        "document_date": "1951-05-12",
+        "version_or_stage": "current India Code record; text-level amendment check pending",
+        "pinpoint": "section 29A–29C; sections 61A and 64; Parts VII–VIII",
+        "retrieved_at": "2026-08-11"
+      }],
+      "subsequent_history_checked": "Source-location check only; exact statutory text, Rules and later judicial history remain to be checked.",
+      "limitations": "Does not identify a final amendment form or all consequential amendments, including the Conduct of Elections Rules, 1961.",
+      "reviewer_action": "Prepare an exact provision-by-provision redline after checking controlling statutory and rule text."
+    },
+    {
+      "id": "C-003",
+      "text": "The constitutional and Supreme Court anchors relevant to provisional Bill clause 9 include Articles 102 and 191, the Tenth Schedule, and Keisham Meghachandra Singh.",
+      "classification": "current_law",
+      "status": "verified_at_source_location",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Constitution of India",
+          "authority_type": "constitution",
+          "issuer": "Legislative Department, Government of India",
+          "url": "https://www.indiacode.nic.in/handle/123456789/10232?locale=en",
+          "document_date": "1950-01-26",
+          "version_or_stage": "current India Code record; article and Schedule text check pending",
+          "pinpoint": "Articles 102 and 191; Tenth Schedule, paragraphs 2, 4 and 6",
+          "retrieved_at": "2026-08-11"
+        },
+        {
+          "treatment": "supports",
+          "title": "Keisham Meghachandra Singh v. Hon'ble Speaker, Manipur Legislative Assembly",
+          "authority_type": "Supreme Court judgment",
+          "issuer": "Supreme Court of India",
+          "url": "https://api.sci.gov.in/supremecourt/2019/27562/27562_2019_4_1501_19772_Judgement_21-Jan-2020.pdf",
+          "document_date": "2020-01-21",
+          "version_or_stage": "official judgment PDF; holding and subsequent-history analysis pending",
+          "pinpoint": "judgment dated 21 January 2020",
+          "retrieved_at": "2026-08-11"
+        }
+      ],
+      "subsequent_history_checked": "Not completed; full precedent and constitutional-amendment analysis is required before a Schedule amendment is proposed.",
+      "limitations": "Source location does not itself establish the scope of a permissible constitutional amendment.",
+      "reviewer_action": "Complete Article 368, basic-structure, precedent and parliamentary-procedure analysis."
+    },
+    {
+      "id": "C-004",
+      "text": "Article 324 of the Constitution and the Chief Election Commissioner and Other Election Commissioners Act, 2023 are the primary anchors relevant to provisional Bill clause 10.",
+      "classification": "current_law",
+      "status": "verified_at_source_location",
+      "authorities": [
+        {
+          "treatment": "supports",
+          "title": "Constitution of India",
+          "authority_type": "constitution",
+          "issuer": "Legislative Department, Government of India",
+          "url": "https://www.indiacode.nic.in/handle/123456789/10232?locale=en",
+          "document_date": "1950-01-26",
+          "version_or_stage": "current India Code record; current text check pending",
+          "pinpoint": "Article 324",
+          "retrieved_at": "2026-08-11"
+        },
+        {
+          "treatment": "supports",
+          "title": "Chief Election Commissioner and Other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023",
+          "authority_type": "statute",
+          "issuer": "Legislative Department, Government of India",
+          "url": "https://www.indiacode.nic.in/handle/123456789/19721?view_type=browse",
+          "document_date": "2023-12-28",
+          "version_or_stage": "Act 49 of 2023; current text and litigation check pending",
+          "pinpoint": "sections 3–18",
+          "retrieved_at": "2026-08-11"
+        }
+      ],
+      "subsequent_history_checked": "Not completed; current litigation, amendments and relevant decisions must be checked before final drafting.",
+      "limitations": "Does not establish that any particular institutional-design option is constitutionally valid.",
+      "reviewer_action": "Verify the exact selection, service and removal provisions and any later binding decision."
+    },
+    {
+      "id": "C-005",
+      "text": "The provisional Bill is draft text and is not represented as enacted law or introduction-ready legislation.",
+      "classification": "draft_text",
+      "status": "verified",
+      "authorities": [],
+      "subsequent_history_checked": "Not applicable.",
+      "limitations": "Its content remains subject to exact textual cross-checking, public consultation and independent qualified legal review.",
+      "reviewer_action": "Do not introduce, publish as final, or register as introduction-ready until all named gates pass."
+    },
+    {
+      "id": "C-006",
+      "text": "The revised provisional Bill contains draft anti-misuse safeguards for selective escalation, case allocation, conflicts, retaliation, electoral-data misuse, indirect evasion and funding-based political retaliation.",
+      "classification": "draft_text",
+      "status": "verified",
+      "authorities": [],
+      "subsequent_history_checked": "Not applicable; this is a description of the current draft version.",
+      "limitations": "The safeguards are proposed text, not current law. Their legal route, exact cross-references and practical effectiveness require further review.",
+      "reviewer_action": "Apply the validation record, constitutional stress test, public consultation and independent qualified legal review before considering introduction."
+    },
+    {
+      "id": "C-007",
+      "text": "The 2024 Supreme Court order in Dr. Jaya Thakur records an interim challenge to section 7(1) of the 2023 Act, the then Selection Committee composition stated by the Union, procedural concerns about candidate information, and the refusal of interim stay without a final merits determination.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [{
+        "treatment": "supports",
+        "title": "Dr. Jaya Thakur and Others v. Union of India and Another, 2024 INSC 246",
+        "authority_type": "Supreme Court order",
+        "issuer": "Supreme Court of India",
+        "url": "https://api.sci.gov.in/supremecourt/2024/146/146_2024_2_1501_51762_Judgement_22-Mar-2024.pdf",
+        "document_date": "2024-03-22",
+        "version_or_stage": "reportable interim order; current final case status not verified in this record",
+        "pinpoint": "paragraphs 2–4 and 9–16",
+        "retrieved_at": "2026-08-11"
+      }],
+      "subsequent_history_checked": "Not completed; do not characterise the order as a final merits decision or infer the current docket outcome.",
+      "limitations": "The order records submissions and an interim ruling. It does not prove partisan capture or decide the constitutionality of section 7(1) on the merits.",
+      "reviewer_action": "Obtain current Supreme Court case-status and any final merits judgment before finalising an appointment-reform Bill."
+    },
+    {
+      "id": "C-008",
+      "text": "The 2024 Supreme Court EVM/VVPAT judgment is relevant to any proposal to repeal section 61A of the Representation of the People Act, 1951 and move to paper ballots; it does not establish the user's allegation of recent EVM manipulation.",
+      "classification": "case_holding",
+      "status": "verified",
+      "authorities": [{
+        "treatment": "supports",
+        "title": "Association for Democratic Reforms v. Election Commission of India, 2024 INSC 341",
+        "authority_type": "Supreme Court judgment",
+        "issuer": "Supreme Court of India",
+        "url": "https://api.sci.gov.in/supremecourt/2023/10857/10857_2023_2_1501_52646_Judgement_26-Apr-2024.pdf",
+        "document_date": "2024-04-26",
+        "version_or_stage": "reported judgment; later procedural history requires a current check",
+        "pinpoint": "pp. 4–7, 20–26 and 35–38",
+        "retrieved_at": "2026-08-11"
+      }],
+      "subsequent_history_checked": "A 2025 official case record identifies the 2024 case as disposed and records later verification-related petitions; a full current-docket check remains required.",
+      "limitations": "The judgment evaluates the record before the Court. It is not a general technical certification and does not resolve every allegation or future vulnerability.",
+      "reviewer_action": "Before introduction, obtain independent technical, operational, disability-access, fiscal and State/UT capacity evidence for the paper-ballot transition."
+    }
+  ]
+}

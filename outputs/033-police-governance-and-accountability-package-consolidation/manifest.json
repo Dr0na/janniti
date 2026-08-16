@@ -1,0 +1,12 @@
+{
+  "matter_id": "033",
+  "title": "Police Governance and Accountability Package Consolidation",
+  "status": "in_progress",
+  "created_at": "2026-08-11T17:29:34+00:00",
+  "jurisdiction": "India; State and Union Territory policing, with Union criminal-procedure interfaces",
+  "as_of_date": "2026-08-11",
+  "source_or_instruction": "User request: proceed with next. Consolidate the next priority package identified in Matter 031 without deleting the original source matters.",
+  "related_matters": ["016", "017", "018", "019", "020", "021", "031"],
+  "legacy_source_location": "outputs/016-* through outputs/021-*",
+  "notes": "In progress. This matter preserves source drafts and develops a competence-aware, non-overlapping package; it is not an introduction-readiness finding."
+}

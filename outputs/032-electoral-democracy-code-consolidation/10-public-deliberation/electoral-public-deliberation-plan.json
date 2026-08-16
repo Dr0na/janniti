@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "title": "Electoral Democracy Code consultation plan",
+  "jurisdiction": "India",
+  "as_of": "2026-08-11",
+  "proposal": "Pre-draft electoral consolidation covering election administration, political finance, voter-roll safeguards and party governance.",
+  "publication": {"plain_language_summary": true, "full_draft": true, "impact_notes": ["rights", "equality", "fiscal", "federalism"], "evidence_register": true, "languages": ["English", "Hindi", "relevant State/UT languages"], "accessible_formats": ["screen-reader HTML", "easy-read", "captioned video", "sign-language sessions"]},
+  "schedule": {"consultation_start": "After public pre-draft package is published", "consultation_end": "Not fewer than 90 days after publication", "urgent_exception": "No urgency exception for electoral-system redesign; material change triggers re-consultation."},
+  "participation": {"channels": ["online submissions", "offline district submissions", "public hearings", "telephone assistance", "representative citizen panels"], "accessibility": ["low-data option", "disability access", "language assistance", "non-digital support"], "affected_groups": ["voters", "parties", "ECI staff", "persons with disabilities", "marginalised groups", "journalists", "civil society"], "anti_retaliation": "Protected route for retaliation concerns; no disclosure of identity without lawful necessity and independent review."},
+  "integrity": {"lobbying_disclosure": "Publish material meetings, funding and conflicts.", "anti_capture": "Publish moderation rules; detect duplicates and coordinated manipulation without excluding dissent; use representative outreach.", "privacy": "Minimise and redact personal data; publish reasoned summaries where needed.", "automated_analysis_disclosure": true},
+  "deliberation": {"method": "Public hearings and representative citizen panels", "selection_safeguard": "Transparent, inclusive, conflict-screened selection", "moderation": "Independent facilitators with published rules"},
+  "response_to_comments": {"publication": "Issue-by-issue response register", "fields": ["issue", "evidence", "decision", "reason", "draft change", "remaining disagreement"], "deadline": "Before final drafting decision"},
+  "remedies": {"complaint_route": "Accessible independent complaint route and judicial/legislative review", "reconsultation_trigger": "Material accessibility, manipulation, evidence, or draft-scope change", "public_notice": true}
+}

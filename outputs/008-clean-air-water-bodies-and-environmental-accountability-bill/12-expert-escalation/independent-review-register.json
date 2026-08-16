@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "030",
+  "review_type": "constitutional",
+  "reviewers": [{"id": "reviewer-001", "role": "Independent-review panel to be appointed through published conflict-screened criteria", "selection_basis": "The attached brief requires plural independent public-law, hydrogeology, waste/public-health, equality/accessibility, community, criminal-justice and audit perspectives.", "conflicts_declared": [], "conflict_disposition": "No individual reviewer appointed; no clearance claimed.", "independence_status": "eligible", "review_date": "2026-08-09"}],
+  "issues": [
+    {"id": "issue-001", "severity": "Critical", "issue": "Exact constitutional competence and State/UT interaction are not yet verified.", "response": "Keep the instrument not ready; obtain a primary-source competence and savings opinion.", "status": "open"},
+    {"id": "issue-002", "severity": "Critical", "issue": "The product schedule and technical alternatives are incomplete.", "response": "Complete only after independently reviewed evidence, consultation and transition planning.", "status": "open"}
+  ],
+  "publication_status": "publishable_with_redactions",
+  "limitations": ["This registry records a proposed review process, not external review or approval."]
+}

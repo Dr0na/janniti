@@ -1,0 +1,18 @@
+# Citation Verification Report — Preliminary
+
+| Claim | Classification | Source and pinpoint | Status | Required correction |
+|---|---|---|---|---|
+| Water Act exists and contains relevant pollution/consent/remedy provisions. | Current law | India Code Water Act, Act details and sections 21–33B, 41–49. | Verified with limitations. | Open current consolidated text and amendments before exact cross-references. |
+| EP Act supplies environmental powers and related enforcement structure. | Current law | India Code EP Act, sections 3–26. | Verified with limitations. | Verify current penalty and delegated-law amendments. |
+| Air Act supplies current air-pollution definitions and regulatory structure. | Current law | India Code Air Act, Act page and section 2. | Verified with limitations. | Verify current standards, consent provisions, amendments and State/UT application before fixing operative air or climate controls. |
+| Existing plastic rules prohibit identified rather than necessarily all single-use products. | Current law | MoEFCC Rules listing; official September 2021 record pp. 1–2. | Verified with limitations. | Retrieve current Gazette consolidation and Schedule. |
+| Article 21 creates an enforceable clean-water right for all living beings. | Legal interpretation | No verified authority in this matter supports this broad formulation. | Not safe to rely on. | The draft correctly treats this as an ecological policy objective, not a settled legal claim. |
+| A Union Bill can comprehensively displace State/local law. | Legal interpretation | No completed competence analysis. | Not safe to rely on. | Obtain exact constitutional-entry, Article 254 and State/UT mapping. |
+| A legislature member may be criminally punished solely for a good-faith legislative speech or vote. | Current law / legal interpretation | Constitution, Articles 105 and 194. | Not safe to rely on. | The Bill correctly excludes speech/voting alone while preserving liability for independently proven off-process conduct. |
+| The Bill may itself remove or disqualify an elected representative after conviction. | Legal interpretation | Constitution, Articles 102–103 and 191–192; Representation of the People Act, 1951, sections 8–11. | Not safe to rely on. | The Bill now transmits a final conviction to the competent authority, which must apply the existing constitutional/statutory process. |
+| A new environmental offence can bypass anti-corruption procedure where the facts also disclose corruption. | Legal interpretation | Prevention of Corruption Act, 1988, especially sections 17, 17A and 19. | Not safe to rely on. | The Bill applies the anti-corruption route in addition where applicable and prohibits relabelling to evade mandatory safeguards. |
+| This ordinary Bill creates a new fundamental right or permanently entrenches itself against Parliament. | Legal interpretation | Constitution, Articles 13 and 368. | Not safe to rely on. | The Bill now creates a statutory right and durability safeguards; the separate working constitutional-amendment route must complete Article 368/basic-structure/federal analysis before it can be treated as a fundamental-right proposal. |
+
+**Current preflight:** 119 mechanical prompts, principally because this clean draft deliberately contains proposed statutory text rather than inline citations. The applicable primary authorities and limitations are recorded in the research pack and provenance ledger.
+
+**Result: not safe to rely on for introduction.** The current-law source record supports preliminary drafting but not a formal legislative conclusion.

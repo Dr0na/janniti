@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "document": {"title": "Police package consolidation", "jurisdiction": "India; State adoption model", "as_of_date": "2026-08-11"},
+  "claims": [
+    {
+      "id": "claim-001",
+      "text": "Public order and police are State List subjects, while criminal procedure is a Concurrent List subject.",
+      "classification": "current_law",
+      "status": "verified_with_source_acceptance_pending",
+      "authorities": [{"treatment": "primary source", "title": "Constitution of India", "authority_type": "Constitution", "issuer": "Legislative Department / India Code", "url": "https://upload.indiacode.nic.in/showfile?actid=AC_DH_62_1008_00005_00005_1561028196113&filename=the_constitution_of_india.pdf&type=actfile", "document_date": "official uploaded text", "version_or_stage": "current text to be accepted", "pinpoint": "Articles 245–254; Seventh Schedule List II Entries 1–2 and List III Entry 2", "retrieved_at": "2026-08-11"}],
+      "limitations": "Exact official version and any local constitutional route must be rechecked before a formal instrument.",
+      "reviewer_action": "Use a State model rather than assert blanket Union competence."
+    },
+    {
+      "id": "claim-002",
+      "text": "BNSS contains arrest, medical, health-and-safety, production and detention provisions relevant to this subject.",
+      "classification": "current_law",
+      "status": "verified_at_index_level",
+      "authorities": [{"treatment": "primary source", "title": "Bharatiya Nagarik Suraksha Sanhita, 2023", "authority_type": "Central Act", "issuer": "India Code", "url": "https://www.indiacode.nic.in/handle/123456789/21419?locale=en", "document_date": "2023", "version_or_stage": "current record to be accepted", "pinpoint": "Sections 35, 46–62", "retrieved_at": "2026-08-11"}],
+      "limitations": "Exact text, rules and State implementation must be checked before any cross-reference or amendment.",
+      "reviewer_action": "Do not draft a consequential amendment schedule yet."
+    },
+    {
+      "id": "claim-003",
+      "text": "The Supreme Court’s 2019 Prakash Singh compliance order describes a rule-of-law and non-interference police-reform objective.",
+      "classification": "case_holding",
+      "status": "limited_proposition_verified",
+      "authorities": [{"treatment": "primary source", "title": "Prakash Singh v. Union of India, order", "authority_type": "Supreme Court order", "issuer": "Supreme Court of India", "url": "https://api.sci.gov.in/supremecourt/1996/79972/79972_1996_Order_16-Jan-2019.pdf", "document_date": "2019-01-16", "version_or_stage": "official order", "pinpoint": "pp. 5–6", "retrieved_at": "2026-08-11"}],
+      "limitations": "This ledger does not establish the complete 2006 judgment, its later history, or compliance in any State.",
+      "reviewer_action": "Retrieve the original judgment and relevant State compliance records before relying on exact directions."
+    },
+    {
+      "id": "claim-004",
+      "text": "A model State framework separating governance, complaint intake, investigation, prosecution, discipline and adjudication is the recommended policy option.",
+      "classification": "policy_option",
+      "status": "proposed",
+      "authorities": [],
+      "limitations": "This is a design recommendation, not current law or a factual assertion.",
+      "reviewer_action": "Test against local law, budgets, consultation and qualified review."
+    }
+  ]
+}

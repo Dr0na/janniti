@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "032",
+  "topic": "Electoral democracy code consolidation",
+  "as_of_date": "2026-08-11",
+  "jurisdictions": [{"name": "India", "coverage_status": "researched_with_state_ut_implementation_limit", "repositories_checked": ["https://www.indiacode.nic.in/", "https://www.eci.gov.in/", "https://www.sci.gov.in/"]}],
+  "findings": [
+    {"id": "f-001", "instrument_type": "Act", "title": "Representation of the People Act, 1950", "jurisdiction": "India", "status": "in_force", "official_sources": [{"url": "https://www.indiacode.nic.in/handle/123456789/1663?locale=en", "publisher": "India Code", "pinpoint": "ss. 21–24, 31–32", "retrieved_at": "2026-08-11"}], "limitations": "Clause-by-clause rules crosswalk pending."},
+    {"id": "f-002", "instrument_type": "Act", "title": "Chief Election Commissioner and Other Election Commissioners Act, 2023", "jurisdiction": "India", "status": "in_force", "official_sources": [{"url": "https://www.indiacode.nic.in/handle/123456789/19721?view_type=browse", "publisher": "India Code", "pinpoint": "ss. 4–7", "retrieved_at": "2026-08-11"}], "limitations": "Later judicial history pending."},
+    {"id": "f-003", "instrument_type": "Judgment", "title": "Association for Democratic Reforms v Union of India, 2024 INSC 113", "jurisdiction": "India", "status": "reported", "official_sources": [{"url": "https://api.sci.gov.in/supremecourt/2017/27935/27935_2017_1_1501_50573_Judgement_15-Feb-2024.pdf", "publisher": "Supreme Court of India", "pinpoint": "judgment", "retrieved_at": "2026-08-11"}], "limitations": "Exact holding/later history requires expert verification."},
+    {"id": "f-004", "instrument_type": "Judgment", "title": "Association for Democratic Reforms v Election Commission of India, 2024 INSC 341", "jurisdiction": "India", "status": "reported", "official_sources": [{"url": "https://api.sci.gov.in/supremecourt/2023/10857/10857_2023_2_1501_52646_Judgement_26-Apr-2024.pdf", "publisher": "Supreme Court of India", "pinpoint": "pp. 4–7, 20–26 and 35–38", "retrieved_at": "2026-08-11"}], "limitations": "The judgment does not substitute for current independent technical, operational, accessibility, fiscal or State/UT capacity evidence; its later procedural history must be checked before final reliance."}
+  ],
+  "gaps": ["State/UT topic-specific implementation material", "full delegated-law crosswalk", "case-law later history", "public consultation"],
+  "next_step": "validate"
+}

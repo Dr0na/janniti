@@ -66,11 +66,11 @@
     },
     {
       "matter_id": "008",
-      "title": "National Clean Air Water and Environmental Accountability Bill",
-      "status": "completed",
+      "title": "Clean Air, Water Bodies, Environmental Accountability and Single-Use Plastic Prohibition Bill",
+      "status": "in_progress",
       "jurisdiction": "India (Union)",
-      "as_of_date": "2026-07-29",
-      "path": "008-national-clean-air-water-and-environmental-accountability-bill",
+      "as_of_date": "2026-08-10",
+      "path": "008-clean-air-water-bodies-and-environmental-accountability-bill",
       "related_matters": []
     },
     {
@@ -256,6 +256,64 @@
         "004",
         "020",
         "024"
+      ]
+    },
+    {
+      "matter_id": "029",
+      "title": "Non-Human Animal Protection and Anti-Exploitation Bill",
+      "status": "in_progress",
+      "jurisdiction": "India \u2014 Union Parliament; Concurrent List entry 17 (prevention of cruelty to animals), subject to verification of connected fields",
+      "as_of_date": "2026-08-09",
+      "path": "029-non-human-animal-protection-and-anti-exploitation-bill",
+      "related_matters": []
+    },
+    {
+      "matter_id": "030",
+      "title": "Generated bill duplication and overlap review",
+      "status": "completed",
+      "jurisdiction": null,
+      "as_of_date": null,
+      "path": "030-generated-bill-duplication-and-overlap-review",
+      "related_matters": []
+    },
+    {
+      "matter_id": "031",
+      "title": "Bill consolidation and completeness remediation plan",
+      "status": "completed",
+      "jurisdiction": null,
+      "as_of_date": null,
+      "path": "031-bill-consolidation-and-completeness-remediation-plan",
+      "related_matters": []
+    },
+    {
+      "matter_id": "032",
+      "title": "Electoral democracy code consolidation",
+      "status": "internal_architecture_complete_pending_external_review",
+      "jurisdiction": "India (Union and State/UT implementation interfaces)",
+      "as_of_date": "2026-08-11",
+      "path": "032-electoral-democracy-code-consolidation",
+      "related_matters": [
+        "002",
+        "003",
+        "023",
+        "031"
+      ]
+    },
+    {
+      "matter_id": "033",
+      "title": "Police Governance and Accountability Package Consolidation",
+      "status": "in_progress",
+      "jurisdiction": "India; State and Union Territory policing, with Union criminal-procedure interfaces",
+      "as_of_date": "2026-08-11",
+      "path": "033-police-governance-and-accountability-package-consolidation",
+      "related_matters": [
+        "016",
+        "017",
+        "018",
+        "019",
+        "020",
+        "021",
+        "031"
       ]
     }
   ]

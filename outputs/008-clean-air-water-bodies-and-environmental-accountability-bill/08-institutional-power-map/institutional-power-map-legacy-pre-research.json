@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "008",
+  "title": "National Clean Air Water and Environmental Accountability Bill",
+  "actors": [
+    {
+      "id": "parliament",
+      "name": "Parliament of India"
+    },
+    {
+      "id": "nepa",
+      "name": "National Environmental Protection Authority (NEPA)"
+    },
+    {
+      "id": "supreme_court",
+      "name": "Supreme Court / National Green Tribunal"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "parliament",
+      "to": "nepa",
+      "power": "rulemaking"
+    },
+    {
+      "from": "supreme_court",
+      "to": "nepa",
+      "power": "adjudication"
+    }
+  ]
+}

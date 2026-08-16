@@ -1,0 +1,9 @@
+# [Source Authentication Register](https://www.indiacode.nic.in/) — Final Amendment Schedule
+
+| Source ID | Official document | Retrieval result | Snapshot | Acceptance status | Required human action |
+|---|---|---|---|---|---|
+| rpa-1951 | [Representation of the People Act, 1951](https://www.indiacode.nic.in/bitstream/123456789/2096/1/Rp1951.pdf) | Official India Code English PDF retrieved 2026-08-11; s.61A and s.169 extracted. | `snapshots/rpa-1951-20260811T170620Z.pdf` and sidecar JSON. | Pending human review. | Verify current consolidation, Gazette amendments, English authority and exact sections 61A/169. |
+| conduct-of-elections-rules-1961 | [Conduct of Elections Rules, 1961](https://www.indiacode.nic.in/ViewFileUploaded?path=AC_CEN_3_81_00001_195143_1517807327542/rulesindividualfile/&file=2.conduct_of_election_rules%2C_1961.doc.pdf) | Official India Code English PDF retrieved 2026-08-11; EVM chapter, count/custody rules and Forms located. | `snapshots/conduct-of-elections-rules-1961-20260811T170629Z.pdf` and sidecar JSON. | Pending human review. | Verify completeness/currentness, Gazette changes, every affected rule/form and instruction inventory. |
+| cec-act-2023 | [CEC and Other ECs Act, 2023](https://www.indiacode.nic.in/bitstream/123456789/19721/1/a2023-49.pdf) | Official India Code English PDF retrieved 2026-08-11; ss.6–8 extracted. | `snapshots/cec-act-2023-20260811T170630Z.pdf` and sidecar JSON. | Pending human review. | Verify current status, Gazette history, authoritative text and litigation/docket status. |
+
+No source has been accepted solely because it was downloaded, hashed or text-extracted. The final amendment schedule relies on the texts only as pending-review evidence, in accordance with `governance/SOURCE-ACCEPTANCE.md` and the official [India Code source](https://www.indiacode.nic.in/).

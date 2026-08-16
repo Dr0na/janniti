@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "title": "Proposed Model State Police Governance and Custody Integrity Framework",
+  "jurisdiction": "India — State adoption model; Union criminal-procedure interfaces reserved",
+  "as_of": "2026-08-11",
+  "actors": [
+    {"id": "state_legislature", "name": "State Legislature", "type": "legislature"},
+    {"id": "state_executive", "name": "State Executive", "type": "executive"},
+    {"id": "security_commission", "name": "State Police Governance Commission", "type": "oversight_body"},
+    {"id": "police_establishment_board", "name": "Police Establishment Board", "type": "service_body"},
+    {"id": "police", "name": "Police Service and assigned investigator", "type": "investigator"},
+    {"id": "complaints_authority", "name": "Independent Police Complaints Authority", "type": "complaints_body"},
+    {"id": "external_investigator", "name": "Predetermined external investigator", "type": "investigator"},
+    {"id": "prosecution", "name": "Independent prosecution function", "type": "prosecutor"},
+    {"id": "disciplinary_authority", "name": "Disciplinary authority", "type": "disciplinary_body"},
+    {"id": "court", "name": "Constitutional and criminal court", "type": "court"},
+    {"id": "auditor", "name": "Independent auditor / legislative committee", "type": "auditor"},
+    {"id": "public", "name": "Complainant and public", "type": "public"}
+  ],
+  "relationships": [
+    {"from": "state_legislature", "to": "state_executive", "power": "funding", "check": "published appropriation, audit and constitutional review", "public_record": true},
+    {"from": "state_legislature", "to": "security_commission", "power": "rulemaking", "check": "statutory limits, published reports and court review", "public_record": true},
+    {"from": "state_executive", "to": "police", "power": "administration", "check": "written non-case-specific policy only; reasons, audit and court review", "public_record": true},
+    {"from": "security_commission", "to": "police", "power": "policy_guidance", "check": "no case direction; public minutes and judicial review", "public_record": true},
+    {"from": "police_establishment_board", "to": "police", "power": "service_posting", "check": "published criteria, conflict rules, reasons, appeal and equality audit", "public_record": true},
+    {"from": "public", "to": "complaints_authority", "power": "complaint", "check": "accessible filing, acknowledgement and anti-retaliation duty", "public_record": true},
+    {"from": "complaints_authority", "to": "external_investigator", "power": "referral", "check": "pre-set allocation, written reasons, access log and court review", "public_record": true},
+    {"from": "external_investigator", "to": "prosecution", "power": "evidence_referral", "check": "recorded evidence chain and disclosed reasons", "public_record": true},
+    {"from": "prosecution", "to": "court", "power": "prosecution", "check": "open court, reasons, defence rights and appeal", "public_record": true},
+    {"from": "disciplinary_authority", "to": "police", "power": "discipline", "check": "notice, hearing, reasoned outcome, appeal and no interference with criminal case", "public_record": true},
+    {"from": "court", "to": "state_executive", "power": "judicial_review", "check": "reasoned judgment and appellate review", "public_record": true},
+    {"from": "auditor", "to": "security_commission", "power": "audit", "check": "public audit report and legislative hearing", "public_record": true},
+    {"from": "auditor", "to": "complaints_authority", "power": "audit", "check": "public aggregate audit and court review", "public_record": true}
+  ]
+}
