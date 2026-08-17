@@ -16,8 +16,8 @@ The consolidated working Bill is a broad policy draft covering human food, anima
 
 | Source | Treatment |
 |---|---|
-| `not-ready-food-integrity-and-grave-public-health-harm-module.md` | Preserved unchanged as the detailed policy source text. |
-| `not-ready-for-introduction-food-feed-and-delivery-integrity-bill.md` | Consolidated self-contained working Bill. It retains the substantive clauses and adds a Bill title/long-title frame. |
+| Former `not-ready-food-integrity-and-grave-public-health-harm-module.md` | Removed on 17 August 2026 after a textual comparison found no unique operative content; its provenance is retained in the consolidation record. |
+| `not-ready-for-introduction-food-feed-and-delivery-integrity-bill.md` | Sole consolidated self-contained working Bill. It retains the substantive clauses, Bill title/long-title frame and later BNS/BNSS schedules. |
 | `03-validation/hygiene-enforcement-loophole-register.md` | Preserved as the adversarial test and repair ledger; it is not incorporated into the clean working Bill. |
 
 ## Authority and legal route

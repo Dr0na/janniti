@@ -2,8 +2,8 @@
 
 ## Compared documents
 
-- Preserved source: `01-draft/not-ready-food-integrity-and-grave-public-health-harm-module.md`
-- Consolidated working Bill: `01-draft/not-ready-for-introduction-food-feed-and-delivery-integrity-bill.md`
+- Former source module: `01-draft/not-ready-food-integrity-and-grave-public-health-harm-module.md` (removed on 17 August 2026 as duplicate after consolidation; this record preserves the comparison history).
+- Sole consolidated working Bill: `01-draft/not-ready-for-introduction-food-feed-and-delivery-integrity-bill.md`
 
 ## Material changes
 
