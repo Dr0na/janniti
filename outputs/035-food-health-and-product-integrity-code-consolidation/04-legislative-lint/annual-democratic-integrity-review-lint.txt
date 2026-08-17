@@ -1,0 +1,1 @@
+Legislative lint: no mechanical findings in outputs/035-food-health-and-product-integrity-code-consolidation/13-democratic-quality-scorecard/annual-democratic-integrity-review.md

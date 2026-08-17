@@ -1,0 +1,3 @@
+Legislative lint: 1 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/11-public-legal-accessibility/legal-aid-and-compensation-protocol.md
+L008 [High] L5: Eligibility must be transparent, non-discriminatory and reviewable. Support may include advice, translation, disability access, emergency evidence preservation, representation, interim protection and referral to statutory compensation. Compensation must be determined by a competent independent authority on evidence and reasons; it must not require waiver of future lawful remedies.
+  Review: Exceptional power may lack expiry; add duration and renewal safeguards.

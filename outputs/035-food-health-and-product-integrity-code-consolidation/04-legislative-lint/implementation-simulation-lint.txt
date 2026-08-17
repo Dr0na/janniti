@@ -1,0 +1,1 @@
+Legislative lint: no mechanical findings in outputs/035-food-health-and-product-integrity-code-consolidation/09-democratic-impact-monitor/implementation-simulation.md

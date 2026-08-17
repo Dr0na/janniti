@@ -1,0 +1,9 @@
+Legislative lint: 4 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/03-validation/master-package-overlap-and-loophole-audit.md
+L010 [High] L7: | Deliberate adulteration | BNS section 274 and FSS Act section 59 can arise from the same event. | Double punishment, unclear charging, selective escalation. | Retain distinct elements; record the act, mental state and harm relied on; court addresses overlap; no duplicate sanction for the same offence. | Addressed in BNS/FSS interface schedule. |
+  Review: Penalty provision; verify clear elements, mental state, defences, and proportionality.
+L015 [High] L10: | Kitchen visibility | Food-safety transparency can conflict with DPDP privacy and worker dignity. | Surveillance, doxxing, extortion and discriminatory monitoring. | No audio/private areas; mask identifiers; minimum retention; non-video alternative; access logs; no unrelated use. | Addressed in DPDP schedule; final data-law commencement check pending. |
+  Review: Privacy/secrecy risk; add necessity, minimisation, authorisation, and audit.
+L008 [High] L14: | Emergency powers | Incident response can become indefinite central control. | Arbitrary closure, secrecy and federal displacement. | Objective trigger, published reasons, fixed expiry, State participation, court remedy, public summary and no case-specific prosecution direction. | Addressed in working Bill; final statutory vehicle required. |
+  Review: Exceptional power may lack expiry; add duration and renewal safeguards.
+L008 [High] L20: 3. A licence suspension, recall or emergency hold requires a separate evidence threshold and review route; it does not establish criminal guilt.
+  Review: Exceptional power may lack expiry; add duration and renewal safeguards.

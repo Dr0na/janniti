@@ -1,0 +1,9 @@
+Legislative lint: 4 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/02-legal-review/proposed-legal-metrology-food-platform-declaration-rule.md
+L001 [High] L23: (4) The Central Government shall prescribe measurement and verification methods, accessibility standards, correction procedure, proportional sanctions and appeal. No person may be penalised without notice, evidence, reasons and an effective review route, except for a temporary, necessary and proportionate urgent safety measure.
+  Review: Subjective threshold; define objective facts and evidence.
+L008 [High] L23: (4) The Central Government shall prescribe measurement and verification methods, accessibility standards, correction procedure, proportional sanctions and appeal. No person may be penalised without notice, evidence, reasons and an effective review route, except for a temporary, necessary and proportionate urgent safety measure.
+  Review: Exceptional power may lack expiry; add duration and renewal safeguards.
+L009 [High] L23: (4) The Central Government shall prescribe measurement and verification methods, accessibility standards, correction procedure, proportional sanctions and appeal. No person may be penalised without notice, evidence, reasons and an effective review route, except for a temporary, necessary and proportionate urgent safety measure.
+  Review: Process gap; require notice, hearing, reasons, and independent authorisation.
+L013 [Medium] L27: Legal Metrology Act section 18 is the statutory declaration anchor. The official current Packaged Commodities Rules PDF route was identified but could not be independently snapshot from the automated environment; the exact source version and any intervening amendments require designated review before formal notification.
+  Review: Indirect-evasion risk; apply safeguards to delegates and technology.

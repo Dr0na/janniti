@@ -1,0 +1,5 @@
+Legislative lint: 2 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/14-legal-change-monitoring/food-integrity-legal-change-monitoring-routine.md
+L015 [High] L5: Monitor India Code and Gazette for the FSS Act, BNS, BNSS, Consumer Protection, Legal Metrology, DPDP and Environment Acts; FSSAI regulations; e-Gazette rules; State/UT sources listed in `knowledge-base/state-ut-source-registry.json`; and official Supreme Court/High Court decisions.
+  Review: Privacy/secrecy risk; add necessity, minimisation, authorisation, and audit.
+L008 [High] L15: Critical events—repeal, commencement, court stay/invalidity, new criminal/emergency power, material data-rights change or recall rule—pause affected claims and prompt immediate review. Material events are updated within ten working days; routine events are logged monthly.
+  Review: Exceptional power may lack expiry; add duration and renewal safeguards.

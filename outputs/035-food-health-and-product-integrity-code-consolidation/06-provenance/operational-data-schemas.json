@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Minimum machine-readable operational records; fields must be implemented subject to applicable law and data minimisation.",
+  "records": {
+    "evidence_custody": ["event_id", "item_or_sample_id", "collector_role", "timestamp", "location_minimised", "seal_id", "transfer_log", "access_log", "retention_rule"],
+    "laboratory_result": ["sample_id", "method", "accreditation", "quality_control", "result", "uncertainty", "analyst_conflict_check", "report_date", "referral_status"],
+    "recall": ["recall_id", "risk_basis", "batch_scope", "public_notice", "supply_chain_notice", "completion_status", "review_date"],
+    "price_disclosure": ["seller_id", "item_id", "quantity_basis", "direct_price", "platform_price", "mandatory_charges", "tax", "discount_funder", "commission_or_margin", "timestamp"],
+    "refund": ["order_id", "request_time", "basis", "decision", "decision_reasons", "credit_time", "interest_if_due", "review_route"],
+    "complaint": ["complaint_id", "category", "acknowledgement_time", "anti_retaliation_flag", "evidence_hold", "outcome", "reasons", "appeal_route"],
+    "audit": ["audit_id", "scope", "method", "conflicts", "findings", "uncertainty", "corrective_owner", "deadline", "public_summary"]
+  }
+}

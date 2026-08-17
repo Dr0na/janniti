@@ -1,0 +1,3 @@
+Legislative lint: 1 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/03-validation/red-team-exercise-manual.md
+L008 [High] L11: | Emergency label used to keep a business closed indefinitely. | Narrow trigger, fixed expiry, published reasons, independent review and court access. |
+  Review: Exceptional power may lack expiry; add duration and renewal safeguards.

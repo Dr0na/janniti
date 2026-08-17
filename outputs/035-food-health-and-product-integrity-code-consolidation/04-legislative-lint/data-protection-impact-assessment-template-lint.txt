@@ -1,0 +1,3 @@
+Legislative lint: 1 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/02-legal-review/data-protection-impact-assessment-template.md
+L013 [Medium] L3: For each video, location, order, complaint, whistleblower or evidence system, record purpose, lawful authority, affected persons, fields, recipient, retention, security, automated decision, cross-border transfer, risk, alternative, mitigation, grievance and review date.
+  Review: Indirect-evasion risk; apply safeguards to delegates and technology.

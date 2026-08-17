@@ -1,0 +1,5 @@
+Legislative lint: 2 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/06-provenance/evidence-vault-and-retention-policy.md
+L001 [High] L5: Retention must be lawful, necessary and published by category. Preserve material evidence through limitation, review and appeal periods; securely delete data no longer needed; issue legal holds for credible disputes; and disclose material inculpatory and exculpatory evidence through lawful process. No authority, laboratory, platform or contractor may alter, conceal, destroy or substitute material evidence.
+  Review: Subjective threshold; define objective facts and evidence.
+L013 [Medium] L5: Retention must be lawful, necessary and published by category. Preserve material evidence through limitation, review and appeal periods; securely delete data no longer needed; issue legal holds for credible disputes; and disclose material inculpatory and exculpatory evidence through lawful process. No authority, laboratory, platform or contractor may alter, conceal, destroy or substitute material evidence.
+  Review: Indirect-evasion risk; apply safeguards to delegates and technology.

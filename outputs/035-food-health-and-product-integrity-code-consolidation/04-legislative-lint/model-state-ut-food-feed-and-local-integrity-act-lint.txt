@@ -1,0 +1,7 @@
+Legislative lint: 3 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/02-legal-review/model-state-ut-food-feed-and-local-integrity-act.md
+L008 [High] L23: ## 4. Inspection, sampling and emergency action
+  Review: Exceptional power may lack expiry; add duration and renewal safeguards.
+L010 [High] L33: (1) No person may be targeted for a licence action, inspection, closure, penalty, warning, funding denial or public stigma because of lawful political belief, criticism, journalism, association, protected characteristic, market rivalry, whistleblowing or complaint.
+  Review: Penalty provision; verify clear elements, mental state, defences, and proportionality.
+L013 [Medium] L57: (2) No direction, contract, algorithm, funding condition or local by-law may achieve indirectly what this Act or the Constitution prohibits directly.
+  Review: Indirect-evasion risk; apply safeguards to delegates and technology.

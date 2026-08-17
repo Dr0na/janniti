@@ -1,0 +1,3 @@
+Legislative lint: 1 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/02-legal-review/standard-operating-procedures.md
+L015 [High] L13: Verify risk; preserve evidence; issue a targeted timely warning; notify supply-chain actors; monitor completion; publish a privacy-safe closure report; and maintain restoration/compensation route. Do not use recall notices to defame or punish without evidence.
+  Review: Privacy/secrecy risk; add necessity, minimisation, authorisation, and audit.

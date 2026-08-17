@@ -1,0 +1,7 @@
+Legislative lint: 3 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/02-legal-review/rulemaking-and-notification-toolkit.md
+L007 [High] L16: Do not use guidance, licence conditions, contracts, platform terms, algorithms or informal directions to create an offence, tax/levy, compulsory surveillance, final closure, secret exemption or restriction that requires statute or published rule.
+  Review: Secret-law risk; require publication or court-controlled confidentiality.
+L010 [High] L16: Do not use guidance, licence conditions, contracts, platform terms, algorithms or informal directions to create an offence, tax/levy, compulsory surveillance, final closure, secret exemption or restriction that requires statute or published rule.
+  Review: Penalty provision; verify clear elements, mental state, defences, and proportionality.
+L015 [High] L16: Do not use guidance, licence conditions, contracts, platform terms, algorithms or informal directions to create an offence, tax/levy, compulsory surveillance, final closure, secret exemption or restriction that requires statute or published rule.
+  Review: Privacy/secrecy risk; add necessity, minimisation, authorisation, and audit.

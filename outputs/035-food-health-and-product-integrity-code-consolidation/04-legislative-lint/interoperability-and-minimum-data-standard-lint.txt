@@ -1,0 +1,5 @@
+Legislative lint: 2 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/06-provenance/interoperability-and-minimum-data-standard.md
+L001 [High] L3: FSSAI, States, local bodies, laboratories, platforms and consumer forums may exchange only verified, necessary, purpose-limited data using documented schemas, access controls, audit logs, retention rules and correction mechanisms.
+  Review: Subjective threshold; define objective facts and evidence.
+L015 [High] L5: Every exchange must identify sender, recipient, lawful purpose, fields, legal basis, time, retention, onward-transfer restriction and review route. No shared system may be used for political profiling, unrelated policing, market manipulation, labour surveillance or discriminatory scoring. A person must have lawful access, correction and grievance routes consistent with applicable data law.
+  Review: Privacy/secrecy risk; add necessity, minimisation, authorisation, and audit.

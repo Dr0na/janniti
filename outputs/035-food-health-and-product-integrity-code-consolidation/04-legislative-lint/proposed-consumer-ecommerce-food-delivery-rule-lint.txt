@@ -1,0 +1,5 @@
+Legislative lint: 2 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/02-legal-review/proposed-consumer-ecommerce-food-delivery-rule.md
+L001 [High] L25: (5) A public kitchen-view feature may be offered or required only under a valid food-safety law and in compliance with applicable data-protection law. It shall exclude private areas and audio unless lawfully necessary, protect workers and customers from identification or harassment, provide accessible non-video information, and not be used for unrelated surveillance, commercial profiling or retaliation.
+  Review: Subjective threshold; define objective facts and evidence.
+L015 [High] L25: (5) A public kitchen-view feature may be offered or required only under a valid food-safety law and in compliance with applicable data-protection law. It shall exclude private areas and audio unless lawfully necessary, protect workers and customers from identification or harassment, provide accessible non-video information, and not be used for unrelated surveillance, commercial profiling or retaliation.
+  Review: Privacy/secrecy risk; add necessity, minimisation, authorisation, and audit.
