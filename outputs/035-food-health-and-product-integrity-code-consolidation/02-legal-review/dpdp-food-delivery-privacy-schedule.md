@@ -4,7 +4,7 @@
 
 The Digital Personal Data Protection Act, 2023 is the statutory baseline for digital personal data. Gazette notification G.S.R. 843(E), published on 13 November 2025, brings specified institutional provisions into force immediately, specified provisions after one year, and sections 3–5, most of section 6, sections 7–17, most of section 27, sections 28–34, 36–37 and section 44(2) after eighteen months. As of 16 August 2026, the latter group is not yet in force.
 
-Source: [G.S.R. 843(E), 13 November 2025](https://egazette.gov.in/WriteReadData/2025/267647.pdf). A hash-pinned official snapshot is retained in `14-legal-change-monitoring/snapshots/`; acceptance remains pending the designated human review required by repository governance.
+Source: [G.S.R. 843(E), 13 November 2025](https://egazette.gov.in/WriteReadData/2025/267647.pdf). The hash-pinned official snapshot in `14-legal-change-monitoring/snapshots/` was accepted by the designated human reviewer on 18 August 2026. The acceptance is limited to this commencement notification, not the complete DPDP Act/Rules source set.
 
 ## Proposed sectoral rule
 

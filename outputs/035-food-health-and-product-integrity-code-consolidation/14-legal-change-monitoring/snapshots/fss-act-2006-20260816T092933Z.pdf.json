@@ -5,5 +5,8 @@
   "retrieved_at": "2026-08-16T09:29:33+00:00",
   "file": "fss-act-2006-20260816T092933Z.pdf",
   "sha256": "a7a9e0c935b08461f81fa0adba0282a93683bd1f78419a166e802feeddaa6228",
-  "acceptance_status": "pending_human_review"
+  "acceptance_status": "accepted_by_designated_human_reviewer",
+  "accepted_at": "2026-08-18T08:14:52+05:30",
+  "accepted_by": "Designated human reviewer (repository user; identity not separately recorded)",
+  "acceptance_scope": "Exact retained snapshot and cited FSS Act pinpoints only; see source-acceptance-decision-2026-08-18.md."
 }

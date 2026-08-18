@@ -5,5 +5,8 @@
   "retrieved_at": "2026-08-16T12:18:14+00:00",
   "file": "dpdp-commencement-2025-20260816T121814Z.pdf",
   "sha256": "6df25cd8c76ac8eb18cae81835d51d51128ffbf2ed13262843395efddf0998e5",
-  "acceptance_status": "pending_human_review"
+  "acceptance_status": "accepted_by_designated_human_reviewer",
+  "accepted_at": "2026-08-18T08:14:52+05:30",
+  "accepted_by": "Designated human reviewer (repository user; identity not separately recorded)",
+  "acceptance_scope": "Exact retained commencement notification only; it does not accept the complete DPDP Act/Rules source set."
 }

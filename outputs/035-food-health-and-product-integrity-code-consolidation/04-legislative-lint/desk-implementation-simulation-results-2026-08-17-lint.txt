@@ -1,0 +1,5 @@
+Legislative lint: 2 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/09-democratic-impact-monitor/desk-implementation-simulation-results-2026-08-17.md
+L013 [Medium] L11: | Captured authority targets a critic | Pass with conditions | Neutral criteria, auditable allocation, comparator data, ombudsman and court remedy are specified. | Untested | Publish case-allocation algorithm/method and independently test selective-enforcement complaints. |
+  Review: Indirect-evasion risk; apply safeguards to delegates and technology.
+L010 [High] L23: 4. Test data with no real enforcement, penalty, closure or adverse consequence.
+  Review: Penalty provision; verify clear elements, mental state, defences, and proportionality.

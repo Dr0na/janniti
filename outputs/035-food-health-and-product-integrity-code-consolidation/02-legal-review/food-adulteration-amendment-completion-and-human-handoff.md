@@ -13,7 +13,7 @@
 
 ## Actions reserved to a designated human reviewer, sponsor or competent authority
 
-1. Accept the three official PDF snapshots in accordance with `governance/SOURCE-ACCEPTANCE.md`, recording the reviewer, date, controlling version, hash, scope and impacts.
+1. **Completed on 18 August 2026:** the three official PDF snapshots were accepted in `14-legal-change-monitoring/source-acceptance-decision-2026-08-18.md`. Recheck the official routes immediately before formal filing.
 2. Decide, on evidence and legislative-policy advice, whether the two-year mandatory minimum and five-year maximum are proportionate and should be introduced.
 3. Confirm the current parliamentary form, sponsor, House, ancillary memoranda, admissibility and filing route; no agent may invent these.
 4. Obtain final qualified counsel review of the interaction between BNS section 274, FSS Act section 59, charging practice, sentencing overlap and any State implementation practice.
@@ -21,4 +21,4 @@
 
 ## Deliberately not claimed
 
-This record does not claim enactment, introduction, source acceptance, prosecutorial approval, constitutional adjudication or parliamentary admissibility. The wider Food, Feed and Delivery Integrity Bill remains a separate in-progress package with additional Union/State, fiscal, delegated-law and consultation work.
+This record does not claim enactment, introduction, prosecutorial approval, constitutional adjudication or parliamentary admissibility. It records narrow human acceptance of the three listed official snapshots, not acceptance of every source needed for the wider package. The wider Food, Feed and Delivery Integrity Bill remains a separate in-progress package with additional Union/State, fiscal, delegated-law and consultation work.

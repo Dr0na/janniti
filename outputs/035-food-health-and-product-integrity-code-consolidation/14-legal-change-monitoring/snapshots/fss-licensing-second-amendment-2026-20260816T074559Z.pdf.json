@@ -5,5 +5,8 @@
   "retrieved_at": "2026-08-16T07:45:59+00:00",
   "file": "fss-licensing-second-amendment-2026-20260816T074559Z.pdf",
   "sha256": "1caa68be56a52c5d6ec54d578075bbf311fd316f4053b20e3cf5f677ecdbd78d",
-  "acceptance_status": "pending_human_review"
+  "acceptance_status": "accepted_by_designated_human_reviewer",
+  "accepted_at": "2026-08-18T08:14:52+05:30",
+  "accepted_by": "Designated human reviewer (repository user; identity not separately recorded)",
+  "acceptance_scope": "Exact retained Gazette amendment only; it does not accept the full consolidated Licensing and Registration Regulations or earlier amendments."
 }

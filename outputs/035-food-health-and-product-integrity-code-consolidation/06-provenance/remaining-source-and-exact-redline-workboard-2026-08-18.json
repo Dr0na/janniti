@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "matter_id": "035",
+  "as_of_date": "2026-08-18",
+  "classification": "source-acquisition and exact-redline control record; not current law",
+  "routes": [
+    {
+      "id": "BNS-BNSS",
+      "vehicle": "Food Adulteration (Punishment and Procedure) Amendment Bill, 2026",
+      "status": "accepted_source_set_for_retained_pinpoints",
+      "required_sources": ["BNS section 274", "BNSS First Schedule and section 23", "FSS Act sections 41-47 and 59"],
+      "next_action": "Immediate official-text recheck, counsel review and filing review."
+    },
+    {
+      "id": "FSS-PACKAGING",
+      "vehicle": "FSS Packaging plastic schedule",
+      "status": "partial_accepted_source_set",
+      "required_sources": ["Packaging Regulations, 2018", "all amending Gazettes", "2025 Packaging amendment", "relied-on directions and guidelines"],
+      "next_action": "Acquire and accept base text and chronology before exact regulation 4 redline."
+    },
+    {
+      "id": "FSS-LICENSING",
+      "vehicle": "FSS licensing, hygiene and expiry schedule",
+      "status": "partial_accepted_source_set",
+      "required_sources": ["Licensing and Registration Regulations, 2011", "all amending Gazettes", "2026 Licensing amendment"],
+      "next_action": "Acquire and accept base text and chronology before exact schedule redline."
+    },
+    {
+      "id": "FSS-LABELLING-CLAIMS",
+      "vehicle": "FSS labelling, advertising and claims schedule",
+      "status": "incomplete_source_set",
+      "required_sources": ["Labelling and Display Regulations, 2020", "Advertising and Claims Regulations, 2018", "all amendments", "FSS Act sections 23-24"],
+      "next_action": "Acquire official Gazette PDFs, accept them and separate statutory insertions from regulation substitutions."
+    },
+    {
+      "id": "CONSUMER-ECOMMERCE",
+      "vehicle": "Consumer Protection (E-Commerce) food-delivery amendment rule",
+      "status": "incomplete_source_set",
+      "required_sources": ["Consumer Protection Act, 2019", "E-Commerce Rules, 2020", "corrigendum", "2021 amendment", "relevant CCPA instruments"],
+      "next_action": "Acquire and accept all current texts before exact rule 4A redline."
+    },
+    {
+      "id": "LEGAL-METROLOGY",
+      "vehicle": "Legal Metrology food-platform declaration rule",
+      "status": "incomplete_source_set",
+      "required_sources": ["Legal Metrology Act, 2009", "Packaged Commodities Rules, 2011", "all amendments"],
+      "next_action": "Acquire and accept the current consolidated rule chronology before choosing exact insertion point."
+    },
+    {
+      "id": "DPDP",
+      "vehicle": "Food-delivery privacy schedule",
+      "status": "partial_accepted_source_set",
+      "required_sources": ["DPDP Act, 2023", "DPDP Rules", "all commencement notifications", "relevant sectoral instruments"],
+      "next_action": "Complete data-flow and commencement crosswalk without creating a surveillance exception."
+    },
+    {
+      "id": "ENVIRONMENT-WASTE",
+      "vehicle": "Environment, waste and disposal schedule",
+      "status": "partial_accepted_source_set",
+      "required_sources": ["Environment (Protection) Act, 1986", "Plastic Waste Management Rules, 2016", "all amendments", "State/local waste and fiscal instruments"],
+      "next_action": "Complete Union/State/local competence and fiscal split before exact redlines."
+    },
+    {
+      "id": "STATE-UT-LOCAL",
+      "vehicle": "Model State/UT and local implementation package",
+      "status": "source-routing-only",
+      "required_sources": ["legislature", "law department", "official Gazette", "High Court source for each State and Union Territory"],
+      "next_action": "Create a jurisdiction-specific source manifest and compatibility note for every adoption jurisdiction."
+    }
+  ],
+  "retrieval_incident": {
+    "date": "2026-08-18",
+    "official_host": "FSSAI",
+    "result": "Two direct URLs for 2025 and 2026 Labelling and Display Gazette documents returned HTML access pages rather than identified PDF bytes.",
+    "handling": "No local snapshot or checksum was created; no source status was changed."
+  }
+}

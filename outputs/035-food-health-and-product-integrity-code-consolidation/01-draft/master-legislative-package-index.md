@@ -2,6 +2,13 @@
 
 **Status: draft package; not enacted and not ready for introduction.** This index separates instruments by lawful route. No reader should treat the collection as one Bill or as a substitute for current law.
 
+## Authoritative drafting hierarchy
+
+1. The broad working Bill is the sole policy source for the Food, Feed and Delivery Integrity framework.
+2. The targeted BNS/BNSS Bill is the sole criminal-law amendment text; its provisions must not be copied into the broad Bill.
+3. A source-accepted, exact amendment schedule will become authoritative for each separately enabled statute or regulation. Until then, every schedule is a proposed drafting vehicle, not operative law.
+4. Research, validation, implementation, monitoring and consultation records support the drafts but do not create duties, offences or powers.
+
 ## A. Union criminal-law Bill
 
 | Instrument | Purpose | File |
@@ -12,7 +19,7 @@
 
 | Instrument | Purpose | File |
 |---|---|---|
-| Food, Feed and Delivery Integrity Bill working text | Policy core, safeguards and Schedule A/B/C concepts; it is not a unified filing instrument. | `not-ready-for-introduction-food-feed-and-delivery-integrity-bill.md` |
+| Food, Feed and Delivery Integrity Bill working text | Policy core, safeguards and Schedule A concept; it is not a unified filing instrument and does not duplicate the BNS/BNSS Bill. | `not-ready-for-introduction-food-feed-and-delivery-integrity-bill.md` |
 | FSS claims amendment | Evidence, sponsor, research-integrity and correction framework. | `../02-legal-review/proposed-fss-evidence-and-food-claims-amendment.md` |
 | Licensing/hygiene schedule | Traceability and FEFO/FIFO redline. | `../02-legal-review/side-by-side-fss-licensing-hygiene-amendment-schedule.md` |
 | Packaging/plastic schedule | Food-contact plastic prohibition and 2025 rPET repeal proposal. | `../02-legal-review/side-by-side-fss-plastic-amendment-schedule.md` |

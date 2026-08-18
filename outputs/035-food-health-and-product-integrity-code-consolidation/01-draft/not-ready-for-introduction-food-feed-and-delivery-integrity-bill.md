@@ -1129,29 +1129,3 @@ The Food Safety and Standards (Packaging) First Amendment Regulations, 2025 are 
 (3) Section 23A and this Schedule shall come into force on the expiry of one hundred and eighty days from the date on which this Act receives the assent of the President. No new procurement, manufacture or import of a plastic article, plastic material or plastic component for use in the food chain is permitted after the date of assent.
 
 (4) The Central Government and the Food Authority shall, within ninety days from the date of assent, publish the independently verifiable non-plastic material-safety standards, test methods, small-business support and enforcement safeguards necessary to give effect to section 23A. Failure to publish them does not authorise a plastic exception after commencement.”
-
-## Schedule B — Amendment of punishment for intentional food adulteration
-
-### 1. Amendment of section 274 of the Bharatiya Nyaya Sanhita, 2023
-
-In section 274 of the Bharatiya Nyaya Sanhita, 2023, for the words “imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both”, substitute the following:—
-
-“imprisonment of either description for a term which shall not be less than two years but which may extend to five years, and shall also be liable to fine.”
-
-### 2. Prospective application
-
-This Schedule applies only to an offence committed on or after its commencement. It neither alters the elements of section 274 nor affects any other offence, procedure, classification, bail rule, defence, appeal or remedy except by an express and separately enacted provision.
-
-## Schedule C — Consequential procedure classification for intentional food adulteration
-
-### 1. Amendment of the First Schedule to the Bharatiya Nagarik Suraksha Sanhita, 2023
-
-In the First Schedule to the Bharatiya Nagarik Suraksha Sanhita, 2023, in the entry relating to section 274 of the Bharatiya Nyaya Sanhita, 2023, substitute the following entry:—
-
-| Section | Offence | Punishment | Cognizable or non-cognizable | Bailable or non-bailable | By what Court triable |
-|---|---|---|---|---|---|
-| 274 | Adulterating food or drink intended for sale, so as to make the same noxious. | Imprisonment for not less than 2 years but which may extend to 5 years, and fine. | Non-cognizable. | Bailable. | Chief Judicial Magistrate. |
-
-### 2. Preservation of procedural safeguards
-
-Nothing in this Schedule authorises arrest without warrant, alters the prosecution’s burden of proof, creates a reverse burden, removes bail, restricts a defence, weakens lawful sampling or laboratory safeguards, or limits judicial review, appeal or constitutional remedy.

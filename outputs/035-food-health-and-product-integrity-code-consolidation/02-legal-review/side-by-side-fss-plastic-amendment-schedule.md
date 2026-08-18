@@ -8,7 +8,7 @@ This is an exact proposed legislative schedule for the discrete recycled-PET per
 
 The Food Safety and Standards (Packaging) First Amendment Regulations, 2025, official Gazette text dated 28 March 2025, substitutes clause (e) of sub-regulation (4) of regulation 4 of the Food Safety and Standards (Packaging) Regulations, 2018. Its operative text allows products made of recycled polyethylene terephthalate to be used for packaging, storing, carrying or dispensing food when standards and guidelines are notified by the Food Authority, subject to applicable national standards or regulations. It states that it comes into force on publication in the Official Gazette.
 
-Source: [official Gazette of India text](https://egazette.gov.in/WriteReadData/2025/262130.pdf), retrieved 16 August 2026; local snapshot SHA-256 `5c1481cc3262a2abf909172db56ff6395207db4969b55fcadf3fb15db38dd4d1`, pending documented human source acceptance.
+Source: [official Gazette of India text](https://egazette.gov.in/WriteReadData/2025/262130.pdf), retrieved 16 August 2026; local snapshot SHA-256 `5c1481cc3262a2abf909172db56ff6395207db4969b55fcadf3fb15db38dd4d1`, accepted by the designated human reviewer on 18 August 2026. The acceptance is limited to this amending notification, not the full consolidated Packaging Regulations or later amendments.
 
 ## Proposed amendment schedule
 

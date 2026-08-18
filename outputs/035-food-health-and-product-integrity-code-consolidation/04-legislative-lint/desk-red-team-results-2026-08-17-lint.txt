@@ -1,0 +1,5 @@
+Legislative lint: 2 finding(s) in outputs/035-food-health-and-product-integrity-code-consolidation/03-validation/desk-red-team-results-2026-08-17.md
+L008 [High] L11: | Emergency label sustains closure | Objective trigger, fixed expiry, reasons, independent review and court access. | Pass with conditions | Exact statutory vehicle and emergency-review roster remain unresolved. | High | Legislature/regulator before any emergency power. |
+  Review: Exceptional power may lack expiry; add duration and renewal safeguards.
+L015 [High] L13: | Kitchen-view system used for surveillance | Privacy limits, no-audio/private-area rule, access logging and non-video alternative. | Pass with conditions | DPIA, retention configuration and worker consultation have not occurred. | High | Data fiduciary/regulator before pilot. |
+  Review: Privacy/secrecy risk; add necessity, minimisation, authorisation, and audit.

@@ -59,7 +59,7 @@
       "instrument_type": "Regulations",
       "title": "Food Safety and Standards (Packaging) First Amendment Regulations, 2025",
       "jurisdiction": "India",
-      "status": "official_gazette_text_located_source_acceptance_pending",
+            "status": "official_gazette_snapshot_accepted_for_amending_notification_only",
       "official_sources": [
         {
           "url": "https://www.fssai.gov.in/upload/uploadfiles/files/FSS_Packaging_Amendment%20Regulations2025%20related%20to%20recycled%20plastics.pdf",
@@ -68,7 +68,7 @@
           "retrieved_at": "2026-08-16"
         }
       ],
-      "limitations": "A complete chronological consolidation and source-acceptance record remains required."
+            "limitations": "The 2025 amending-notification snapshot was accepted on 2026-08-18. A complete chronological consolidation and acceptance record for the base regulation and other amendments remains required."
     },
     {
       "id": "finding-004",

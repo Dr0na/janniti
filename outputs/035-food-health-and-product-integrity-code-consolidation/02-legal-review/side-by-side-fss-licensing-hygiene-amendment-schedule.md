@@ -8,7 +8,7 @@ Draft legislative text for the verified 2026 licensing baseline; not current law
 
 The Food Safety and Standards (Licensing and Registration of Food Businesses) Second Amendment Regulations, 2026 substitutes Schedule 2 Annexure 3 serial 8 so that daily production/raw-material records are not required of non-manufacturing businesses, and substitutes Schedule 4 Part II paragraph 5.2.5 so FIFO/FEFO storage does not apply to retailers.
 
-Official Gazette: [CG-DL-E-24062026-273797](https://egazette.gov.in/WriteReadData/2026/273797.pdf). Local snapshot SHA-256: `1caa68be56a52c5d6ec54d578075bbf311fd316f4053b20e3cf5f677ecdbd78d`; pending documented human source acceptance.
+Official Gazette: [CG-DL-E-24062026-273797](https://egazette.gov.in/WriteReadData/2026/273797.pdf). Local snapshot SHA-256: `1caa68be56a52c5d6ec54d578075bbf311fd316f4053b20e3cf5f677ecdbd78d`; accepted by the designated human reviewer on 18 August 2026. The acceptance is limited to this amending notification, not the base Licensing and Registration Regulations or earlier amendments.
 
 ## Proposed amendment text
 

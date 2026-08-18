@@ -5,5 +5,8 @@
   "retrieved_at": "2026-08-16T12:18:14+00:00",
   "file": "plastic-waste-rules-amendment-2026-20260816T121814Z.pdf",
   "sha256": "9d36c687d5e4ed9f1a2bc26f8477a2eda6e0b8080be83cbb39d700b4a7e517de",
-  "acceptance_status": "pending_human_review"
+  "acceptance_status": "accepted_by_designated_human_reviewer",
+  "accepted_at": "2026-08-18T08:14:52+05:30",
+  "accepted_by": "Designated human reviewer (repository user; identity not separately recorded)",
+  "acceptance_scope": "Exact retained Gazette amendment only; it does not accept the full consolidated Plastic Waste Management Rules, 2016 or State/local instruments."
 }

@@ -17,7 +17,8 @@ The consolidated working Bill is a broad policy draft covering human food, anima
 | Source | Treatment |
 |---|---|
 | Former `not-ready-food-integrity-and-grave-public-health-harm-module.md` | Removed on 17 August 2026 after a textual comparison found no unique operative content; its provenance is retained in the consolidation record. |
-| `not-ready-for-introduction-food-feed-and-delivery-integrity-bill.md` | Sole consolidated self-contained working Bill. It retains the substantive clauses, Bill title/long-title frame and later BNS/BNSS schedules. |
+| `not-ready-for-introduction-food-feed-and-delivery-integrity-bill.md` | Sole consolidated working Bill for the broad food, feed, delivery and accountability policy framework. It deliberately excludes the BNS/BNSS text to avoid duplicating the companion criminal-law Bill. |
+| `not-ready-for-introduction-bns-food-adulteration-amendment-bill.md` | Sole canonical text for the targeted BNS section 274 and BNSS First Schedule amendments. |
 | `03-validation/hygiene-enforcement-loophole-register.md` | Preserved as the adversarial test and repair ledger; it is not incorporated into the clean working Bill. |
 
 ## Authority and legal route
@@ -34,7 +35,7 @@ The consolidated working Bill is a broad policy draft covering human food, anima
 
 **User request (verbatim):** “Amend it and increase the sentence to minimum 2 years.”
 
-**Refined task and route:** Draft a targeted Union amendment to BNS section 274, preserving its offence elements while changing its maximum six-month sentence to a statutory minimum of two years. This is **draft text**, not current law. The exact amendment is in `02-legal-review/bns-food-adulteration-minimum-sentence-amendment-schedule.md` and has been incorporated as Schedule B of the working Bill.
+**Refined task and route:** Draft a targeted Union amendment to BNS section 274, preserving its offence elements while changing its maximum six-month sentence to a statutory minimum of two years. This is **draft text**, not current law. The exact amendment is in `02-legal-review/bns-food-adulteration-minimum-sentence-amendment-schedule.md` and the sole canonical legislative text is `01-draft/not-ready-for-introduction-bns-food-adulteration-amendment-bill.md`.
 
 **Current-law baseline:** BNS section 274 currently provides imprisonment up to six months, a fine up to Rs. 5,000, or both. The controlling text is India Code, Act 45 of 2023, section 274, p. 94. A hash-pinned official PDF snapshot is retained in `14-legal-change-monitoring/snapshots/`; its acceptance status remains pending human review under `governance/SOURCE-ACCEPTANCE.md`.
 
@@ -44,7 +45,7 @@ The consolidated working Bill is a broad policy draft covering human food, anima
 
 **Authority and rights assessment:** Parliament may legislate criminal law under Concurrent List Entry 1, subject to Articles 14, 20(1), 21 and Article 254. A mandatory minimum sentence is a substantial liberty interference. The retained proof requirements, prospective commencement, independent prosecution and judicial trial remain necessary safeguards, but the minimum term warrants parliamentary proportionality evidence and formal legislative scrutiny before enactment.
 
-**Remaining exact gate:** The current official BNS text is now pinpointed, but formal readiness is blocked by pending human source acceptance, official parliamentary filing-format verification, BNSS classification review, FSS Act interaction review and all-existing-matter gate conditions.
+**Remaining exact gate:** The retained official BNS, BNSS and FSS Act snapshots were accepted by the designated human reviewer on 18 August 2026, but formal readiness remains blocked by an immediately current-text recheck, official parliamentary filing-format verification, BNSS classification review, FSS Act interaction review and all-existing-matter gate conditions.
 
 ## Introduction-readiness blockers
 

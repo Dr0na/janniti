@@ -5,5 +5,8 @@
   "retrieved_at": "2026-08-16T07:44:18+00:00",
   "file": "fss-packaging-first-amendment-2025-20260816T074418Z.pdf",
   "sha256": "5c1481cc3262a2abf909172db56ff6395207db4969b55fcadf3fb15db38dd4d1",
-  "acceptance_status": "pending_human_review"
+  "acceptance_status": "accepted_by_designated_human_reviewer",
+  "accepted_at": "2026-08-18T08:14:52+05:30",
+  "accepted_by": "Designated human reviewer (repository user; identity not separately recorded)",
+  "acceptance_scope": "Exact retained Gazette amendment only; it does not accept the full consolidated Packaging Regulations, 2018 or later amendments."
 }

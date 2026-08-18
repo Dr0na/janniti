@@ -5,5 +5,8 @@
   "retrieved_at": "2026-08-16T09:29:33+00:00",
   "file": "bnss-2023-20260816T092933Z.pdf",
   "sha256": "54b27a4f2786dc5867c2cc23391e8359b3b29125684119acbc652d1630a716d6",
-  "acceptance_status": "pending_human_review"
+  "acceptance_status": "accepted_by_designated_human_reviewer",
+  "accepted_at": "2026-08-18T08:14:52+05:30",
+  "accepted_by": "Designated human reviewer (repository user; identity not separately recorded)",
+  "acceptance_scope": "Exact retained snapshot and cited BNSS First Schedule/section 23 pinpoints only; see source-acceptance-decision-2026-08-18.md."
 }

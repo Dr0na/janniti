@@ -4,7 +4,7 @@
 
 The 2026 amendment to the Plastic Waste Management Rules, 2016 substitutes rule 11(2) so recycled plastic packaging/commodities must meet the specified Indian Standard and applicable FSSAI food-contact marking/labelling requirements. It also inserts rule 12(3A)–(3C), allocating local-body, local-authority, Gram Panchayat and district-panchayat enforcement functions for waste-generator and specified plastic restrictions.
 
-Source: [Plastic Waste Management Rules amendment, 2026](https://egazette.gov.in/writeReadData/2026/271465.pdf). A hash-pinned official snapshot is retained in `14-legal-change-monitoring/snapshots/`; acceptance remains pending the designated human review required by repository governance.
+Source: [Plastic Waste Management Rules amendment, 2026](https://egazette.gov.in/writeReadData/2026/271465.pdf). The hash-pinned official snapshot in `14-legal-change-monitoring/snapshots/` was accepted by the designated human reviewer on 18 August 2026. The acceptance is limited to this amending notification, not the consolidated 2016 Rules or State/local instruments.
 
 ## Proposed legislative route
 
